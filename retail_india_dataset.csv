@@ -1,0 +1,2201 @@
+Order ID,Order Date,Region,State,Product Category,Sub-Category,Sales,Profit,Quantity,Customer Segment
+ORD-770487,2022-08-17,North,Delhi,Electronics,Phones,123031.93,29105.32,3,Consumer
+ORD-329258,2024-05-09,East,West Bengal,Office Supplies,Paper,2635.28,652.26,3,Home Office
+ORD-452944,2022-07-29,South,Kerala,Furniture,Chairs,59188.07,16035.18,4,Corporate
+ORD-969693,2022-05-23,North,Punjab,Office Supplies,Scissors & Cutters,421.2,114.52,1,Consumer
+ORD-766563,2024-01-18,North,Himachal Pradesh,Electronics,Printers,42410.9,-2457.52,3,Home Office
+ORD-771088,2022-04-25,South,Kerala,Furniture,Chairs,23744.01,7307.17,1,Home Office
+ORD-429963,2024-07-28,South,Telangana,Furniture,Sofas,66682.63,-4624.55,2,Corporate
+ORD-214975,2022-11-10,West,Madhya Pradesh,Furniture,Storage,25821.08,10327.33,2,Home Office
+ORD-112038,2023-11-28,North,Haryana,Electronics,Printers,57737.61,11637.59,6,Consumer
+ORD-769987,2024-11-05,South,Karnataka,Furniture,Sofas,150000,-8444.71,6,Home Office
+ORD-945964,2023-09-22,North,Rajasthan,Office Supplies,Binders,10160.23,4295.13,4,Consumer
+ORD-791798,2022-12-05,West,Madhya Pradesh,Office Supplies,Envelopes,3940.13,1049.62,4,Consumer
+ORD-804314,2024-11-25,North,Uttar Pradesh,Electronics,Cameras,71740.95,9161.59,3,Consumer
+ORD-132938,2023-11-08,North,Himachal Pradesh,Furniture,Sofas,51482.45,5565.41,1,Corporate
+ORD-946721,2024-04-13,South,Andhra Pradesh,Electronics,Accessories,7561.68,1265.2,2,Consumer
+ORD-522179,2023-11-26,South,Karnataka,Electronics,Accessories,1417.69,99.01,1,Home Office
+ORD-179046,2022-07-20,Central,Chhattisgarh,Office Supplies,Scissors & Cutters,2497.87,498.94,5,Consumer
+ORD-497382,2024-07-20,West,Madhya Pradesh,Electronics,Tablets,13637.53,2386.55,1,Corporate
+ORD-163918,2023-10-05,East,Assam,Office Supplies,Envelopes,1174.73,336.22,1,Consumer
+ORD-225710,2024-12-06,North,Himachal Pradesh,Office Supplies,Paper,573.08,185.64,1,Consumer
+ORD-888387,2022-05-29,East,Assam,Office Supplies,Binders,3529.42,-112.89,2,Consumer
+ORD-559469,2024-12-19,West,Goa,Office Supplies,Binders,5951.38,2211.54,7,Corporate
+ORD-385577,2023-12-04,East,Bihar,Furniture,Bookcases,96388.97,-7653.35,6,Corporate
+ORD-374680,2022-11-27,East,Jharkhand,Furniture,Chairs,25469.38,4934.55,1,Corporate
+ORD-710805,2022-10-31,South,Kerala,Office Supplies,Scissors & Cutters,3298.9,706.88,9,Corporate
+ORD-526117,2022-11-13,North,Delhi,Office Supplies,Scissors & Cutters,816.14,144.47,1,Home Office
+ORD-920391,2023-05-24,West,Maharashtra,Electronics,Phones,81150.24,17536.39,5,Consumer
+ORD-933980,2023-04-12,East,Jharkhand,Electronics,Phones,146621.0,4519.26,8,Home Office
+ORD-662262,2023-11-10,South,Kerala,Electronics,Tablets,30192.39,5538.43,1,Home Office
+ORD-221263,2023-01-25,West,Maharashtra,Furniture,Sofas,142831.57,9507.34,3,Consumer
+ORD-552248,2023-11-08,East,West Bengal,Office Supplies,Pens & Stationery,2238.33,651.07,2,Corporate
+ORD-497562,2022-12-23,North,Rajasthan,Office Supplies,Pens & Stationery,824.87,205.25,1,Corporate
+ORD-587575,2024-06-23,South,Andhra Pradesh,Office Supplies,Scissors & Cutters,4362.48,1173.99,4,Corporate
+ORD-197923,2022-10-29,North,Haryana,Furniture,Chairs,48874.94,14685.85,2,Corporate
+ORD-502630,2024-10-09,South,Tamil Nadu,Office Supplies,Scissors & Cutters,1820.77,699.97,4,Corporate
+ORD-152657,2022-09-06,West,Goa,Office Supplies,Labels,4568.3,2055.74,3,Corporate
+ORD-970914,2024-08-30,West,Goa,Office Supplies,Envelopes,878.49,142.68,2,Consumer
+ORD-452161,2022-06-15,North,Himachal Pradesh,Electronics,Laptops,51493.96,9869.43,1,Consumer
+ORD-316881,2024-05-10,West,Maharashtra,Office Supplies,Scissors & Cutters,2617.13,950.19,3,Consumer
+ORD-976325,2023-07-13,South,Kerala,Furniture,Storage,41620.23,6670.83,4,Home Office
+ORD-752483,2024-12-29,North,Rajasthan,Furniture,Chairs,19199.72,4977.31,3,Consumer
+ORD-442722,2023-11-23,North,Haryana,Electronics,Phones,71985.85,13624.66,2,Home Office
+ORD-335113,2023-05-22,South,Karnataka,Electronics,Accessories,9113.59,2723.15,3,Corporate
+ORD-275939,2023-10-01,Central,Uttarakhand,Electronics,Printers,15610.9,3380.45,1,Consumer
+ORD-817497,2022-03-26,North,Punjab,Electronics,Printers,35487.27,5024.52,2,Corporate
+ORD-968962,2024-06-10,East,Bihar,Furniture,Sofas,114379.8,9156.25,4,Consumer
+ORD-357420,2022-06-27,North,Haryana,Furniture,Storage,13886.13,1846.79,2,Consumer
+ORD-370902,2023-11-29,East,Bihar,Furniture,Sofas,104121.62,16211.94,7,Corporate
+ORD-614663,2022-07-10,North,Delhi,Electronics,Cameras,45887.54,-687.74,2,Corporate
+ORD-468900,2024-07-18,North,Uttar Pradesh,Office Supplies,Pens & Stationery,896.62,403.48,1,Corporate
+ORD-294143,2023-01-28,North,Himachal Pradesh,Furniture,Sofas,147661.28,24847.29,3,Consumer
+ORD-842411,2024-12-29,South,Tamil Nadu,Furniture,Tables,95490.33,-4624.97,3,Consumer
+ORD-457256,2024-09-05,South,Andhra Pradesh,Electronics,Printers,21827.72,-978.3,3,Corporate
+ORD-536390,2024-06-25,East,Jharkhand,Electronics,Cameras,33922.94,-2667.92,1,Corporate
+ORD-377501,2022-06-16,South,Tamil Nadu,Electronics,Accessories,6344.3,1643.93,2,Corporate
+ORD-837135,2024-07-18,North,Punjab,Office Supplies,Storage Boxes,10117.49,3046.5,3,Consumer
+ORD-220351,2022-05-27,West,Goa,Furniture,Storage,26992.01,7509.42,3,Consumer
+ORD-184349,2023-10-23,South,Karnataka,Office Supplies,Scissors & Cutters,5038.37,1313.91,5,Corporate
+ORD-961322,2022-12-25,East,Bihar,Electronics,Cameras,68686.25,2300.16,2,Consumer
+ORD-268637,2023-11-07,North,Himachal Pradesh,Office Supplies,Scissors & Cutters,1394.32,418.79,4,Consumer
+ORD-221552,2024-08-04,South,Kerala,Furniture,Storage,28799.72,6135.85,3,Home Office
+ORD-559398,2024-09-19,Central,Jammu & Kashmir,Office Supplies,Storage Boxes,2562.68,798.84,1,Consumer
+ORD-982277,2022-08-21,South,Karnataka,Furniture,Bookcases,15655.9,4191.92,2,Consumer
+ORD-678043,2022-10-24,Central,Jammu & Kashmir,Office Supplies,Paper,4304.11,8.13,5,Home Office
+ORD-632401,2023-12-08,West,Madhya Pradesh,Furniture,Bookcases,91829.89,3966.47,5,Consumer
+ORD-433632,2022-11-08,South,Telangana,Office Supplies,Pens & Stationery,7123.57,3205.61,5,Corporate
+ORD-579123,2022-11-13,West,Goa,Electronics,Printers,13021.06,1234.22,2,Corporate
+ORD-896290,2022-07-05,South,Tamil Nadu,Furniture,Bookcases,27863.24,1842.93,6,Corporate
+ORD-407618,2022-10-26,North,Himachal Pradesh,Office Supplies,Paper,1412.81,263.79,1,Corporate
+ORD-343467,2024-07-30,South,Andhra Pradesh,Office Supplies,Storage Boxes,2072.72,348.81,2,Home Office
+ORD-716113,2024-09-16,North,Punjab,Furniture,Bookcases,15620.53,2138.57,1,Home Office
+ORD-916118,2024-10-14,Central,Chhattisgarh,Furniture,Bookcases,6912.29,837.85,1,Corporate
+ORD-813928,2022-10-08,Central,Jammu & Kashmir,Electronics,Accessories,2184.1,644.29,1,Consumer
+ORD-924718,2023-11-25,North,Uttar Pradesh,Electronics,Laptops,150000,16009.62,5,Corporate
+ORD-483542,2022-01-29,South,Kerala,Furniture,Bookcases,46541.53,8826.51,3,Consumer
+ORD-126240,2023-11-03,North,Uttar Pradesh,Furniture,Storage,31976.79,5147.03,6,Consumer
+ORD-139019,2022-08-26,West,Gujarat,Electronics,Tablets,98423.77,24470.89,3,Corporate
+ORD-262029,2023-07-27,North,Haryana,Furniture,Tables,42387.06,5816.97,5,Corporate
+ORD-776149,2024-01-05,North,Uttar Pradesh,Office Supplies,Scissors & Cutters,2190.64,475.65,2,Consumer
+ORD-925013,2023-11-15,South,Telangana,Electronics,Cameras,15634.96,940.4,1,Consumer
+ORD-254721,2022-01-06,Central,Chhattisgarh,Furniture,Tables,35325.68,6568.95,1,Consumer
+ORD-378258,2022-04-18,North,Uttar Pradesh,Office Supplies,Labels,1830.93,641.75,2,Corporate
+ORD-573962,2024-10-28,East,Assam,Electronics,Printers,50697.36,-884.73,8,Consumer
+ORD-737846,2022-10-31,North,Himachal Pradesh,Furniture,Bookcases,25820.76,5566.37,2,Corporate
+ORD-551096,2023-04-13,West,Madhya Pradesh,Furniture,Chairs,19751.04,3829.93,2,Corporate
+ORD-597305,2022-05-18,South,Andhra Pradesh,Electronics,Printers,13903.46,-1608.11,2,Corporate
+ORD-802559,2022-09-08,West,Madhya Pradesh,Office Supplies,Storage Boxes,1720.41,422.69,1,Corporate
+ORD-262246,2024-09-14,South,Telangana,Electronics,Tablets,103806.6,20613.09,3,Corporate
+ORD-904711,2023-07-02,North,Punjab,Office Supplies,Pens & Stationery,1330.82,360.6,1,Consumer
+ORD-763928,2022-03-04,East,Jharkhand,Furniture,Bookcases,8362.92,762.94,1,Home Office
+ORD-725185,2022-11-15,East,West Bengal,Electronics,Printers,29965.04,-2128.7,2,Corporate
+ORD-652530,2023-09-24,North,Rajasthan,Electronics,Laptops,77460.42,-3528.47,2,Consumer
+ORD-108105,2024-10-15,South,Andhra Pradesh,Furniture,Tables,76598.52,-1675.53,2,Home Office
+ORD-428267,2024-05-05,North,Punjab,Electronics,Cameras,53238.94,10894.53,2,Consumer
+ORD-557925,2022-08-05,East,Assam,Electronics,Tablets,72816.07,10179.83,4,Corporate
+ORD-303322,2023-12-17,Central,Jammu & Kashmir,Office Supplies,Paper,754.28,123.43,1,Corporate
+ORD-179013,2024-10-08,East,Assam,Furniture,Sofas,150000,27387.86,3,Corporate
+ORD-935012,2023-12-22,North,Haryana,Electronics,Tablets,79913.2,11375.7,5,Home Office
+ORD-744883,2024-11-04,East,West Bengal,Furniture,Sofas,73476.24,-8075.97,3,Corporate
+ORD-629057,2022-12-20,West,Madhya Pradesh,Furniture,Sofas,25971.28,4498.81,1,Consumer
+ORD-726928,2023-11-17,South,Andhra Pradesh,Electronics,Printers,106129.95,16272.6,5,Home Office
+ORD-425301,2024-03-13,West,Maharashtra,Electronics,Accessories,5934.43,1820.29,3,Consumer
+ORD-836971,2024-12-14,East,Assam,Electronics,Tablets,81226.1,11314.3,2,Consumer
+ORD-410160,2024-12-14,North,Rajasthan,Electronics,Accessories,1450.35,308.97,1,Corporate
+ORD-273580,2024-06-15,North,Himachal Pradesh,Electronics,Accessories,11657.28,3232.71,3,Consumer
+ORD-947903,2024-06-21,North,Haryana,Furniture,Storage,81351.3,6008.66,8,Consumer
+ORD-362147,2024-11-22,North,Delhi,Electronics,Cameras,22624.28,3400.8,1,Consumer
+ORD-127965,2024-04-29,East,Odisha,Electronics,Phones,18085.88,4164.79,2,Corporate
+ORD-781533,2023-11-18,South,Kerala,Office Supplies,Labels,1778.0,526.67,3,Consumer
+ORD-368355,2024-12-16,West,Gujarat,Electronics,Phones,34597.19,6317.63,1,Consumer
+ORD-977330,2024-10-20,South,Telangana,Furniture,Tables,5322.26,678.43,1,Corporate
+ORD-478120,2024-11-05,East,West Bengal,Electronics,Accessories,2366.45,525.04,1,Consumer
+ORD-170841,2023-12-08,East,West Bengal,Office Supplies,Storage Boxes,5166.99,844.18,4,Corporate
+ORD-829168,2022-10-04,West,Madhya Pradesh,Electronics,Laptops,38204.19,9836.76,1,Corporate
+ORD-955015,2024-08-27,West,Gujarat,Electronics,Phones,101406.07,23766.74,5,Home Office
+ORD-879414,2024-03-02,South,Andhra Pradesh,Electronics,Cameras,10230.51,2025.79,1,Consumer
+ORD-551524,2023-10-20,North,Punjab,Electronics,Cameras,53326.79,702.24,4,Home Office
+ORD-744718,2024-06-09,Central,Chhattisgarh,Electronics,Printers,25392.58,3479.52,2,Consumer
+ORD-989894,2024-06-16,South,Kerala,Electronics,Cameras,12142.83,859.12,1,Consumer
+ORD-180620,2022-10-09,North,Himachal Pradesh,Electronics,Phones,16039.68,3028.92,1,Home Office
+ORD-223481,2024-07-02,East,Jharkhand,Electronics,Laptops,150000,-13228.94,5,Consumer
+ORD-464301,2022-11-19,Central,Jammu & Kashmir,Electronics,Tablets,31724.72,2328.05,2,Corporate
+ORD-127560,2022-06-26,North,Himachal Pradesh,Office Supplies,Envelopes,1218.87,278.02,2,Consumer
+ORD-177767,2024-07-10,East,Odisha,Office Supplies,Scissors & Cutters,3016.03,739.61,3,Consumer
+ORD-627290,2024-11-27,South,Kerala,Office Supplies,Paper,4309.06,1156.77,2,Corporate
+ORD-677599,2023-07-17,North,Rajasthan,Electronics,Printers,19124.1,-1642.25,1,Corporate
+ORD-734534,2023-11-23,East,West Bengal,Electronics,Printers,37013.9,-4030.8,4,Corporate
+ORD-416768,2024-09-16,West,Madhya Pradesh,Electronics,Phones,41546.93,5458.98,3,Consumer
+ORD-587002,2023-02-22,South,Kerala,Office Supplies,Scissors & Cutters,1556.92,467.77,2,Consumer
+ORD-353480,2024-08-13,North,Delhi,Electronics,Tablets,150000,3965.18,7,Home Office
+ORD-267457,2023-11-02,West,Gujarat,Office Supplies,Labels,12377.87,3013.43,10,Consumer
+ORD-352422,2022-04-10,North,Himachal Pradesh,Furniture,Bookcases,31720.83,4617.74,2,Consumer
+ORD-377319,2024-01-20,South,Telangana,Electronics,Cameras,18431.42,881.01,1,Corporate
+ORD-753516,2022-09-01,South,Kerala,Office Supplies,Pens & Stationery,2025.86,780.0,3,Consumer
+ORD-731728,2024-11-08,South,Tamil Nadu,Electronics,Tablets,135671.39,26913.15,5,Home Office
+ORD-434002,2022-11-29,East,Bihar,Furniture,Sofas,150000,13003.14,5,Consumer
+ORD-806537,2024-09-10,East,Assam,Office Supplies,Labels,1457.24,-17.06,1,Consumer
+ORD-258787,2024-11-28,North,Himachal Pradesh,Furniture,Storage,8484.81,1810.33,2,Consumer
+ORD-471496,2024-09-28,North,Himachal Pradesh,Electronics,Phones,84294.19,19266.04,3,Consumer
+ORD-910616,2022-10-27,North,Himachal Pradesh,Electronics,Accessories,11961.06,2585.8,3,Corporate
+ORD-384303,2023-07-11,East,Assam,Electronics,Phones,82945.61,10533.62,3,Corporate
+ORD-205428,2022-10-09,East,Odisha,Furniture,Storage,9144.24,1225.11,2,Corporate
+ORD-906066,2022-12-25,West,Maharashtra,Office Supplies,Labels,2744.08,976.79,4,Consumer
+ORD-412886,2023-11-18,Central,Jammu & Kashmir,Furniture,Tables,109995.47,-3987.27,5,Consumer
+ORD-295243,2023-01-31,West,Madhya Pradesh,Office Supplies,Envelopes,1201.67,540.75,2,Consumer
+ORD-360096,2022-01-14,North,Punjab,Office Supplies,Pens & Stationery,2834.22,1275.4,3,Consumer
+ORD-477017,2023-04-29,South,Kerala,Electronics,Printers,36853.55,-4113.34,2,Consumer
+ORD-744481,2023-03-29,South,Karnataka,Furniture,Sofas,76155.26,5930.21,2,Corporate
+ORD-940952,2024-12-17,South,Telangana,Electronics,Cameras,87249.65,19574.39,6,Consumer
+ORD-813341,2024-09-28,East,West Bengal,Furniture,Sofas,65112.89,16210.89,2,Consumer
+ORD-122827,2024-03-21,South,Karnataka,Furniture,Chairs,36816.93,6138.62,2,Home Office
+ORD-595002,2022-03-06,South,Karnataka,Office Supplies,Storage Boxes,6435.47,1588.19,3,Home Office
+ORD-501058,2023-12-14,Central,Uttarakhand,Furniture,Tables,150000,1641.47,5,Consumer
+ORD-583000,2023-12-10,South,Tamil Nadu,Electronics,Printers,37353.76,-1516.87,2,Consumer
+ORD-135207,2022-04-10,South,Andhra Pradesh,Electronics,Laptops,150000,47344.22,4,Home Office
+ORD-704095,2023-10-16,West,Goa,Electronics,Laptops,150000,47851.87,9,Corporate
+ORD-870925,2022-12-25,North,Haryana,Electronics,Tablets,150000,14366.31,7,Consumer
+ORD-891062,2024-08-27,North,Himachal Pradesh,Electronics,Accessories,18184.42,6189.86,6,Home Office
+ORD-684357,2024-12-21,North,Delhi,Electronics,Phones,150000,19301.44,7,Corporate
+ORD-732209,2023-11-13,Central,Chhattisgarh,Office Supplies,Storage Boxes,4285.88,701.4,1,Corporate
+ORD-314447,2023-10-21,North,Rajasthan,Furniture,Bookcases,12013.32,3949.49,1,Consumer
+ORD-980521,2024-01-30,South,Karnataka,Office Supplies,Binders,2836.9,1276.61,1,Corporate
+ORD-537862,2023-08-28,North,Haryana,Furniture,Tables,55822.56,7839.6,2,Home Office
+ORD-772865,2024-10-01,West,Goa,Electronics,Printers,17592.07,1467.0,2,Home Office
+ORD-649395,2024-04-24,East,West Bengal,Office Supplies,Binders,1640.02,672.21,1,Home Office
+ORD-791309,2024-09-26,East,Jharkhand,Electronics,Cameras,89859.72,14042.09,4,Corporate
+ORD-831758,2023-01-03,South,Karnataka,Electronics,Cameras,60021.58,8118.5,2,Consumer
+ORD-525750,2023-04-08,West,Maharashtra,Furniture,Chairs,11343.81,3175.99,1,Corporate
+ORD-158840,2022-06-19,North,Punjab,Furniture,Chairs,139328.09,28816.84,6,Corporate
+ORD-694316,2024-08-31,Central,Jammu & Kashmir,Office Supplies,Envelopes,698.71,283.51,3,Consumer
+ORD-317221,2022-10-23,West,Madhya Pradesh,Office Supplies,Pens & Stationery,576.79,132.25,1,Consumer
+ORD-892313,2022-10-14,West,Maharashtra,Furniture,Bookcases,11392.25,3068.06,1,Consumer
+ORD-906360,2023-10-31,North,Haryana,Furniture,Bookcases,28541.57,2222.87,3,Corporate
+ORD-409727,2022-06-18,North,Himachal Pradesh,Electronics,Accessories,1958.96,440.39,2,Consumer
+ORD-423241,2024-06-29,North,Delhi,Electronics,Accessories,5992.66,1495.4,2,Consumer
+ORD-197584,2022-01-26,North,Uttar Pradesh,Office Supplies,Envelopes,7069.04,1944.55,6,Corporate
+ORD-277820,2024-02-19,North,Punjab,Furniture,Chairs,9071.16,1288.23,1,Consumer
+ORD-358568,2024-10-12,South,Tamil Nadu,Electronics,Phones,150000,39431.75,7,Consumer
+ORD-450996,2022-10-06,East,Odisha,Furniture,Tables,150000,12180.21,8,Corporate
+ORD-512022,2024-01-18,East,Assam,Office Supplies,Paper,3705.51,431.81,3,Consumer
+ORD-842776,2022-10-13,North,Himachal Pradesh,Electronics,Accessories,3826.43,706.82,4,Corporate
+ORD-825309,2022-06-24,North,Himachal Pradesh,Electronics,Printers,40344.91,5468.11,3,Corporate
+ORD-889245,2023-11-11,North,Uttar Pradesh,Electronics,Laptops,127670.44,8632.49,2,Corporate
+ORD-717181,2024-10-21,Central,Uttarakhand,Electronics,Accessories,6978.1,1151.22,7,Consumer
+ORD-922366,2023-12-15,North,Himachal Pradesh,Furniture,Chairs,42367.15,10696.27,2,Corporate
+ORD-272337,2022-11-24,North,Haryana,Electronics,Accessories,4412.21,755.05,3,Consumer
+ORD-873207,2024-05-29,West,Gujarat,Electronics,Printers,29692.28,8021.99,5,Consumer
+ORD-579776,2022-08-22,West,Goa,Furniture,Sofas,29138.57,7190.87,2,Consumer
+ORD-280908,2023-10-04,North,Delhi,Electronics,Laptops,106529.49,11377.95,2,Corporate
+ORD-776604,2022-12-21,North,Delhi,Electronics,Accessories,15066.99,4508.45,3,Consumer
+ORD-304607,2024-11-01,North,Haryana,Furniture,Storage,5679.58,1020.14,2,Consumer
+ORD-663723,2023-08-15,North,Himachal Pradesh,Office Supplies,Labels,984.92,225.22,2,Consumer
+ORD-912764,2024-05-20,West,Gujarat,Electronics,Phones,41794.7,8986.71,2,Home Office
+ORD-913308,2023-05-01,West,Goa,Office Supplies,Envelopes,1097.94,221.15,3,Consumer
+ORD-316656,2023-12-20,East,Odisha,Electronics,Printers,15532.64,-1041.17,1,Corporate
+ORD-531589,2022-09-29,West,Gujarat,Office Supplies,Storage Boxes,2509.9,613.59,2,Corporate
+ORD-758309,2024-04-28,South,Tamil Nadu,Furniture,Bookcases,48847.33,3182.5,3,Corporate
+ORD-911739,2024-12-30,Central,Chhattisgarh,Furniture,Bookcases,47426.26,6686.96,5,Consumer
+ORD-460437,2022-04-10,East,Jharkhand,Electronics,Laptops,50087.87,8812.0,2,Corporate
+ORD-266699,2023-07-16,North,Uttar Pradesh,Electronics,Printers,10945.12,1214.69,1,Corporate
+ORD-345517,2022-07-14,North,Delhi,Furniture,Sofas,31114.43,2662.44,3,Consumer
+ORD-238595,2024-09-05,North,Himachal Pradesh,Office Supplies,Binders,5404.94,1005.69,2,Consumer
+ORD-911032,2022-10-20,East,Assam,Furniture,Storage,9188.34,2305.98,2,Consumer
+ORD-205345,2022-10-14,East,Jharkhand,Electronics,Accessories,2352.3,-140.68,2,Corporate
+ORD-737107,2023-09-10,East,Odisha,Office Supplies,Pens & Stationery,3656.83,1243.59,3,Consumer
+ORD-769077,2023-10-11,West,Madhya Pradesh,Electronics,Printers,13852.14,-1090.67,1,Consumer
+ORD-326222,2024-10-23,North,Haryana,Electronics,Cameras,24548.76,7203.98,2,Home Office
+ORD-262924,2023-11-01,East,West Bengal,Electronics,Accessories,17386.14,-853.72,4,Consumer
+ORD-738407,2022-04-23,West,Gujarat,Electronics,Printers,5170.26,342.27,1,Corporate
+ORD-371840,2022-12-08,West,Goa,Office Supplies,Binders,2571.24,878.5,4,Consumer
+ORD-166974,2022-06-07,East,West Bengal,Furniture,Sofas,16292.4,-1249.14,1,Consumer
+ORD-112884,2023-05-16,North,Delhi,Electronics,Phones,125448.19,-347.27,3,Corporate
+ORD-539740,2023-04-05,North,Himachal Pradesh,Electronics,Phones,37253.5,5692.56,3,Consumer
+ORD-640828,2023-09-29,East,West Bengal,Electronics,Tablets,61528.38,6809.84,3,Consumer
+ORD-720432,2023-05-18,Central,Chhattisgarh,Electronics,Tablets,94250.71,18580.06,3,Consumer
+ORD-873935,2023-09-22,East,Odisha,Furniture,Chairs,55189.95,8114.96,9,Consumer
+ORD-986575,2024-11-30,West,Madhya Pradesh,Office Supplies,Binders,5796.41,1481.78,3,Consumer
+ORD-794622,2022-09-25,North,Punjab,Office Supplies,Labels,6200.4,2238.29,4,Consumer
+ORD-385166,2023-04-24,South,Telangana,Electronics,Phones,25244.04,2309.48,1,Home Office
+ORD-317722,2024-07-14,North,Uttar Pradesh,Electronics,Printers,31141.14,5603.45,2,Consumer
+ORD-998182,2023-11-03,West,Goa,Electronics,Phones,60736.34,15784.93,3,Consumer
+ORD-884417,2023-05-27,South,Karnataka,Electronics,Phones,150000,28470.61,5,Consumer
+ORD-963684,2024-03-31,East,West Bengal,Furniture,Bookcases,30298.92,5365.88,6,Corporate
+ORD-196446,2023-11-11,Central,Chhattisgarh,Electronics,Cameras,59221.18,6162.13,2,Consumer
+ORD-471136,2023-07-18,West,Maharashtra,Furniture,Sofas,21804.21,-1046.11,1,Consumer
+ORD-309146,2024-12-12,Central,Jammu & Kashmir,Office Supplies,Labels,3939.43,1253.33,4,Home Office
+ORD-626797,2023-10-21,South,Kerala,Furniture,Chairs,121828.44,35584.8,6,Corporate
+ORD-344068,2022-11-23,East,Bihar,Furniture,Chairs,103645.34,16456.36,4,Consumer
+ORD-979988,2022-12-22,East,Bihar,Office Supplies,Binders,5986.57,2551.22,4,Corporate
+ORD-616137,2023-09-25,South,Tamil Nadu,Electronics,Laptops,56069.28,17140.25,1,Corporate
+ORD-945619,2022-09-25,South,Kerala,Electronics,Laptops,150000,26642.81,3,Home Office
+ORD-491738,2023-11-21,South,Karnataka,Office Supplies,Labels,8485.47,1280.77,4,Consumer
+ORD-689275,2024-01-01,East,Odisha,Electronics,Printers,20730.68,1619.79,3,Home Office
+ORD-695048,2022-03-08,North,Rajasthan,Electronics,Cameras,21397.0,-1247.72,1,Consumer
+ORD-181586,2023-05-03,North,Himachal Pradesh,Office Supplies,Binders,10875.31,3432.34,5,Consumer
+ORD-319869,2023-12-19,South,Tamil Nadu,Electronics,Accessories,22023.7,4454.27,4,Consumer
+ORD-497108,2023-12-21,South,Andhra Pradesh,Office Supplies,Envelopes,2726.42,1124.34,3,Consumer
+ORD-434198,2022-06-01,West,Gujarat,Office Supplies,Envelopes,8246.29,2630.28,7,Home Office
+ORD-606186,2022-12-04,North,Uttar Pradesh,Electronics,Laptops,150000,30763.08,9,Consumer
+ORD-511987,2024-10-02,North,Haryana,Electronics,Printers,37147.45,2973.69,3,Corporate
+ORD-185916,2024-08-22,East,West Bengal,Furniture,Storage,10854.93,1028.4,1,Consumer
+ORD-337232,2022-11-06,East,West Bengal,Furniture,Sofas,83264.33,-4888.5,2,Home Office
+ORD-820442,2022-06-11,West,Maharashtra,Furniture,Sofas,150000,18078.5,5,Consumer
+ORD-275284,2022-09-16,South,Andhra Pradesh,Electronics,Printers,13925.71,1479.25,1,Corporate
+ORD-946561,2022-05-18,East,Assam,Electronics,Tablets,75361.07,19430.85,2,Corporate
+ORD-217984,2024-04-28,East,Assam,Office Supplies,Binders,13346.97,-958.54,7,Consumer
+ORD-530849,2023-06-25,North,Rajasthan,Furniture,Tables,10034.84,-1093.37,1,Consumer
+ORD-349119,2022-02-11,West,Goa,Electronics,Accessories,17909.17,3624.17,5,Home Office
+ORD-339030,2022-10-03,West,Goa,Electronics,Accessories,2884.62,1009.62,3,Consumer
+ORD-641590,2024-11-21,South,Telangana,Furniture,Sofas,68883.31,7003.04,6,Corporate
+ORD-361609,2023-07-16,North,Haryana,Furniture,Chairs,24967.91,2453.25,3,Home Office
+ORD-597635,2023-12-18,West,Goa,Office Supplies,Storage Boxes,894.45,238.03,1,Home Office
+ORD-917711,2024-11-17,West,Maharashtra,Furniture,Tables,78219.08,13909.48,3,Home Office
+ORD-773962,2023-07-18,North,Punjab,Furniture,Tables,57403.73,17775.49,2,Consumer
+ORD-207282,2023-08-02,South,Tamil Nadu,Electronics,Tablets,108365.29,16815.87,3,Home Office
+ORD-413305,2023-01-21,West,Maharashtra,Office Supplies,Scissors & Cutters,3924.59,1670.93,5,Consumer
+ORD-246726,2023-08-29,North,Haryana,Office Supplies,Envelopes,3088.17,965.02,4,Consumer
+ORD-660605,2022-12-15,West,Gujarat,Electronics,Accessories,1865.69,745.82,1,Corporate
+ORD-291961,2023-11-19,North,Delhi,Office Supplies,Pens & Stationery,2856.65,766.41,2,Consumer
+ORD-156284,2022-05-26,South,Tamil Nadu,Office Supplies,Labels,2004.56,517.7,2,Home Office
+ORD-258102,2023-12-03,East,Jharkhand,Electronics,Printers,6522.12,-425.28,1,Corporate
+ORD-704272,2022-11-21,West,Maharashtra,Electronics,Accessories,7951.56,2180.18,3,Consumer
+ORD-139557,2024-12-29,North,Uttar Pradesh,Office Supplies,Scissors & Cutters,2911.8,706.59,5,Corporate
+ORD-461076,2023-10-02,North,Rajasthan,Electronics,Phones,99319.02,12092.8,5,Corporate
+ORD-725339,2024-12-09,West,Gujarat,Electronics,Accessories,3079.22,1080.21,2,Consumer
+ORD-862491,2022-09-26,South,Telangana,Electronics,Tablets,136718.24,16956.93,4,Consumer
+ORD-771425,2022-02-10,South,Andhra Pradesh,Electronics,Cameras,26950.44,4786.29,1,Consumer
+ORD-541315,2022-10-08,West,Maharashtra,Electronics,Phones,68192.18,20252.72,2,Corporate
+ORD-311469,2023-08-28,East,Odisha,Furniture,Storage,4054.76,290.3,2,Corporate
+ORD-256389,2023-08-30,South,Karnataka,Office Supplies,Scissors & Cutters,1261.92,177.17,1,Consumer
+ORD-874415,2022-08-26,West,Maharashtra,Electronics,Laptops,108249.89,11508.46,3,Home Office
+ORD-197466,2023-01-10,North,Haryana,Electronics,Accessories,7956.31,2641.4,3,Consumer
+ORD-935620,2022-12-08,West,Maharashtra,Office Supplies,Scissors & Cutters,870.06,294.83,1,Consumer
+ORD-498197,2022-09-25,North,Haryana,Furniture,Chairs,9913.23,703.22,1,Corporate
+ORD-810859,2024-12-10,East,Assam,Electronics,Printers,84639.15,3491.32,6,Corporate
+ORD-772561,2024-02-28,West,Maharashtra,Electronics,Laptops,111007.56,11363.46,2,Consumer
+ORD-887931,2024-10-03,North,Punjab,Electronics,Laptops,150000,33192.77,3,Consumer
+ORD-622669,2024-07-04,Central,Jammu & Kashmir,Furniture,Chairs,7576.61,1486.62,2,Corporate
+ORD-930244,2023-11-11,East,Jharkhand,Office Supplies,Pens & Stationery,1551.57,522.74,4,Home Office
+ORD-406166,2024-12-05,South,Karnataka,Furniture,Storage,8336.62,2133.84,1,Home Office
+ORD-511981,2024-07-11,East,Assam,Electronics,Accessories,3812.96,623.51,1,Home Office
+ORD-919023,2022-12-29,South,Karnataka,Electronics,Printers,58859.15,6241.18,3,Home Office
+ORD-826155,2023-05-24,Central,Uttarakhand,Furniture,Tables,26088.36,5412.87,1,Consumer
+ORD-872610,2023-03-22,East,Bihar,Furniture,Tables,150000,6063.42,9,Consumer
+ORD-221011,2023-12-23,East,Jharkhand,Furniture,Sofas,49213.77,-4282.85,1,Corporate
+ORD-268752,2023-08-28,East,Bihar,Office Supplies,Binders,6566.45,1979.28,3,Consumer
+ORD-778553,2024-03-07,West,Goa,Furniture,Chairs,80683.42,30730.07,7,Corporate
+ORD-113595,2023-05-30,West,Madhya Pradesh,Office Supplies,Storage Boxes,11489.69,2313.41,4,Corporate
+ORD-673167,2023-02-01,South,Tamil Nadu,Electronics,Laptops,131031.99,28384.81,4,Consumer
+ORD-987110,2023-06-07,North,Delhi,Electronics,Tablets,100987.52,17303.77,3,Corporate
+ORD-984096,2023-09-09,East,Bihar,Electronics,Printers,16598.86,1927.72,2,Corporate
+ORD-196411,2023-12-17,South,Kerala,Electronics,Tablets,35706.25,6837.95,1,Home Office
+ORD-963699,2022-01-19,North,Delhi,Office Supplies,Envelopes,2662.96,1135.5,6,Consumer
+ORD-934883,2022-08-21,East,Bihar,Electronics,Cameras,90619.34,14073.99,5,Consumer
+ORD-145981,2023-01-30,South,Tamil Nadu,Electronics,Cameras,49854.39,8550.03,2,Consumer
+ORD-818699,2022-11-11,West,Maharashtra,Electronics,Phones,17503.61,5064.35,1,Corporate
+ORD-371212,2024-04-14,East,Jharkhand,Electronics,Accessories,8720.26,1517.23,3,Corporate
+ORD-834928,2022-05-29,East,Bihar,Office Supplies,Pens & Stationery,1697.92,403.79,3,Consumer
+ORD-962057,2024-12-28,West,Goa,Office Supplies,Paper,2069.65,657.33,1,Home Office
+ORD-111691,2022-10-17,South,Telangana,Electronics,Cameras,126336.1,1417.28,7,Consumer
+ORD-532699,2024-11-15,South,Telangana,Office Supplies,Paper,1563.25,562.29,1,Home Office
+ORD-675512,2022-05-30,South,Tamil Nadu,Electronics,Cameras,33865.95,6390.78,2,Consumer
+ORD-787313,2023-04-26,East,Odisha,Electronics,Accessories,6934.8,1581.12,2,Corporate
+ORD-549112,2022-12-12,North,Delhi,Office Supplies,Storage Boxes,7117.26,1436.75,2,Corporate
+ORD-603268,2024-08-05,West,Madhya Pradesh,Furniture,Tables,23607.24,3573.58,3,Consumer
+ORD-869177,2022-11-01,North,Rajasthan,Office Supplies,Pens & Stationery,863.03,388.36,1,Consumer
+ORD-111106,2022-12-06,South,Karnataka,Electronics,Cameras,113688.83,7842.62,3,Consumer
+ORD-611329,2023-04-20,North,Uttar Pradesh,Furniture,Sofas,146700.33,20949.33,6,Consumer
+ORD-148693,2023-10-26,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,4317.6,860.3,4,Home Office
+ORD-181618,2024-11-24,Central,Chhattisgarh,Furniture,Bookcases,49401.91,8378.34,5,Consumer
+ORD-245718,2024-06-19,South,Kerala,Electronics,Laptops,64131.32,12958.57,1,Consumer
+ORD-218844,2024-09-08,South,Andhra Pradesh,Electronics,Phones,29916.86,1991.66,1,Consumer
+ORD-637544,2022-10-28,North,Delhi,Furniture,Storage,22972.12,3505.53,3,Consumer
+ORD-189913,2022-12-16,North,Delhi,Office Supplies,Scissors & Cutters,4512.57,764.24,4,Consumer
+ORD-818894,2022-05-21,North,Uttar Pradesh,Electronics,Cameras,108088.54,10281.79,5,Consumer
+ORD-598985,2024-12-24,South,Andhra Pradesh,Furniture,Sofas,22922.73,3804.92,2,Consumer
+ORD-541119,2024-12-21,Central,Uttarakhand,Office Supplies,Labels,3789.96,1211.24,2,Consumer
+ORD-903061,2022-06-21,West,Madhya Pradesh,Electronics,Phones,148834.53,13473.04,4,Corporate
+ORD-223552,2024-11-30,East,Bihar,Furniture,Chairs,17994.17,3876.98,1,Consumer
+ORD-813666,2024-09-15,East,Jharkhand,Electronics,Tablets,101032.34,6833.97,3,Consumer
+ORD-791308,2022-11-28,East,Bihar,Office Supplies,Envelopes,2785.96,-64.3,3,Home Office
+ORD-556526,2022-06-30,North,Uttar Pradesh,Furniture,Storage,42045.14,5612.84,7,Consumer
+ORD-726495,2022-12-25,North,Delhi,Office Supplies,Scissors & Cutters,1192.91,192.53,2,Corporate
+ORD-806765,2022-03-15,East,Odisha,Electronics,Tablets,87550.3,11013.51,4,Corporate
+ORD-642892,2023-12-14,West,Gujarat,Furniture,Tables,38303.66,8546.68,2,Corporate
+ORD-456480,2023-06-13,East,Odisha,Furniture,Tables,97174.55,22223.09,5,Corporate
+ORD-376142,2023-05-24,North,Himachal Pradesh,Office Supplies,Binders,2838.64,860.26,3,Corporate
+ORD-291663,2023-02-13,North,Punjab,Electronics,Laptops,150000,29508.17,5,Corporate
+ORD-225701,2024-10-05,West,Maharashtra,Office Supplies,Pens & Stationery,2892.61,1301.67,3,Consumer
+ORD-901387,2024-11-12,North,Rajasthan,Electronics,Cameras,90444.55,3418.01,4,Corporate
+ORD-512842,2022-12-24,South,Telangana,Furniture,Chairs,8302.09,1193.02,1,Consumer
+ORD-675210,2023-06-23,North,Rajasthan,Electronics,Laptops,77369.22,18804.72,2,Consumer
+ORD-995825,2024-03-31,South,Karnataka,Office Supplies,Storage Boxes,1119.58,276.16,1,Consumer
+ORD-499385,2023-02-06,Central,Chhattisgarh,Furniture,Chairs,13991.15,2983.07,1,Corporate
+ORD-642121,2024-12-29,West,Goa,Electronics,Cameras,10933.81,1784.32,1,Corporate
+ORD-200979,2023-06-17,East,Bihar,Electronics,Accessories,4403.16,1337.89,1,Consumer
+ORD-703869,2023-08-06,East,Jharkhand,Office Supplies,Labels,5686.92,1411.94,6,Consumer
+ORD-946952,2023-11-22,East,Jharkhand,Office Supplies,Binders,1422.97,589.27,1,Corporate
+ORD-734792,2024-03-20,North,Punjab,Office Supplies,Envelopes,4911.91,1130.46,8,Corporate
+ORD-880009,2022-06-13,North,Uttar Pradesh,Electronics,Accessories,1237.28,347.46,2,Consumer
+ORD-902156,2022-06-20,East,West Bengal,Furniture,Storage,8947.93,1163.92,2,Corporate
+ORD-129959,2022-12-29,North,Himachal Pradesh,Furniture,Sofas,76882.37,18812.71,2,Consumer
+ORD-338161,2022-07-03,North,Punjab,Electronics,Phones,38169.05,7916.25,1,Consumer
+ORD-108721,2024-09-04,West,Goa,Furniture,Chairs,14297.12,2002.02,2,Home Office
+ORD-558339,2024-03-19,West,Madhya Pradesh,Office Supplies,Paper,1017.81,253.35,1,Home Office
+ORD-946803,2023-07-11,West,Goa,Furniture,Chairs,9371.1,3146.48,1,Corporate
+ORD-747736,2024-07-16,East,Odisha,Electronics,Laptops,59773.1,8282.01,1,Corporate
+ORD-344119,2022-07-04,North,Punjab,Furniture,Storage,66368.45,10980.59,10,Consumer
+ORD-984522,2022-10-27,West,Maharashtra,Furniture,Tables,38677.49,7706.99,1,Consumer
+ORD-908688,2024-06-26,Central,Chhattisgarh,Furniture,Chairs,49213.1,5857.88,2,Corporate
+ORD-427270,2023-10-24,West,Maharashtra,Electronics,Printers,10487.71,339.51,1,Consumer
+ORD-115799,2022-12-09,East,Jharkhand,Office Supplies,Binders,17240.13,1600.88,8,Corporate
+ORD-360804,2022-11-19,West,Goa,Office Supplies,Scissors & Cutters,1223.01,314.74,3,Consumer
+ORD-343977,2023-12-13,North,Delhi,Electronics,Accessories,2510.85,326.2,2,Consumer
+ORD-558752,2024-09-30,South,Kerala,Electronics,Accessories,4241.07,1532.71,1,Consumer
+ORD-262555,2024-07-09,North,Punjab,Furniture,Sofas,34842.74,-3682.28,2,Corporate
+ORD-350385,2023-10-19,East,Assam,Office Supplies,Paper,2481.23,373.34,2,Consumer
+ORD-648615,2022-05-17,Central,Chhattisgarh,Office Supplies,Paper,625.75,-42.4,1,Consumer
+ORD-613707,2024-12-12,East,West Bengal,Electronics,Cameras,38029.52,435.64,4,Consumer
+ORD-769952,2022-05-05,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,5153.49,760.51,4,Consumer
+ORD-142627,2024-11-29,West,Madhya Pradesh,Electronics,Cameras,80145.51,4373.08,3,Corporate
+ORD-903506,2022-12-08,East,Assam,Electronics,Laptops,145911.09,12738.57,2,Home Office
+ORD-985893,2023-10-25,East,Odisha,Electronics,Cameras,119027.91,-1383.98,7,Corporate
+ORD-642752,2023-09-11,Central,Chhattisgarh,Office Supplies,Binders,11433.48,3670.93,4,Home Office
+ORD-636107,2022-11-13,North,Delhi,Electronics,Tablets,118356.81,14519.11,6,Corporate
+ORD-327999,2024-09-15,West,Maharashtra,Furniture,Bookcases,15316.78,3964.82,1,Consumer
+ORD-918017,2023-11-16,West,Madhya Pradesh,Office Supplies,Binders,5856.26,1934.26,5,Corporate
+ORD-501066,2022-04-21,South,Telangana,Furniture,Bookcases,14182.32,2080.93,2,Consumer
+ORD-867115,2024-10-30,North,Haryana,Electronics,Tablets,28207.45,3605.13,1,Corporate
+ORD-911414,2024-09-26,East,Assam,Furniture,Sofas,12865.76,1723.6,1,Home Office
+ORD-193946,2024-05-17,South,Kerala,Furniture,Chairs,26894.46,2875.23,4,Corporate
+ORD-753453,2022-10-26,Central,Chhattisgarh,Electronics,Tablets,32814.66,8050.17,1,Consumer
+ORD-751168,2023-08-13,West,Maharashtra,Electronics,Accessories,1440.54,327.75,1,Corporate
+ORD-371222,2022-10-17,East,Jharkhand,Furniture,Sofas,17529.04,1774.37,1,Consumer
+ORD-786563,2022-01-18,East,Bihar,Office Supplies,Binders,2708.51,365.54,1,Corporate
+ORD-430779,2024-12-24,South,Andhra Pradesh,Furniture,Chairs,24355.2,8285.08,1,Consumer
+ORD-880550,2022-11-18,West,Goa,Furniture,Tables,150000,28069.66,10,Home Office
+ORD-681896,2023-07-28,North,Haryana,Furniture,Chairs,57823.17,12053.7,4,Corporate
+ORD-755910,2023-04-11,East,Jharkhand,Office Supplies,Envelopes,1484.47,379.62,2,Corporate
+ORD-244818,2022-10-25,East,Odisha,Electronics,Cameras,56364.75,8798.16,2,Consumer
+ORD-130915,2023-09-14,Central,Jammu & Kashmir,Office Supplies,Pens & Stationery,444.31,145.51,1,Corporate
+ORD-735022,2024-01-06,West,Gujarat,Furniture,Sofas,71965.48,11770.65,2,Consumer
+ORD-596864,2022-10-09,North,Haryana,Office Supplies,Binders,20800.42,5684.97,7,Consumer
+ORD-560623,2024-05-25,South,Andhra Pradesh,Office Supplies,Labels,4686.59,1202.48,3,Corporate
+ORD-650744,2024-07-13,West,Gujarat,Furniture,Storage,21532.65,810.19,9,Consumer
+ORD-560905,2023-08-09,North,Rajasthan,Office Supplies,Storage Boxes,2510.33,837.22,2,Corporate
+ORD-573639,2022-08-20,East,Assam,Electronics,Accessories,1224.21,98.84,2,Home Office
+ORD-194560,2023-05-28,East,Odisha,Office Supplies,Binders,2265.57,799.53,1,Consumer
+ORD-841635,2024-11-13,South,Telangana,Electronics,Laptops,150000,-13680.71,6,Consumer
+ORD-424553,2024-07-02,South,Karnataka,Office Supplies,Binders,3398.33,1529.25,3,Consumer
+ORD-996963,2024-10-18,South,Andhra Pradesh,Electronics,Cameras,64779.59,8849.45,3,Home Office
+ORD-391622,2023-03-02,South,Kerala,Electronics,Phones,117019.6,19722.83,3,Consumer
+ORD-191962,2022-04-11,Central,Chhattisgarh,Furniture,Sofas,113981.62,1436.48,3,Consumer
+ORD-137581,2023-10-24,North,Uttar Pradesh,Office Supplies,Scissors & Cutters,1993.64,478.26,3,Corporate
+ORD-387748,2023-11-06,East,Odisha,Furniture,Chairs,79479.61,21729.0,3,Corporate
+ORD-841139,2023-08-12,West,Goa,Furniture,Sofas,30377.05,6597.75,2,Corporate
+ORD-762550,2024-10-16,South,Telangana,Electronics,Tablets,108788.41,9823.77,9,Corporate
+ORD-534773,2024-04-27,North,Himachal Pradesh,Electronics,Printers,9224.4,890.89,1,Consumer
+ORD-631302,2023-10-26,South,Kerala,Electronics,Printers,65469.44,12191.87,3,Consumer
+ORD-597549,2024-09-13,North,Rajasthan,Office Supplies,Labels,4014.88,1755.65,4,Corporate
+ORD-975671,2024-12-03,West,Goa,Furniture,Chairs,20249.29,5203.84,1,Home Office
+ORD-394083,2022-03-05,North,Rajasthan,Office Supplies,Envelopes,1162.14,251.78,3,Consumer
+ORD-920347,2023-10-07,North,Uttar Pradesh,Furniture,Tables,71151.65,8253.0,2,Consumer
+ORD-311915,2022-07-09,South,Andhra Pradesh,Office Supplies,Paper,1870.18,423.05,1,Corporate
+ORD-649063,2022-10-21,South,Telangana,Furniture,Tables,6644.41,1330.32,1,Consumer
+ORD-989322,2022-06-28,West,Maharashtra,Furniture,Bookcases,14618.91,1903.26,1,Corporate
+ORD-320039,2023-10-20,North,Rajasthan,Electronics,Accessories,5303.23,2209.97,3,Corporate
+ORD-207348,2023-10-15,Central,Uttarakhand,Furniture,Tables,27808.87,7448.58,1,Consumer
+ORD-808308,2022-04-14,South,Andhra Pradesh,Electronics,Printers,41674.03,8248.26,3,Consumer
+ORD-957150,2024-12-28,Central,Uttarakhand,Furniture,Chairs,124325.44,6055.85,5,Corporate
+ORD-844715,2024-08-11,Central,Chhattisgarh,Office Supplies,Envelopes,563.45,173.33,1,Home Office
+ORD-440536,2023-12-21,West,Goa,Office Supplies,Envelopes,2253.09,998.5,3,Corporate
+ORD-212178,2023-10-30,South,Kerala,Furniture,Storage,13638.2,3186.84,3,Consumer
+ORD-318353,2023-12-02,North,Himachal Pradesh,Furniture,Sofas,79379.49,16845.31,5,Consumer
+ORD-566843,2022-12-27,North,Rajasthan,Electronics,Cameras,78329.17,9114.05,4,Corporate
+ORD-708979,2022-11-02,North,Rajasthan,Furniture,Tables,37315.41,5058.25,1,Corporate
+ORD-555844,2024-11-11,South,Kerala,Electronics,Cameras,69573.75,10697.26,8,Consumer
+ORD-552686,2022-12-22,South,Andhra Pradesh,Office Supplies,Pens & Stationery,2302.38,803.19,5,Corporate
+ORD-240800,2022-01-24,South,Andhra Pradesh,Furniture,Tables,27478.5,2686.66,1,Corporate
+ORD-546383,2024-07-10,North,Haryana,Furniture,Sofas,78473.07,14088.21,2,Consumer
+ORD-672696,2024-01-22,South,Andhra Pradesh,Office Supplies,Binders,8713.03,3898.65,3,Corporate
+ORD-887042,2023-07-27,South,Telangana,Electronics,Accessories,10460.45,3519.19,3,Corporate
+ORD-817303,2023-10-02,Central,Jammu & Kashmir,Office Supplies,Labels,3997.47,913.1,2,Consumer
+ORD-275645,2023-06-18,North,Delhi,Furniture,Bookcases,63702.19,13381.6,5,Consumer
+ORD-186518,2022-09-17,West,Goa,Electronics,Cameras,31162.18,5882.0,1,Consumer
+ORD-720515,2022-11-06,North,Delhi,Electronics,Printers,8322.23,-985.41,1,Home Office
+ORD-724473,2022-11-12,West,Madhya Pradesh,Office Supplies,Paper,4718.09,492.27,3,Consumer
+ORD-377238,2022-08-26,North,Haryana,Electronics,Printers,131858.22,1632.87,7,Consumer
+ORD-375382,2022-10-25,North,Punjab,Office Supplies,Labels,1806.44,595.81,2,Corporate
+ORD-471015,2023-07-13,North,Uttar Pradesh,Electronics,Cameras,57750.15,7223.85,2,Corporate
+ORD-869983,2023-01-04,South,Tamil Nadu,Office Supplies,Binders,3626.32,1104.74,2,Corporate
+ORD-364132,2023-01-31,East,West Bengal,Office Supplies,Storage Boxes,8963.03,1394.41,6,Consumer
+ORD-225805,2022-09-24,West,Gujarat,Office Supplies,Storage Boxes,1742.62,423.58,1,Consumer
+ORD-389809,2023-10-25,West,Goa,Office Supplies,Labels,4140.67,1172.41,2,Corporate
+ORD-286572,2024-06-21,Central,Chhattisgarh,Furniture,Tables,26385.2,-1312.46,3,Consumer
+ORD-136554,2022-05-30,West,Madhya Pradesh,Electronics,Accessories,3381.51,874.25,1,Home Office
+ORD-796889,2024-03-10,West,Madhya Pradesh,Furniture,Sofas,150000,10408.33,4,Corporate
+ORD-173504,2023-04-08,Central,Uttarakhand,Electronics,Cameras,123835.56,10417.54,7,Corporate
+ORD-778506,2022-07-05,West,Goa,Electronics,Accessories,7219.26,2234.6,4,Home Office
+ORD-792829,2023-01-27,North,Uttar Pradesh,Furniture,Bookcases,32786.0,7945.62,2,Consumer
+ORD-298667,2022-10-14,South,Telangana,Electronics,Accessories,3067.85,385.82,1,Consumer
+ORD-117215,2022-03-17,North,Himachal Pradesh,Electronics,Phones,32192.45,4278.37,1,Corporate
+ORD-811016,2022-11-02,North,Uttar Pradesh,Electronics,Laptops,59619.26,6027.63,2,Consumer
+ORD-763393,2022-07-19,South,Telangana,Electronics,Phones,30014.16,4010.31,1,Corporate
+ORD-166175,2024-04-03,Central,Jammu & Kashmir,Furniture,Bookcases,75517.12,9407.75,5,Consumer
+ORD-248097,2024-04-30,North,Delhi,Furniture,Sofas,13998.71,394.03,1,Corporate
+ORD-915437,2022-11-20,North,Uttar Pradesh,Electronics,Phones,124973.84,14460.33,4,Consumer
+ORD-233056,2023-02-27,North,Haryana,Furniture,Tables,18950.23,606.78,3,Consumer
+ORD-192296,2023-09-09,South,Karnataka,Electronics,Cameras,150000,39279.16,9,Consumer
+ORD-756895,2023-03-03,South,Karnataka,Furniture,Storage,7195.19,38.02,2,Home Office
+ORD-156652,2024-01-16,North,Punjab,Furniture,Storage,9404.17,2062.5,1,Corporate
+ORD-608623,2024-11-20,West,Madhya Pradesh,Furniture,Bookcases,32815.36,4507.86,2,Consumer
+ORD-215482,2023-10-30,North,Haryana,Office Supplies,Labels,2773.8,1042.01,6,Consumer
+ORD-739037,2024-07-20,North,Haryana,Office Supplies,Storage Boxes,3326.04,910.21,2,Consumer
+ORD-133653,2022-05-03,South,Andhra Pradesh,Furniture,Tables,50779.5,8171.42,4,Home Office
+ORD-278190,2023-04-16,West,Madhya Pradesh,Office Supplies,Paper,5168.64,1472.3,3,Consumer
+ORD-865479,2023-05-21,North,Delhi,Office Supplies,Envelopes,7796.28,2420.34,7,Home Office
+ORD-869105,2024-10-29,East,Jharkhand,Office Supplies,Storage Boxes,11644.53,2030.29,5,Consumer
+ORD-867333,2022-09-29,North,Uttar Pradesh,Electronics,Printers,31099.13,-2036.5,2,Corporate
+ORD-837290,2024-04-10,West,Madhya Pradesh,Office Supplies,Binders,3383.73,800.81,5,Home Office
+ORD-449077,2024-12-23,North,Punjab,Furniture,Sofas,93431.03,26078.69,2,Consumer
+ORD-807424,2022-08-16,North,Uttar Pradesh,Electronics,Laptops,150000,33805.0,3,Corporate
+ORD-245129,2023-11-17,South,Andhra Pradesh,Office Supplies,Scissors & Cutters,4489.75,1311.95,3,Consumer
+ORD-380345,2024-10-28,North,Uttar Pradesh,Electronics,Accessories,5845.8,1215.02,2,Corporate
+ORD-811257,2022-05-15,West,Maharashtra,Electronics,Laptops,87180.75,18281.61,1,Consumer
+ORD-314178,2022-02-16,Central,Jammu & Kashmir,Office Supplies,Labels,2109.12,644.93,2,Consumer
+ORD-166007,2024-11-30,North,Punjab,Furniture,Bookcases,28762.81,1741.02,2,Corporate
+ORD-927691,2023-09-20,North,Haryana,Electronics,Tablets,53299.72,6846.34,4,Consumer
+ORD-578073,2022-12-07,South,Telangana,Electronics,Laptops,150000,-7749.39,5,Consumer
+ORD-373056,2024-01-28,East,West Bengal,Furniture,Bookcases,10278.01,1772.5,1,Corporate
+ORD-227391,2024-10-19,Central,Uttarakhand,Electronics,Printers,27671.02,1298.99,2,Home Office
+ORD-799282,2022-10-29,West,Madhya Pradesh,Electronics,Phones,150000,51491.33,4,Corporate
+ORD-423047,2022-07-09,East,Odisha,Furniture,Tables,127393.32,19769.05,4,Home Office
+ORD-636648,2024-03-18,North,Rajasthan,Furniture,Chairs,65660.56,14215.57,6,Consumer
+ORD-995278,2024-05-25,North,Punjab,Electronics,Tablets,150000,34751.8,9,Home Office
+ORD-942725,2024-06-25,West,Madhya Pradesh,Office Supplies,Labels,1298.21,490.08,1,Consumer
+ORD-317877,2023-09-14,West,Goa,Electronics,Cameras,41552.41,22.99,4,Consumer
+ORD-682813,2022-10-08,West,Goa,Furniture,Chairs,52451.96,15502.38,5,Consumer
+ORD-875795,2024-08-07,West,Gujarat,Electronics,Printers,60440.59,2656.58,5,Consumer
+ORD-821255,2023-05-17,West,Madhya Pradesh,Office Supplies,Binders,4213.2,846.49,3,Consumer
+ORD-557250,2022-09-02,West,Maharashtra,Office Supplies,Paper,1645.3,198.54,3,Consumer
+ORD-155457,2023-07-13,East,Bihar,Electronics,Tablets,76433.75,12520.24,2,Corporate
+ORD-292148,2022-12-09,West,Goa,Electronics,Printers,20992.83,3059.29,3,Consumer
+ORD-608453,2024-04-23,Central,Chhattisgarh,Electronics,Cameras,13087.25,1223.05,1,Corporate
+ORD-971803,2024-12-12,West,Maharashtra,Furniture,Chairs,5902.45,761.7,1,Consumer
+ORD-563405,2024-12-07,North,Himachal Pradesh,Electronics,Printers,47033.24,-2006.32,5,Consumer
+ORD-236543,2022-06-10,West,Maharashtra,Electronics,Accessories,2765.3,1080.25,4,Corporate
+ORD-162144,2024-08-18,North,Uttar Pradesh,Electronics,Phones,147790.88,37539.62,4,Home Office
+ORD-315378,2023-02-14,North,Uttar Pradesh,Electronics,Printers,134623.12,7518.16,7,Consumer
+ORD-697935,2022-05-20,East,West Bengal,Furniture,Tables,88096.57,-10836.62,8,Home Office
+ORD-992649,2024-08-30,East,Jharkhand,Furniture,Chairs,10806.09,1335.55,1,Consumer
+ORD-429546,2022-09-11,East,Jharkhand,Office Supplies,Storage Boxes,3110.84,-169.34,1,Consumer
+ORD-579142,2023-10-01,West,Gujarat,Furniture,Bookcases,101479.74,22887.04,9,Consumer
+ORD-113406,2024-10-03,North,Rajasthan,Furniture,Chairs,12904.17,1245.51,1,Home Office
+ORD-877447,2022-12-12,Central,Uttarakhand,Electronics,Accessories,4736.14,1006.22,1,Consumer
+ORD-927843,2024-03-30,East,Jharkhand,Office Supplies,Envelopes,968.0,-31.52,1,Consumer
+ORD-758894,2022-10-03,West,Maharashtra,Furniture,Chairs,113230.72,27304.1,9,Consumer
+ORD-888119,2024-11-30,West,Gujarat,Electronics,Accessories,3527.91,1310.23,2,Home Office
+ORD-673172,2022-09-01,North,Haryana,Furniture,Chairs,15246.66,3483.11,1,Corporate
+ORD-615353,2024-06-01,West,Madhya Pradesh,Office Supplies,Envelopes,2580.24,587.57,3,Corporate
+ORD-700005,2024-08-20,West,Maharashtra,Electronics,Accessories,6600.27,1446.75,3,Consumer
+ORD-164407,2023-12-16,East,Bihar,Electronics,Accessories,4438.45,540.84,2,Consumer
+ORD-779564,2023-10-02,Central,Chhattisgarh,Office Supplies,Binders,1152.3,161.52,2,Home Office
+ORD-379570,2023-10-23,West,Maharashtra,Furniture,Tables,50379.13,11023.53,2,Corporate
+ORD-480983,2024-06-11,East,West Bengal,Office Supplies,Envelopes,465.16,99.27,1,Corporate
+ORD-196424,2023-07-14,West,Madhya Pradesh,Furniture,Bookcases,52486.06,13638.98,4,Consumer
+ORD-943187,2023-09-07,East,Odisha,Furniture,Bookcases,31035.6,-2274.9,3,Home Office
+ORD-704864,2024-10-19,Central,Jammu & Kashmir,Office Supplies,Pens & Stationery,6823.56,1580.85,7,Corporate
+ORD-757203,2023-05-08,West,Goa,Office Supplies,Labels,3422.73,1230.86,2,Consumer
+ORD-963723,2023-04-29,South,Karnataka,Electronics,Tablets,55350.2,10254.05,2,Consumer
+ORD-778346,2022-03-17,North,Uttar Pradesh,Electronics,Tablets,50782.76,14156.44,3,Consumer
+ORD-120875,2022-06-21,North,Uttar Pradesh,Office Supplies,Labels,8651.06,1126.42,6,Home Office
+ORD-516174,2022-10-15,East,Assam,Office Supplies,Envelopes,2613.47,-167.22,3,Corporate
+ORD-428634,2023-11-06,West,Gujarat,Office Supplies,Paper,684.73,154.19,1,Consumer
+ORD-366659,2022-08-20,North,Himachal Pradesh,Electronics,Tablets,150000,10844.85,6,Corporate
+ORD-122097,2023-05-06,North,Himachal Pradesh,Office Supplies,Pens & Stationery,6544.94,2887.75,6,Corporate
+ORD-347864,2024-06-25,Central,Uttarakhand,Office Supplies,Pens & Stationery,2834.44,900.83,2,Consumer
+ORD-560163,2024-10-03,North,Punjab,Office Supplies,Scissors & Cutters,511.69,111.47,1,Consumer
+ORD-541314,2023-11-01,South,Tamil Nadu,Furniture,Tables,100058.75,8271.89,3,Consumer
+ORD-265488,2023-10-17,West,Gujarat,Electronics,Printers,30998.26,-1759.46,3,Consumer
+ORD-495648,2023-04-05,South,Telangana,Furniture,Tables,150000,-9015.52,6,Consumer
+ORD-372795,2022-11-02,North,Rajasthan,Electronics,Printers,37823.75,9185.32,2,Consumer
+ORD-335388,2023-02-21,West,Goa,Electronics,Accessories,4881.78,1440.18,2,Corporate
+ORD-862008,2022-02-28,North,Rajasthan,Furniture,Tables,57898.7,12661.75,2,Consumer
+ORD-239675,2023-06-09,East,West Bengal,Electronics,Laptops,96059.22,2920.7,2,Corporate
+ORD-105621,2024-02-20,North,Punjab,Electronics,Cameras,12843.05,784.67,1,Consumer
+ORD-616780,2023-11-26,South,Kerala,Office Supplies,Labels,501.93,209.08,1,Corporate
+ORD-884149,2023-10-09,North,Delhi,Furniture,Storage,3606.41,1051.93,1,Consumer
+ORD-372864,2022-12-01,North,Haryana,Electronics,Tablets,150000,34139.27,9,Consumer
+ORD-313630,2023-08-05,South,Telangana,Office Supplies,Envelopes,4714.06,1682.3,6,Corporate
+ORD-104326,2024-12-13,South,Tamil Nadu,Electronics,Accessories,13531.96,3023.56,3,Consumer
+ORD-719014,2022-11-11,North,Himachal Pradesh,Furniture,Storage,15469.22,1008.75,3,Consumer
+ORD-145976,2024-07-16,West,Gujarat,Electronics,Phones,92346.49,20254.7,5,Corporate
+ORD-731548,2024-02-21,North,Delhi,Office Supplies,Scissors & Cutters,649.23,103.21,2,Consumer
+ORD-507374,2024-04-04,West,Gujarat,Electronics,Accessories,19057.51,8243.56,5,Corporate
+ORD-476485,2024-11-15,North,Haryana,Furniture,Sofas,43414.3,2311.28,3,Consumer
+ORD-761322,2024-05-22,East,Jharkhand,Furniture,Tables,150000,-16672.62,7,Home Office
+ORD-817555,2024-12-07,East,Assam,Electronics,Phones,57120.55,6696.85,2,Corporate
+ORD-952308,2023-06-03,East,Assam,Electronics,Printers,23079.85,-2485.14,3,Corporate
+ORD-577100,2023-06-27,Central,Chhattisgarh,Electronics,Phones,121399.83,25225.7,4,Consumer
+ORD-660333,2022-02-06,South,Karnataka,Furniture,Storage,32063.42,9300.98,3,Consumer
+ORD-748543,2022-06-29,South,Tamil Nadu,Office Supplies,Storage Boxes,31939.55,6533.97,9,Corporate
+ORD-781301,2023-05-11,East,Assam,Electronics,Tablets,64594.55,6387.75,4,Corporate
+ORD-566895,2024-09-20,West,Gujarat,Electronics,Cameras,92884.01,15675.62,5,Consumer
+ORD-207650,2024-10-12,East,Assam,Office Supplies,Binders,3734.64,791.16,2,Consumer
+ORD-848987,2022-05-11,East,Jharkhand,Electronics,Cameras,121538.42,1904.14,7,Consumer
+ORD-301537,2024-08-19,North,Delhi,Furniture,Bookcases,111638.47,8818.83,7,Corporate
+ORD-509333,2022-11-28,North,Himachal Pradesh,Electronics,Accessories,1524.68,270.17,1,Consumer
+ORD-536191,2024-10-08,South,Tamil Nadu,Office Supplies,Pens & Stationery,4079.75,1769.83,6,Consumer
+ORD-166758,2023-11-23,East,West Bengal,Furniture,Storage,5691.16,-506.48,1,Consumer
+ORD-258522,2024-11-21,South,Tamil Nadu,Office Supplies,Labels,8624.12,3810.1,4,Corporate
+ORD-206816,2022-12-09,West,Goa,Electronics,Tablets,143308.37,21191.46,4,Home Office
+ORD-261790,2022-10-10,South,Andhra Pradesh,Office Supplies,Binders,2652.03,796.27,1,Consumer
+ORD-891512,2024-04-29,East,Odisha,Office Supplies,Envelopes,856.36,208.04,2,Consumer
+ORD-529191,2024-11-23,North,Uttar Pradesh,Furniture,Chairs,58127.1,8270.77,4,Corporate
+ORD-555157,2022-05-06,South,Karnataka,Office Supplies,Binders,26551.06,9530.36,9,Home Office
+ORD-410089,2024-05-08,West,Goa,Office Supplies,Pens & Stationery,1261.64,431.19,6,Home Office
+ORD-834312,2023-09-10,East,Jharkhand,Office Supplies,Storage Boxes,14793.02,4738.07,6,Consumer
+ORD-636526,2023-10-02,West,Gujarat,Electronics,Cameras,48605.54,5606.22,3,Consumer
+ORD-162857,2024-02-03,East,West Bengal,Electronics,Printers,82117.37,-5550.41,7,Corporate
+ORD-709845,2024-12-28,North,Punjab,Electronics,Printers,22505.29,2746.61,3,Consumer
+ORD-916368,2022-10-28,West,Maharashtra,Electronics,Accessories,16920.18,4101.3,6,Consumer
+ORD-651818,2024-11-28,West,Madhya Pradesh,Furniture,Storage,38214.06,5680.67,3,Corporate
+ORD-608312,2024-07-26,West,Maharashtra,Furniture,Storage,18929.93,4046.89,2,Home Office
+ORD-487272,2024-04-16,North,Punjab,Electronics,Laptops,44820.1,-1536.74,1,Corporate
+ORD-542244,2023-03-18,West,Maharashtra,Electronics,Tablets,13251.11,2880.27,1,Consumer
+ORD-424745,2024-10-30,West,Madhya Pradesh,Electronics,Printers,37382.75,3397.91,2,Corporate
+ORD-803011,2022-06-24,East,Assam,Office Supplies,Envelopes,1901.12,523.42,2,Consumer
+ORD-790229,2024-12-25,South,Karnataka,Electronics,Printers,69335.79,4523.34,5,Consumer
+ORD-124393,2023-11-28,North,Rajasthan,Electronics,Tablets,42638.69,5981.74,1,Consumer
+ORD-291542,2022-11-12,North,Delhi,Electronics,Tablets,33401.7,6382.63,1,Home Office
+ORD-370463,2022-09-05,North,Rajasthan,Furniture,Storage,14088.43,2828.76,2,Home Office
+ORD-382368,2022-05-05,East,West Bengal,Furniture,Storage,33412.05,8519.32,3,Consumer
+ORD-900040,2022-09-15,North,Uttar Pradesh,Office Supplies,Envelopes,1167.91,323.36,1,Consumer
+ORD-276358,2024-07-14,West,Goa,Furniture,Tables,37672.74,2738.51,1,Consumer
+ORD-468488,2024-11-11,South,Telangana,Furniture,Bookcases,15494.4,2573.02,1,Corporate
+ORD-393033,2024-06-03,East,Bihar,Office Supplies,Pens & Stationery,4420.6,1358.19,3,Consumer
+ORD-320855,2023-11-04,West,Maharashtra,Furniture,Chairs,113415.95,15691.42,6,Home Office
+ORD-837463,2022-01-18,North,Delhi,Furniture,Tables,126178.94,14114.5,4,Corporate
+ORD-755608,2023-03-29,North,Punjab,Electronics,Accessories,22088.14,3336.31,6,Consumer
+ORD-305611,2024-03-22,North,Rajasthan,Furniture,Sofas,39552.59,-3117.4,1,Corporate
+ORD-233620,2023-07-16,East,Assam,Furniture,Sofas,60469.19,1088.74,6,Corporate
+ORD-995336,2023-10-24,Central,Uttarakhand,Electronics,Cameras,39563.49,5836.08,2,Consumer
+ORD-570665,2023-10-10,South,Tamil Nadu,Office Supplies,Scissors & Cutters,1358.78,347.78,1,Consumer
+ORD-178056,2023-05-27,North,Uttar Pradesh,Furniture,Chairs,12502.88,4079.54,1,Home Office
+ORD-981336,2023-05-28,North,Punjab,Office Supplies,Scissors & Cutters,2505.87,768.02,2,Home Office
+ORD-913432,2022-03-10,West,Maharashtra,Office Supplies,Binders,9628.78,2930.37,6,Consumer
+ORD-810477,2024-04-02,West,Gujarat,Office Supplies,Scissors & Cutters,938.18,381.29,3,Consumer
+ORD-933790,2022-07-27,Central,Chhattisgarh,Furniture,Bookcases,16536.28,3986.56,3,Corporate
+ORD-701056,2023-06-09,North,Rajasthan,Furniture,Tables,6542.48,-513.27,1,Corporate
+ORD-783362,2024-01-03,West,Gujarat,Electronics,Tablets,60449.37,16014.7,3,Corporate
+ORD-251624,2022-04-28,West,Maharashtra,Furniture,Tables,150000,21001.05,9,Consumer
+ORD-598833,2023-11-10,East,Bihar,Furniture,Storage,6898.19,1608.89,2,Corporate
+ORD-826894,2023-03-13,West,Goa,Office Supplies,Labels,613.22,159.5,1,Home Office
+ORD-480441,2022-01-21,South,Tamil Nadu,Electronics,Accessories,3135.59,866.48,1,Consumer
+ORD-307434,2023-08-05,West,Gujarat,Electronics,Cameras,13291.66,1676.63,1,Consumer
+ORD-374505,2022-07-27,East,Jharkhand,Furniture,Chairs,15250.44,1373.09,2,Consumer
+ORD-652522,2022-05-14,West,Gujarat,Office Supplies,Paper,2960.8,772.42,2,Consumer
+ORD-550405,2023-11-03,East,Bihar,Office Supplies,Scissors & Cutters,2148.63,524.42,2,Corporate
+ORD-275566,2024-11-07,West,Goa,Furniture,Storage,9844.1,504.28,1,Consumer
+ORD-618827,2024-08-28,North,Rajasthan,Furniture,Tables,12105.02,2631.87,1,Home Office
+ORD-699125,2022-11-18,North,Rajasthan,Electronics,Phones,28135.37,2930.11,1,Consumer
+ORD-637145,2023-11-20,North,Haryana,Electronics,Accessories,4560.97,1262.07,2,Consumer
+ORD-186422,2024-11-16,South,Kerala,Office Supplies,Binders,1515.31,679.76,1,Consumer
+ORD-807901,2023-11-06,West,Goa,Electronics,Cameras,150000,17769.15,10,Consumer
+ORD-962253,2023-12-11,North,Haryana,Office Supplies,Scissors & Cutters,2799.09,304.61,3,Corporate
+ORD-256532,2024-03-25,West,Gujarat,Furniture,Sofas,96313.83,577.87,3,Consumer
+ORD-986887,2024-05-05,North,Rajasthan,Electronics,Laptops,100027.4,17370.2,3,Consumer
+ORD-949767,2023-12-28,North,Himachal Pradesh,Office Supplies,Scissors & Cutters,3965.41,1680.74,4,Home Office
+ORD-261156,2023-11-08,West,Madhya Pradesh,Office Supplies,Paper,3023.81,683.92,7,Consumer
+ORD-573469,2023-09-16,South,Telangana,Electronics,Printers,16207.73,3070.93,3,Consumer
+ORD-405246,2024-12-09,South,Telangana,Electronics,Tablets,120288.81,39832.94,5,Consumer
+ORD-662511,2022-05-21,Central,Chhattisgarh,Electronics,Laptops,150000,13649.97,2,Consumer
+ORD-851589,2024-07-28,South,Karnataka,Furniture,Storage,13405.2,1924.16,3,Consumer
+ORD-696879,2024-10-02,East,West Bengal,Electronics,Accessories,9603.95,1234.68,2,Consumer
+ORD-288301,2024-06-03,Central,Chhattisgarh,Furniture,Chairs,47610.24,11863.33,2,Home Office
+ORD-387075,2024-10-30,North,Haryana,Electronics,Laptops,111290.4,11072.25,2,Corporate
+ORD-997343,2022-01-22,West,Gujarat,Electronics,Printers,23840.71,-2043.2,2,Corporate
+ORD-558986,2022-10-15,North,Delhi,Electronics,Phones,44486.58,7224.16,3,Corporate
+ORD-111755,2023-07-14,North,Delhi,Office Supplies,Storage Boxes,4429.17,870.23,2,Consumer
+ORD-765625,2024-12-06,West,Maharashtra,Electronics,Tablets,57919.23,7613.98,2,Consumer
+ORD-350127,2023-02-14,North,Uttar Pradesh,Electronics,Laptops,87318.44,15926.74,3,Consumer
+ORD-975964,2022-12-10,South,Telangana,Electronics,Tablets,64637.77,15350.06,2,Consumer
+ORD-343697,2023-03-14,North,Uttar Pradesh,Furniture,Bookcases,6978.75,787.44,1,Consumer
+ORD-789922,2024-01-26,West,Madhya Pradesh,Electronics,Cameras,69485.61,8127.65,2,Home Office
+ORD-696854,2022-12-18,South,Kerala,Office Supplies,Storage Boxes,8386.96,975.37,2,Consumer
+ORD-283847,2024-09-14,South,Telangana,Furniture,Sofas,57891.06,-3452.33,3,Corporate
+ORD-230082,2023-09-25,North,Delhi,Furniture,Chairs,13971.98,842.06,1,Consumer
+ORD-494000,2023-11-05,North,Uttar Pradesh,Furniture,Storage,14705.73,3177.28,3,Consumer
+ORD-665509,2022-01-13,North,Delhi,Electronics,Laptops,150000,-17811.26,7,Consumer
+ORD-632073,2022-06-10,North,Delhi,Office Supplies,Paper,2659.89,507.13,2,Home Office
+ORD-311184,2024-09-12,Central,Uttarakhand,Electronics,Accessories,5547.63,1853.33,2,Corporate
+ORD-959416,2024-09-14,North,Uttar Pradesh,Office Supplies,Pens & Stationery,1195.91,401.8,3,Consumer
+ORD-575637,2023-08-04,East,West Bengal,Electronics,Printers,14641.73,-806.22,2,Corporate
+ORD-615326,2022-05-26,South,Tamil Nadu,Electronics,Cameras,28599.67,7906.43,1,Corporate
+ORD-465511,2024-11-09,East,Bihar,Furniture,Storage,67877.48,-8288.52,7,Corporate
+ORD-831351,2022-10-30,North,Himachal Pradesh,Electronics,Laptops,150000,42291.2,3,Home Office
+ORD-516983,2022-12-06,North,Punjab,Furniture,Sofas,79442.57,11569.76,3,Home Office
+ORD-862998,2022-07-02,East,Bihar,Office Supplies,Pens & Stationery,5636.09,1515.94,4,Corporate
+ORD-101655,2022-07-18,West,Madhya Pradesh,Furniture,Storage,5746.51,1327.81,1,Corporate
+ORD-307639,2024-09-23,Central,Uttarakhand,Furniture,Tables,7064.37,1344.87,1,Consumer
+ORD-757286,2022-12-07,South,Tamil Nadu,Electronics,Tablets,19925.63,5720.87,1,Corporate
+ORD-109968,2022-05-06,Central,Jammu & Kashmir,Furniture,Chairs,14491.36,3820.31,1,Corporate
+ORD-609530,2024-05-29,West,Goa,Office Supplies,Scissors & Cutters,733.45,223.67,1,Consumer
+ORD-740479,2023-11-08,South,Andhra Pradesh,Office Supplies,Paper,549.43,198.47,1,Consumer
+ORD-573870,2023-01-20,East,Bihar,Electronics,Tablets,150000,14039.78,6,Corporate
+ORD-344903,2024-09-19,East,West Bengal,Electronics,Accessories,39212.55,12781.89,9,Consumer
+ORD-645316,2024-10-30,North,Uttar Pradesh,Electronics,Printers,150000,491.54,10,Consumer
+ORD-666931,2023-05-09,South,Tamil Nadu,Electronics,Printers,18935.05,1848.42,1,Corporate
+ORD-798281,2024-12-30,North,Himachal Pradesh,Electronics,Laptops,150000,27518.6,7,Corporate
+ORD-871754,2023-04-03,North,Uttar Pradesh,Electronics,Printers,23467.04,-1204.73,3,Consumer
+ORD-872714,2022-01-04,East,Odisha,Office Supplies,Labels,1841.08,436.0,2,Corporate
+ORD-644998,2023-03-31,South,Andhra Pradesh,Electronics,Tablets,129976.57,7752.55,5,Consumer
+ORD-797670,2023-09-25,West,Goa,Office Supplies,Storage Boxes,8458.34,2450.89,3,Consumer
+ORD-405654,2024-02-11,West,Gujarat,Office Supplies,Paper,9442.68,2458.48,5,Home Office
+ORD-913735,2024-03-13,West,Gujarat,Office Supplies,Envelopes,1244.87,509.05,2,Consumer
+ORD-465226,2024-03-12,East,Bihar,Electronics,Laptops,150000,27285.56,4,Consumer
+ORD-844056,2023-09-15,South,Karnataka,Furniture,Storage,3448.23,774.46,1,Consumer
+ORD-884735,2022-10-30,Central,Jammu & Kashmir,Office Supplies,Binders,3014.49,1356.52,1,Corporate
+ORD-255785,2024-04-07,South,Andhra Pradesh,Furniture,Sofas,150000,26373.24,8,Corporate
+ORD-790507,2024-02-22,East,Bihar,Electronics,Phones,26101.08,-1607.0,1,Corporate
+ORD-387021,2024-06-07,South,Kerala,Electronics,Cameras,29947.43,1816.18,1,Consumer
+ORD-683071,2024-12-21,East,Assam,Furniture,Chairs,33245.8,9371.34,4,Consumer
+ORD-568957,2023-10-06,South,Karnataka,Furniture,Chairs,65538.04,19728.77,3,Home Office
+ORD-630734,2023-09-04,East,Jharkhand,Office Supplies,Storage Boxes,1761.92,555.66,1,Corporate
+ORD-566532,2022-10-14,West,Goa,Furniture,Sofas,15676.99,1848.15,1,Consumer
+ORD-414267,2023-07-23,East,West Bengal,Furniture,Bookcases,33302.48,3230.57,2,Consumer
+ORD-828252,2022-10-21,South,Kerala,Office Supplies,Storage Boxes,10041.46,2747.31,3,Corporate
+ORD-636270,2022-12-02,South,Andhra Pradesh,Electronics,Cameras,16512.58,1833.73,1,Consumer
+ORD-193296,2023-07-14,West,Goa,Electronics,Accessories,13500.14,2114.45,9,Corporate
+ORD-229502,2022-12-26,West,Madhya Pradesh,Electronics,Tablets,150000,5547.07,4,Consumer
+ORD-888395,2024-03-08,West,Madhya Pradesh,Furniture,Tables,29033.04,2133.25,1,Corporate
+ORD-249600,2023-07-02,West,Goa,Office Supplies,Paper,3033.04,476.18,3,Consumer
+ORD-591431,2024-10-25,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,1076.62,298.81,1,Corporate
+ORD-986304,2022-07-11,South,Kerala,Furniture,Storage,10534.73,3139.46,5,Home Office
+ORD-243055,2024-09-09,West,Maharashtra,Furniture,Sofas,43255.9,-2703.4,1,Corporate
+ORD-461822,2024-12-17,South,Andhra Pradesh,Office Supplies,Storage Boxes,25785.51,6828.42,7,Consumer
+ORD-153379,2022-12-16,South,Karnataka,Office Supplies,Scissors & Cutters,1845.0,668.14,4,Consumer
+ORD-323415,2024-03-17,North,Himachal Pradesh,Furniture,Chairs,150000,27116.12,7,Consumer
+ORD-412843,2023-12-26,North,Himachal Pradesh,Electronics,Tablets,24775.52,3284.25,1,Corporate
+ORD-261177,2024-04-21,North,Delhi,Office Supplies,Pens & Stationery,713.97,227.91,1,Consumer
+ORD-950965,2023-07-06,North,Haryana,Electronics,Tablets,48650.74,11461.16,4,Home Office
+ORD-843670,2023-02-11,North,Delhi,Electronics,Printers,10948.2,296.97,2,Home Office
+ORD-224562,2024-10-11,West,Goa,Office Supplies,Scissors & Cutters,6163.32,811.13,6,Corporate
+ORD-507737,2022-09-27,South,Tamil Nadu,Electronics,Tablets,66973.56,11667.07,2,Consumer
+ORD-726090,2023-08-16,South,Andhra Pradesh,Electronics,Laptops,148583.66,40720.11,4,Consumer
+ORD-376331,2024-05-28,West,Maharashtra,Office Supplies,Envelopes,1166.01,406.9,3,Consumer
+ORD-226312,2022-09-28,North,Delhi,Office Supplies,Labels,639.39,131.67,1,Home Office
+ORD-498828,2023-04-19,North,Uttar Pradesh,Furniture,Chairs,17846.83,3048.33,2,Consumer
+ORD-435377,2022-04-08,South,Kerala,Electronics,Accessories,3229.35,1120.67,1,Consumer
+ORD-364516,2024-10-03,North,Uttar Pradesh,Furniture,Sofas,64140.35,11774.18,4,Corporate
+ORD-349825,2023-07-20,North,Uttar Pradesh,Electronics,Printers,16846.75,40.57,3,Home Office
+ORD-957115,2023-01-26,North,Uttar Pradesh,Electronics,Cameras,48419.59,68.94,3,Corporate
+ORD-261137,2022-03-31,North,Himachal Pradesh,Electronics,Cameras,150000,18508.81,9,Corporate
+ORD-557311,2024-10-28,South,Kerala,Furniture,Tables,38803.76,8738.17,1,Consumer
+ORD-658335,2024-11-17,South,Telangana,Electronics,Accessories,3538.52,937.91,2,Consumer
+ORD-328387,2024-11-16,West,Goa,Electronics,Laptops,43211.9,7610.14,1,Corporate
+ORD-391248,2022-09-30,West,Gujarat,Office Supplies,Paper,604.76,204.09,2,Consumer
+ORD-734555,2024-01-26,Central,Jammu & Kashmir,Electronics,Laptops,129492.66,13283.8,2,Consumer
+ORD-393276,2022-12-28,South,Telangana,Electronics,Printers,59776.24,9474.99,3,Corporate
+ORD-316173,2024-06-24,North,Rajasthan,Furniture,Storage,4317.23,706.34,1,Home Office
+ORD-198242,2024-10-12,South,Karnataka,Electronics,Accessories,9571.3,1615.85,7,Home Office
+ORD-957210,2023-01-20,South,Karnataka,Furniture,Storage,7267.79,1183.61,1,Corporate
+ORD-496230,2024-02-26,West,Maharashtra,Electronics,Phones,42728.14,1547.15,1,Corporate
+ORD-930892,2023-11-25,South,Karnataka,Furniture,Sofas,150000,12707.33,6,Consumer
+ORD-670019,2022-09-10,South,Telangana,Electronics,Cameras,115276.12,17510.77,6,Consumer
+ORD-335208,2022-02-19,North,Punjab,Furniture,Tables,150000,12181.25,7,Home Office
+ORD-335428,2023-08-01,East,West Bengal,Electronics,Phones,150000,4071.11,6,Corporate
+ORD-728738,2022-11-04,West,Goa,Electronics,Phones,27937.97,4558.2,1,Corporate
+ORD-927175,2022-11-01,South,Karnataka,Electronics,Printers,88182.67,-5533.05,4,Corporate
+ORD-251695,2022-07-05,South,Andhra Pradesh,Electronics,Accessories,7240.79,1101.86,2,Consumer
+ORD-941105,2023-05-19,East,Assam,Furniture,Sofas,38409.16,-3514.13,2,Corporate
+ORD-950701,2023-04-27,South,Tamil Nadu,Electronics,Accessories,37152.55,11055.53,8,Home Office
+ORD-958794,2022-10-13,South,Telangana,Office Supplies,Labels,1721.6,570.06,1,Consumer
+ORD-829578,2022-10-21,South,Andhra Pradesh,Electronics,Printers,14705.71,-501.87,1,Consumer
+ORD-113083,2024-05-02,South,Karnataka,Office Supplies,Storage Boxes,16132.13,3003.78,7,Consumer
+ORD-776171,2022-01-28,South,Tamil Nadu,Furniture,Tables,10760.73,2517.43,2,Corporate
+ORD-969812,2024-10-24,North,Delhi,Electronics,Phones,90025.19,5417.65,2,Consumer
+ORD-749114,2022-04-25,South,Telangana,Furniture,Chairs,66527.97,9957.04,5,Corporate
+ORD-272830,2024-05-18,South,Tamil Nadu,Electronics,Tablets,19901.79,5368.14,1,Corporate
+ORD-168492,2023-09-26,South,Tamil Nadu,Electronics,Phones,150000,3364.66,9,Consumer
+ORD-423595,2024-10-21,West,Goa,Office Supplies,Storage Boxes,6331.12,1297.11,3,Corporate
+ORD-626570,2022-11-04,West,Madhya Pradesh,Furniture,Chairs,6773.82,1534.87,1,Corporate
+ORD-326122,2022-10-16,South,Telangana,Furniture,Sofas,148880.32,17957.94,3,Consumer
+ORD-477819,2024-06-01,West,Madhya Pradesh,Electronics,Cameras,101599.27,-8657.39,3,Consumer
+ORD-115667,2022-10-20,North,Uttar Pradesh,Furniture,Storage,23230.48,1622.93,2,Consumer
+ORD-480977,2023-12-25,South,Andhra Pradesh,Electronics,Accessories,37755.18,14852.58,9,Consumer
+ORD-481128,2023-08-11,West,Gujarat,Furniture,Sofas,150000,9450.14,5,Corporate
+ORD-630519,2024-07-10,West,Maharashtra,Furniture,Chairs,33543.88,6855.45,4,Home Office
+ORD-404779,2024-02-09,North,Uttar Pradesh,Electronics,Accessories,6210.66,1589.26,3,Consumer
+ORD-661109,2024-08-10,South,Tamil Nadu,Office Supplies,Labels,2556.4,692.33,4,Home Office
+ORD-609917,2024-09-02,North,Rajasthan,Electronics,Accessories,1460.62,476.92,1,Corporate
+ORD-730275,2024-02-18,West,Madhya Pradesh,Office Supplies,Paper,1775.64,632.21,1,Consumer
+ORD-766566,2022-12-27,South,Andhra Pradesh,Electronics,Printers,23317.2,2294.78,2,Consumer
+ORD-156352,2024-05-27,West,Gujarat,Electronics,Accessories,5819.56,1884.64,2,Consumer
+ORD-826559,2023-02-11,East,Assam,Electronics,Printers,150000,-19273.16,9,Consumer
+ORD-580938,2022-10-30,North,Himachal Pradesh,Furniture,Sofas,150000,30872.64,4,Corporate
+ORD-138258,2022-12-07,South,Karnataka,Office Supplies,Storage Boxes,2847.76,470.85,3,Consumer
+ORD-421876,2024-10-25,South,Andhra Pradesh,Furniture,Storage,12405.38,-113.79,2,Consumer
+ORD-284354,2024-07-28,South,Telangana,Electronics,Accessories,8605.82,3193.89,2,Corporate
+ORD-558745,2022-08-01,South,Andhra Pradesh,Electronics,Printers,75633.73,15446.83,4,Consumer
+ORD-403986,2024-05-11,West,Madhya Pradesh,Electronics,Accessories,16622.09,4770.76,8,Consumer
+ORD-960270,2024-03-21,North,Delhi,Furniture,Bookcases,46217.92,10176.36,6,Consumer
+ORD-353288,2024-04-29,South,Kerala,Office Supplies,Envelopes,3999.73,611.96,5,Consumer
+ORD-699982,2024-05-30,Central,Chhattisgarh,Furniture,Storage,50066.58,5402.44,5,Home Office
+ORD-282155,2024-11-25,North,Himachal Pradesh,Office Supplies,Envelopes,822.62,201.75,1,Corporate
+ORD-372871,2022-11-22,South,Tamil Nadu,Electronics,Phones,90229.93,11420.18,3,Consumer
+ORD-500980,2024-01-04,East,Odisha,Electronics,Cameras,138052.2,-8243.01,5,Consumer
+ORD-373132,2022-04-16,Central,Jammu & Kashmir,Electronics,Cameras,54975.76,7791.35,5,Consumer
+ORD-289401,2022-07-10,West,Gujarat,Electronics,Accessories,9447.41,2474.5,4,Consumer
+ORD-756075,2022-06-06,North,Punjab,Furniture,Storage,18990.32,4274.59,5,Corporate
+ORD-736123,2022-03-06,North,Punjab,Furniture,Sofas,30601.75,4229.04,3,Consumer
+ORD-227500,2022-11-09,North,Delhi,Electronics,Laptops,82496.48,11127.57,1,Consumer
+ORD-678286,2023-08-26,West,Madhya Pradesh,Furniture,Storage,31506.52,8040.63,7,Corporate
+ORD-852244,2023-10-01,South,Andhra Pradesh,Furniture,Storage,21259.73,2246.04,2,Consumer
+ORD-694691,2023-12-24,East,West Bengal,Furniture,Chairs,72752.39,3009.07,8,Home Office
+ORD-656267,2023-12-23,South,Kerala,Furniture,Tables,16571.33,-859.37,2,Consumer
+ORD-444844,2022-05-16,East,Assam,Electronics,Cameras,24413.42,5230.0,1,Home Office
+ORD-178458,2024-06-10,North,Delhi,Electronics,Accessories,9912.34,2267.54,2,Consumer
+ORD-442753,2024-02-24,South,Tamil Nadu,Furniture,Sofas,150000,17746.35,9,Consumer
+ORD-659380,2024-12-16,East,West Bengal,Furniture,Storage,21133.49,1507.75,4,Corporate
+ORD-512433,2022-07-30,South,Tamil Nadu,Electronics,Tablets,150000,33567.04,5,Consumer
+ORD-192292,2022-04-18,West,Maharashtra,Electronics,Tablets,21221.21,1248.76,1,Consumer
+ORD-278612,2022-10-10,South,Kerala,Office Supplies,Scissors & Cutters,4492.54,892.94,3,Corporate
+ORD-800695,2022-09-08,North,Haryana,Furniture,Bookcases,28464.21,4396.92,2,Consumer
+ORD-186816,2023-12-24,West,Gujarat,Furniture,Chairs,39009.52,9183.12,9,Corporate
+ORD-297045,2024-09-25,South,Telangana,Office Supplies,Envelopes,4802.44,1155.77,5,Consumer
+ORD-629018,2024-11-17,North,Uttar Pradesh,Electronics,Laptops,150000,-9914.31,3,Consumer
+ORD-215552,2023-05-08,North,Punjab,Electronics,Printers,20558.7,4100.49,2,Consumer
+ORD-516209,2024-10-25,North,Haryana,Electronics,Phones,25237.14,5891.78,1,Consumer
+ORD-298652,2024-04-04,North,Rajasthan,Furniture,Storage,2498.71,437.92,1,Consumer
+ORD-137421,2023-06-30,East,Bihar,Electronics,Cameras,56769.31,8675.6,3,Consumer
+ORD-964098,2022-12-17,North,Punjab,Office Supplies,Pens & Stationery,1387.44,439.98,4,Consumer
+ORD-821353,2023-05-04,West,Gujarat,Electronics,Accessories,557.31,107.74,1,Consumer
+ORD-450281,2022-02-12,North,Uttar Pradesh,Electronics,Phones,131619.11,11154.41,3,Consumer
+ORD-214699,2024-12-11,West,Maharashtra,Electronics,Printers,26020.54,2440.3,2,Corporate
+ORD-365852,2023-12-24,North,Rajasthan,Office Supplies,Scissors & Cutters,7038.95,1920.94,5,Corporate
+ORD-255084,2022-10-18,South,Telangana,Office Supplies,Labels,3221.87,1288.98,2,Home Office
+ORD-769760,2024-12-15,Central,Uttarakhand,Office Supplies,Labels,5957.91,1807.71,3,Corporate
+ORD-228934,2023-12-12,Central,Uttarakhand,Office Supplies,Paper,1271.84,372.71,2,Corporate
+ORD-418395,2024-09-24,West,Maharashtra,Furniture,Tables,25757.51,6299.57,1,Corporate
+ORD-100672,2022-04-13,North,Punjab,Office Supplies,Envelopes,2906.66,835.44,3,Consumer
+ORD-190181,2023-07-09,West,Madhya Pradesh,Furniture,Chairs,3707.01,946.07,1,Corporate
+ORD-505002,2024-05-15,Central,Uttarakhand,Office Supplies,Envelopes,1527.82,321.23,2,Consumer
+ORD-706252,2022-10-13,South,Karnataka,Furniture,Tables,17351.16,1811.88,2,Home Office
+ORD-558115,2022-07-16,North,Punjab,Furniture,Bookcases,19974.74,1447.37,2,Consumer
+ORD-530187,2024-08-02,East,Jharkhand,Electronics,Laptops,133966.05,-9957.29,3,Consumer
+ORD-892026,2024-03-15,East,Jharkhand,Office Supplies,Scissors & Cutters,2614.08,-89.7,2,Home Office
+ORD-212248,2023-11-14,West,Madhya Pradesh,Furniture,Chairs,17076.95,2977.39,1,Corporate
+ORD-689351,2024-10-11,West,Gujarat,Electronics,Tablets,150000,7239.22,4,Corporate
+ORD-310449,2022-08-23,South,Tamil Nadu,Furniture,Tables,21580.98,-694.5,1,Consumer
+ORD-292984,2022-09-10,East,Odisha,Electronics,Printers,22684.9,653.08,3,Consumer
+ORD-404124,2024-10-06,North,Haryana,Furniture,Chairs,42722.58,7543.23,2,Consumer
+ORD-708738,2023-09-13,East,Assam,Furniture,Bookcases,84405.6,11418.16,8,Home Office
+ORD-475125,2024-10-27,Central,Jammu & Kashmir,Electronics,Phones,14940.19,794.12,1,Consumer
+ORD-923091,2024-09-17,North,Himachal Pradesh,Electronics,Printers,116416.79,7779.48,7,Consumer
+ORD-708934,2023-12-14,West,Maharashtra,Electronics,Printers,6550.84,1463.11,1,Home Office
+ORD-947831,2023-04-30,West,Madhya Pradesh,Office Supplies,Labels,2836.93,697.72,7,Consumer
+ORD-886363,2022-05-30,North,Himachal Pradesh,Office Supplies,Paper,2975.67,156.37,2,Corporate
+ORD-309436,2023-02-05,North,Punjab,Electronics,Printers,17207.57,5021.96,1,Consumer
+ORD-710384,2022-07-17,West,Maharashtra,Electronics,Accessories,13170.63,2826.72,3,Home Office
+ORD-863660,2024-12-17,West,Madhya Pradesh,Furniture,Bookcases,36198.75,9484.32,3,Consumer
+ORD-548278,2022-06-10,East,West Bengal,Electronics,Laptops,60134.97,16295.74,1,Consumer
+ORD-475290,2022-11-20,South,Telangana,Electronics,Cameras,150000,21488.97,7,Corporate
+ORD-216260,2022-03-08,North,Punjab,Office Supplies,Binders,1867.72,572.68,1,Corporate
+ORD-165356,2022-03-14,South,Andhra Pradesh,Furniture,Sofas,150000,-9097.94,7,Corporate
+ORD-209116,2024-06-02,West,Gujarat,Electronics,Phones,36927.43,7988.61,1,Consumer
+ORD-816801,2022-04-17,North,Delhi,Furniture,Storage,6311.66,1756.56,2,Consumer
+ORD-745559,2023-12-04,South,Karnataka,Electronics,Phones,40407.85,8153.49,1,Home Office
+ORD-115622,2022-06-06,North,Punjab,Electronics,Tablets,110795.67,6108.65,3,Home Office
+ORD-236017,2022-06-06,East,Jharkhand,Office Supplies,Scissors & Cutters,2796.24,803.82,2,Corporate
+ORD-406900,2023-07-02,East,West Bengal,Electronics,Accessories,13193.69,4858.32,4,Consumer
+ORD-243792,2024-12-02,West,Gujarat,Electronics,Printers,40876.04,4211.72,5,Consumer
+ORD-623142,2022-03-11,East,Bihar,Office Supplies,Binders,2636.44,511.85,1,Consumer
+ORD-501172,2023-04-05,South,Andhra Pradesh,Furniture,Bookcases,14681.95,4640.97,1,Corporate
+ORD-452550,2023-11-30,East,Jharkhand,Office Supplies,Storage Boxes,14657.98,2294.35,4,Home Office
+ORD-401380,2024-12-31,East,Assam,Office Supplies,Pens & Stationery,773.49,-63.4,1,Home Office
+ORD-189691,2023-08-29,North,Rajasthan,Electronics,Tablets,101723.81,13794.15,3,Corporate
+ORD-737533,2022-01-26,East,Bihar,Office Supplies,Scissors & Cutters,855.27,154.5,1,Consumer
+ORD-985339,2023-03-23,East,West Bengal,Electronics,Cameras,101216.76,14884.66,3,Consumer
+ORD-924952,2023-07-20,North,Delhi,Furniture,Tables,150000,26651.22,6,Corporate
+ORD-561697,2023-10-12,West,Maharashtra,Office Supplies,Pens & Stationery,2240.61,964.53,9,Corporate
+ORD-146906,2023-04-26,South,Andhra Pradesh,Electronics,Phones,20054.19,1428.15,1,Consumer
+ORD-773067,2022-10-21,East,Bihar,Electronics,Accessories,14971.74,5264.05,6,Consumer
+ORD-486192,2022-04-02,South,Telangana,Electronics,Cameras,16453.86,1906.87,1,Corporate
+ORD-847467,2022-11-04,Central,Chhattisgarh,Office Supplies,Paper,6555.08,434.86,3,Corporate
+ORD-227131,2024-12-16,East,Assam,Furniture,Bookcases,16394.48,2069.63,1,Consumer
+ORD-577963,2023-10-07,South,Karnataka,Furniture,Storage,11877.01,2893.98,2,Home Office
+ORD-785066,2022-10-10,West,Goa,Electronics,Phones,54559.97,812.98,2,Consumer
+ORD-288655,2024-07-18,South,Kerala,Office Supplies,Storage Boxes,22239.93,5253.67,7,Consumer
+ORD-552376,2022-05-30,West,Madhya Pradesh,Office Supplies,Pens & Stationery,1106.01,402.13,1,Consumer
+ORD-964776,2023-11-21,East,West Bengal,Electronics,Tablets,150000,25125.73,7,Corporate
+ORD-834122,2022-10-03,West,Maharashtra,Electronics,Phones,71393.16,8393.57,3,Corporate
+ORD-716647,2022-07-18,North,Uttar Pradesh,Furniture,Sofas,131287.85,25481.74,3,Consumer
+ORD-434053,2023-10-06,North,Uttar Pradesh,Electronics,Accessories,9356.21,4210.29,2,Corporate
+ORD-342928,2023-07-25,South,Telangana,Office Supplies,Binders,1798.09,387.39,3,Home Office
+ORD-664045,2023-02-04,West,Maharashtra,Electronics,Tablets,150000,17125.55,7,Consumer
+ORD-214939,2022-09-03,North,Punjab,Electronics,Laptops,150000,-11661.62,10,Corporate
+ORD-862693,2022-06-02,East,Bihar,Furniture,Sofas,38890.62,-1168.43,3,Corporate
+ORD-299647,2022-01-17,East,Odisha,Furniture,Bookcases,21566.2,-694.46,2,Consumer
+ORD-238193,2023-03-15,South,Telangana,Furniture,Tables,29079.36,2573.64,1,Consumer
+ORD-656228,2024-09-20,East,Assam,Electronics,Accessories,1485.19,252.72,1,Home Office
+ORD-901045,2023-08-12,North,Delhi,Furniture,Chairs,24038.94,3500.65,1,Consumer
+ORD-234278,2023-04-26,North,Delhi,Office Supplies,Scissors & Cutters,1949.42,433.59,2,Consumer
+ORD-807777,2023-10-13,West,Madhya Pradesh,Electronics,Phones,36724.17,7663.62,1,Consumer
+ORD-700315,2022-12-08,West,Maharashtra,Office Supplies,Envelopes,1067.61,232.26,3,Home Office
+ORD-122143,2024-02-16,West,Goa,Office Supplies,Envelopes,249.22,75.85,1,Home Office
+ORD-978862,2023-04-15,South,Kerala,Electronics,Laptops,123497.23,-12911.41,3,Corporate
+ORD-652133,2024-09-20,North,Uttar Pradesh,Electronics,Printers,9086.87,2043.49,1,Consumer
+ORD-876497,2022-06-06,West,Madhya Pradesh,Electronics,Printers,70365.39,-6585.31,5,Corporate
+ORD-303721,2023-10-02,North,Himachal Pradesh,Electronics,Tablets,33882.95,2913.03,2,Consumer
+ORD-333049,2024-09-16,West,Gujarat,Electronics,Accessories,19126.23,4670.06,4,Corporate
+ORD-849290,2022-08-10,East,West Bengal,Electronics,Laptops,111984.82,-6772.81,2,Consumer
+ORD-613604,2023-05-27,North,Haryana,Furniture,Sofas,49429.27,8829.54,4,Consumer
+ORD-876482,2023-11-23,South,Telangana,Furniture,Chairs,8244.33,825.0,1,Home Office
+ORD-347190,2023-10-22,North,Rajasthan,Office Supplies,Storage Boxes,1255.31,315.92,1,Consumer
+ORD-893653,2022-01-28,West,Gujarat,Electronics,Phones,23694.74,5897.92,1,Consumer
+ORD-885376,2024-05-06,North,Haryana,Office Supplies,Storage Boxes,20757.7,6975.32,7,Corporate
+ORD-489684,2022-12-06,East,Odisha,Office Supplies,Storage Boxes,5856.2,1414.52,2,Home Office
+ORD-241913,2022-12-03,West,Maharashtra,Electronics,Laptops,33660.45,7723.02,1,Consumer
+ORD-827759,2023-11-09,East,Assam,Electronics,Tablets,115903.02,21572.98,3,Home Office
+ORD-546867,2023-09-19,West,Goa,Furniture,Tables,10334.76,1908.21,1,Consumer
+ORD-375710,2022-07-29,East,Jharkhand,Electronics,Cameras,102299.37,10757.25,3,Consumer
+ORD-102800,2022-10-28,North,Uttar Pradesh,Electronics,Phones,40284.04,2203.0,1,Consumer
+ORD-417255,2024-10-21,North,Haryana,Electronics,Accessories,9445.27,2378.44,4,Corporate
+ORD-324289,2022-12-31,North,Haryana,Office Supplies,Pens & Stationery,2072.18,775.96,4,Home Office
+ORD-300261,2022-01-22,North,Delhi,Electronics,Tablets,75018.28,17752.76,2,Consumer
+ORD-386290,2024-09-07,Central,Jammu & Kashmir,Electronics,Printers,13582.71,-1246.93,1,Corporate
+ORD-576557,2024-10-01,West,Maharashtra,Electronics,Phones,114098.37,28432.29,3,Consumer
+ORD-974579,2022-09-02,East,West Bengal,Electronics,Cameras,31019.55,7876.36,1,Corporate
+ORD-448824,2024-04-05,East,West Bengal,Electronics,Cameras,15199.17,1904.22,1,Corporate
+ORD-529131,2022-12-21,West,Maharashtra,Electronics,Cameras,37373.48,6403.6,2,Corporate
+ORD-693692,2024-08-06,Central,Chhattisgarh,Office Supplies,Paper,2730.52,-184.08,2,Consumer
+ORD-859459,2023-05-21,West,Gujarat,Office Supplies,Storage Boxes,970.67,258.33,1,Corporate
+ORD-286650,2023-07-26,North,Delhi,Office Supplies,Pens & Stationery,2581.47,801.63,6,Consumer
+ORD-613682,2023-12-29,North,Himachal Pradesh,Furniture,Tables,36194.78,10272.95,1,Consumer
+ORD-836296,2024-06-07,West,Goa,Electronics,Printers,106193.34,11781.78,8,Consumer
+ORD-373516,2024-11-24,South,Karnataka,Furniture,Bookcases,20221.46,1834.8,2,Consumer
+ORD-835354,2022-01-17,North,Punjab,Furniture,Chairs,10876.1,2582.58,1,Corporate
+ORD-560333,2023-11-23,North,Uttar Pradesh,Office Supplies,Paper,7882.98,2450.78,4,Consumer
+ORD-911673,2022-12-02,Central,Jammu & Kashmir,Office Supplies,Envelopes,1304.65,370.96,1,Home Office
+ORD-424296,2022-10-17,North,Delhi,Furniture,Tables,11530.85,2507.54,1,Home Office
+ORD-557754,2022-11-12,West,Goa,Electronics,Laptops,122660.11,12769.22,2,Corporate
+ORD-840529,2022-07-16,North,Delhi,Electronics,Tablets,150000,-1897.52,6,Corporate
+ORD-545217,2023-12-12,West,Maharashtra,Electronics,Cameras,15129.02,2201.04,1,Corporate
+ORD-517522,2022-10-10,South,Kerala,Furniture,Bookcases,13331.3,2052.47,2,Consumer
+ORD-808074,2024-09-11,Central,Uttarakhand,Electronics,Accessories,12762.14,2585.31,3,Consumer
+ORD-524121,2022-01-26,South,Telangana,Electronics,Accessories,3442.18,968.16,1,Corporate
+ORD-542978,2022-04-22,North,Himachal Pradesh,Electronics,Accessories,8029.03,1834.96,2,Home Office
+ORD-217096,2024-12-24,West,Maharashtra,Electronics,Tablets,150000,-2299.85,7,Corporate
+ORD-577090,2024-06-09,North,Uttar Pradesh,Office Supplies,Labels,3623.16,982.82,2,Consumer
+ORD-410529,2023-01-02,North,Haryana,Electronics,Printers,6675.25,459.25,1,Corporate
+ORD-515461,2023-05-25,East,Odisha,Office Supplies,Storage Boxes,7313.39,1272.91,2,Home Office
+ORD-975474,2024-12-08,South,Kerala,Electronics,Laptops,150000,-10689.48,3,Corporate
+ORD-454180,2023-09-11,South,Kerala,Office Supplies,Storage Boxes,20867.58,4541.34,6,Consumer
+ORD-373652,2022-04-11,North,Haryana,Electronics,Printers,36611.23,5168.28,4,Corporate
+ORD-290065,2023-08-07,North,Uttar Pradesh,Office Supplies,Storage Boxes,1654.57,111.84,1,Consumer
+ORD-332074,2023-04-06,North,Uttar Pradesh,Furniture,Sofas,150000,1150.35,5,Consumer
+ORD-507937,2023-10-17,North,Haryana,Office Supplies,Labels,1636.16,481.47,1,Home Office
+ORD-182427,2023-12-09,West,Goa,Electronics,Tablets,51346.59,9780.32,2,Corporate
+ORD-754589,2023-12-22,North,Uttar Pradesh,Office Supplies,Pens & Stationery,2602.46,995.2,3,Corporate
+ORD-990941,2022-09-10,South,Tamil Nadu,Furniture,Tables,150000,23069.1,5,Home Office
+ORD-676790,2024-04-16,South,Telangana,Electronics,Tablets,91795.7,11035.15,3,Corporate
+ORD-626704,2024-12-26,West,Madhya Pradesh,Office Supplies,Pens & Stationery,4464.93,1140.84,5,Consumer
+ORD-402417,2023-11-16,East,West Bengal,Electronics,Printers,23186.9,3711.21,2,Consumer
+ORD-698301,2023-10-28,South,Andhra Pradesh,Furniture,Bookcases,13890.2,2282.77,1,Consumer
+ORD-636174,2022-11-27,West,Gujarat,Electronics,Printers,71913.4,11188.67,7,Corporate
+ORD-353633,2024-10-21,West,Goa,Office Supplies,Paper,1543.48,318.66,1,Corporate
+ORD-815153,2024-12-29,North,Himachal Pradesh,Electronics,Accessories,18928.52,2217.63,5,Corporate
+ORD-561421,2022-08-01,North,Rajasthan,Office Supplies,Binders,5664.65,2454.07,4,Corporate
+ORD-248845,2023-03-07,North,Himachal Pradesh,Electronics,Printers,17341.85,2094.85,2,Corporate
+ORD-833543,2022-10-31,South,Kerala,Furniture,Bookcases,30431.21,6719.15,2,Consumer
+ORD-847717,2022-11-13,West,Gujarat,Furniture,Storage,4825.37,727.28,1,Consumer
+ORD-481851,2024-11-07,Central,Uttarakhand,Furniture,Tables,150000,12152.49,9,Home Office
+ORD-779872,2022-12-13,North,Haryana,Office Supplies,Binders,2052.61,692.42,3,Corporate
+ORD-864162,2022-03-09,South,Kerala,Furniture,Bookcases,34459.66,6820.44,3,Corporate
+ORD-183306,2024-12-06,North,Himachal Pradesh,Electronics,Printers,46658.49,10411.69,5,Consumer
+ORD-879207,2022-09-29,South,Karnataka,Electronics,Cameras,21306.59,7332.06,2,Home Office
+ORD-153564,2023-10-16,South,Andhra Pradesh,Electronics,Phones,25458.71,3027.5,2,Consumer
+ORD-550631,2022-12-28,North,Punjab,Office Supplies,Pens & Stationery,937.48,286.75,1,Corporate
+ORD-627499,2024-11-09,South,Tamil Nadu,Office Supplies,Storage Boxes,8021.94,1520.65,2,Consumer
+ORD-916622,2023-03-13,North,Rajasthan,Furniture,Bookcases,48608.61,1410.97,7,Consumer
+ORD-301225,2022-11-20,South,Telangana,Office Supplies,Storage Boxes,7099.99,1862.52,3,Home Office
+ORD-974972,2023-09-14,North,Himachal Pradesh,Electronics,Printers,19240.51,3596.47,2,Corporate
+ORD-105948,2024-04-07,North,Himachal Pradesh,Office Supplies,Labels,1332.46,372.44,4,Corporate
+ORD-409116,2024-02-04,North,Haryana,Electronics,Cameras,118127.26,9746.99,4,Corporate
+ORD-561481,2023-07-16,North,Punjab,Office Supplies,Storage Boxes,11539.64,4347.28,3,Consumer
+ORD-840807,2024-09-24,Central,Jammu & Kashmir,Electronics,Phones,20679.6,1843.93,1,Consumer
+ORD-398042,2022-08-16,West,Maharashtra,Electronics,Printers,14553.18,2612.01,2,Consumer
+ORD-357138,2023-11-03,West,Goa,Furniture,Bookcases,19966.79,4285.72,3,Home Office
+ORD-833218,2023-03-16,North,Haryana,Electronics,Laptops,150000,-4787.86,3,Consumer
+ORD-515559,2024-12-18,Central,Uttarakhand,Electronics,Accessories,54501.6,18068.32,10,Consumer
+ORD-449964,2024-11-17,South,Andhra Pradesh,Furniture,Tables,135631.28,21602.71,4,Corporate
+ORD-782039,2023-11-08,East,Bihar,Furniture,Storage,37678.44,9058.02,6,Consumer
+ORD-108952,2023-04-07,South,Karnataka,Furniture,Bookcases,26301.16,5249.74,2,Home Office
+ORD-849631,2022-11-09,South,Kerala,Electronics,Phones,86400.91,27246.23,2,Consumer
+ORD-465449,2022-05-22,North,Delhi,Furniture,Tables,39699.85,5566.28,2,Consumer
+ORD-243982,2024-06-19,Central,Chhattisgarh,Furniture,Tables,41276.87,13253.82,2,Consumer
+ORD-954064,2022-09-13,South,Telangana,Office Supplies,Binders,1024.09,460.84,1,Consumer
+ORD-432272,2024-04-30,Central,Jammu & Kashmir,Electronics,Tablets,76914.22,-3399.81,2,Consumer
+ORD-999146,2022-07-24,Central,Chhattisgarh,Furniture,Bookcases,13817.0,408.98,1,Consumer
+ORD-388060,2023-10-25,West,Gujarat,Furniture,Tables,21211.86,-1688.9,2,Consumer
+ORD-875788,2023-08-24,North,Delhi,Furniture,Tables,150000,16690.18,7,Consumer
+ORD-270261,2023-09-19,North,Punjab,Furniture,Chairs,41179.22,1618.87,4,Home Office
+ORD-135885,2024-12-11,South,Kerala,Office Supplies,Binders,1525.13,386.18,2,Home Office
+ORD-561809,2022-01-02,North,Punjab,Electronics,Printers,38707.16,5549.1,2,Consumer
+ORD-616740,2023-02-06,East,Odisha,Electronics,Phones,138155.67,16816.43,4,Consumer
+ORD-865492,2023-09-09,Central,Jammu & Kashmir,Furniture,Sofas,136029.94,29010.78,3,Consumer
+ORD-793320,2022-10-25,Central,Chhattisgarh,Office Supplies,Scissors & Cutters,736.48,-60.04,2,Consumer
+ORD-438199,2024-11-19,North,Delhi,Electronics,Accessories,10361.54,3165.05,4,Home Office
+ORD-900345,2024-11-29,West,Madhya Pradesh,Furniture,Sofas,20394.52,4639.46,1,Home Office
+ORD-421944,2024-07-15,Central,Chhattisgarh,Office Supplies,Envelopes,1020.03,306.05,1,Corporate
+ORD-248592,2023-12-26,West,Maharashtra,Office Supplies,Pens & Stationery,2533.21,971.48,2,Corporate
+ORD-765748,2022-11-08,Central,Uttarakhand,Office Supplies,Pens & Stationery,1547.67,550.58,1,Corporate
+ORD-541727,2024-09-02,South,Kerala,Electronics,Tablets,122829.46,24238.93,4,Corporate
+ORD-170060,2022-10-15,West,Gujarat,Electronics,Laptops,150000,42862.55,3,Consumer
+ORD-389635,2022-11-07,South,Kerala,Office Supplies,Binders,5829.65,2032.57,3,Consumer
+ORD-559561,2024-07-19,West,Goa,Office Supplies,Binders,5455.58,1270.77,2,Consumer
+ORD-589187,2024-01-13,West,Madhya Pradesh,Office Supplies,Labels,2769.4,977.47,2,Corporate
+ORD-389266,2023-11-05,West,Goa,Electronics,Phones,112987.25,14844.64,4,Consumer
+ORD-554837,2023-06-29,West,Madhya Pradesh,Furniture,Sofas,61517.34,13537.25,2,Corporate
+ORD-932149,2023-05-04,East,Assam,Furniture,Storage,9594.6,1136.38,4,Consumer
+ORD-583124,2024-12-06,North,Himachal Pradesh,Office Supplies,Labels,1118.42,503.29,3,Consumer
+ORD-532164,2023-06-04,West,Goa,Office Supplies,Paper,1632.31,439.43,1,Consumer
+ORD-833064,2022-11-25,West,Goa,Office Supplies,Scissors & Cutters,2881.14,993.35,2,Corporate
+ORD-875798,2023-04-12,North,Himachal Pradesh,Electronics,Accessories,5474.73,1141.43,2,Consumer
+ORD-501286,2023-02-19,West,Goa,Electronics,Accessories,23378.81,8143.63,6,Consumer
+ORD-710110,2022-12-31,West,Gujarat,Electronics,Printers,57767.59,7055.62,3,Corporate
+ORD-658710,2023-12-26,Central,Chhattisgarh,Office Supplies,Storage Boxes,19001.56,3515.78,5,Consumer
+ORD-142753,2023-07-15,North,Himachal Pradesh,Office Supplies,Paper,6291.63,1326.72,6,Corporate
+ORD-252438,2022-01-26,Central,Jammu & Kashmir,Furniture,Storage,15024.52,1050.9,2,Corporate
+ORD-757724,2023-06-24,North,Delhi,Electronics,Tablets,31409.57,3793.61,1,Consumer
+ORD-967641,2022-09-21,Central,Jammu & Kashmir,Office Supplies,Envelopes,2014.51,269.3,2,Corporate
+ORD-680987,2024-06-15,North,Delhi,Electronics,Accessories,2276.87,426.52,3,Consumer
+ORD-840618,2022-10-30,North,Himachal Pradesh,Electronics,Tablets,150000,-2691.39,7,Home Office
+ORD-325657,2024-07-14,West,Goa,Electronics,Cameras,86859.13,13654.81,4,Consumer
+ORD-903524,2024-12-20,South,Karnataka,Electronics,Cameras,150000,48715.48,4,Corporate
+ORD-447907,2022-07-02,North,Himachal Pradesh,Office Supplies,Labels,4740.97,1559.21,5,Consumer
+ORD-988422,2023-12-05,North,Delhi,Office Supplies,Pens & Stationery,932.85,353.63,2,Corporate
+ORD-456222,2024-12-08,West,Maharashtra,Office Supplies,Binders,2216.75,997.54,3,Home Office
+ORD-113189,2022-01-10,North,Rajasthan,Furniture,Chairs,57172.85,6957.82,8,Consumer
+ORD-816367,2022-11-13,East,Jharkhand,Office Supplies,Scissors & Cutters,537.42,-7.25,1,Corporate
+ORD-932199,2022-08-09,South,Telangana,Electronics,Phones,60659.25,21459.92,2,Home Office
+ORD-790474,2022-05-15,North,Delhi,Office Supplies,Labels,987.28,288.28,1,Consumer
+ORD-603760,2024-12-25,West,Gujarat,Electronics,Laptops,86473.75,-1935.58,2,Consumer
+ORD-688516,2023-09-19,West,Goa,Office Supplies,Storage Boxes,3460.02,1031.73,1,Consumer
+ORD-193519,2022-12-22,West,Maharashtra,Electronics,Tablets,47223.82,10591.7,2,Consumer
+ORD-633069,2024-12-09,East,West Bengal,Office Supplies,Binders,1992.62,389.25,2,Corporate
+ORD-619333,2022-02-01,North,Himachal Pradesh,Electronics,Tablets,18730.85,4003.78,1,Home Office
+ORD-508856,2023-04-13,West,Maharashtra,Electronics,Cameras,26050.39,285.93,1,Home Office
+ORD-543380,2023-09-27,West,Goa,Furniture,Chairs,24200.15,4108.94,2,Corporate
+ORD-611932,2024-03-20,West,Gujarat,Furniture,Tables,9003.31,-892.4,1,Consumer
+ORD-663022,2023-11-02,West,Madhya Pradesh,Electronics,Tablets,28418.1,7925.48,1,Home Office
+ORD-190705,2024-10-16,East,West Bengal,Furniture,Chairs,4060.02,-294.05,1,Consumer
+ORD-557125,2022-10-20,West,Gujarat,Office Supplies,Storage Boxes,5985.97,919.03,2,Home Office
+ORD-467124,2024-08-04,East,Jharkhand,Electronics,Tablets,36613.19,10935.26,2,Consumer
+ORD-856213,2024-06-17,North,Delhi,Furniture,Bookcases,18021.26,3093.31,3,Corporate
+ORD-529836,2024-11-26,East,Odisha,Office Supplies,Pens & Stationery,785.1,249.58,2,Consumer
+ORD-690045,2022-06-01,West,Madhya Pradesh,Office Supplies,Storage Boxes,5987.9,760.19,2,Consumer
+ORD-614391,2023-05-28,Central,Uttarakhand,Furniture,Tables,71561.1,17868.46,2,Corporate
+ORD-507321,2022-10-22,North,Rajasthan,Office Supplies,Labels,1407.66,221.43,1,Consumer
+ORD-574283,2024-08-07,North,Haryana,Electronics,Cameras,13857.9,3153.78,1,Consumer
+ORD-304054,2024-04-16,North,Haryana,Electronics,Phones,49471.67,16325.1,2,Home Office
+ORD-532136,2022-04-15,North,Delhi,Furniture,Sofas,95455.94,-3879.84,2,Corporate
+ORD-280712,2022-11-16,East,Odisha,Electronics,Tablets,74031.62,14609.83,2,Corporate
+ORD-871036,2022-05-14,South,Tamil Nadu,Electronics,Phones,82733.48,11979.67,2,Consumer
+ORD-257918,2023-03-13,South,Telangana,Office Supplies,Envelopes,3879.7,961.22,6,Consumer
+ORD-941310,2022-11-24,South,Andhra Pradesh,Electronics,Cameras,50698.88,9437.86,2,Corporate
+ORD-394895,2024-08-26,South,Tamil Nadu,Furniture,Bookcases,85319.34,14955.07,7,Home Office
+ORD-694315,2023-12-06,Central,Uttarakhand,Electronics,Laptops,150000,-17025.43,3,Consumer
+ORD-765030,2023-10-19,West,Maharashtra,Electronics,Accessories,4792.3,1706.27,1,Consumer
+ORD-393859,2022-12-08,North,Punjab,Electronics,Accessories,3971.32,1594.13,2,Corporate
+ORD-791442,2022-06-14,South,Telangana,Electronics,Cameras,18278.12,3812.27,1,Consumer
+ORD-804542,2023-11-19,East,Jharkhand,Furniture,Bookcases,9194.5,734.11,1,Consumer
+ORD-187352,2022-08-21,South,Tamil Nadu,Electronics,Laptops,70020.8,13875.02,2,Consumer
+ORD-114100,2023-11-30,East,Odisha,Furniture,Storage,17515.59,389.2,3,Consumer
+ORD-245453,2022-06-16,West,Maharashtra,Electronics,Printers,5749.98,1160.01,1,Consumer
+ORD-306883,2024-10-11,South,Kerala,Office Supplies,Envelopes,1342.57,413.04,5,Consumer
+ORD-284393,2023-02-09,West,Gujarat,Furniture,Chairs,21669.56,4383.12,1,Consumer
+ORD-976651,2024-11-03,South,Kerala,Office Supplies,Storage Boxes,932.2,183.21,1,Corporate
+ORD-395120,2022-11-27,South,Kerala,Office Supplies,Binders,7724.31,2668.73,3,Consumer
+ORD-880422,2022-06-30,West,Goa,Furniture,Sofas,37905.46,893.34,3,Corporate
+ORD-572684,2024-09-10,North,Haryana,Electronics,Printers,13808.44,2719.85,1,Consumer
+ORD-934930,2024-08-09,South,Andhra Pradesh,Furniture,Chairs,122051.02,26092.77,6,Consumer
+ORD-762902,2022-11-02,South,Karnataka,Electronics,Laptops,27911.86,4104.42,1,Consumer
+ORD-970085,2023-07-23,North,Himachal Pradesh,Furniture,Storage,25187.45,4497.91,7,Consumer
+ORD-211161,2022-10-17,Central,Chhattisgarh,Furniture,Chairs,142009.16,10756.69,8,Corporate
+ORD-457666,2022-09-20,Central,Chhattisgarh,Electronics,Tablets,35729.54,8149.97,2,Consumer
+ORD-427718,2023-11-29,North,Delhi,Office Supplies,Pens & Stationery,4292.01,1358.24,4,Corporate
+ORD-361199,2022-02-09,West,Madhya Pradesh,Office Supplies,Envelopes,1458.47,253.9,2,Consumer
+ORD-863181,2023-06-29,North,Delhi,Office Supplies,Pens & Stationery,2691.67,970.97,4,Consumer
+ORD-103201,2023-11-02,East,Assam,Electronics,Tablets,150000,2808.68,8,Corporate
+ORD-297336,2022-09-04,South,Karnataka,Furniture,Sofas,41628.37,-1919.02,1,Consumer
+ORD-126511,2024-05-13,North,Delhi,Furniture,Storage,23815.35,5805.31,3,Corporate
+ORD-212978,2023-07-15,South,Telangana,Furniture,Tables,48894.39,9784.0,3,Consumer
+ORD-248638,2023-10-08,North,Uttar Pradesh,Furniture,Bookcases,19295.28,2851.68,2,Consumer
+ORD-396651,2023-10-26,East,Assam,Electronics,Printers,56724.99,-2406.76,4,Consumer
+ORD-185101,2024-04-25,South,Andhra Pradesh,Furniture,Sofas,83178.3,14358.02,2,Corporate
+ORD-193819,2023-06-19,South,Telangana,Electronics,Printers,41913.99,7890.93,5,Consumer
+ORD-244360,2024-10-22,North,Himachal Pradesh,Furniture,Chairs,18810.24,3758.41,2,Corporate
+ORD-535094,2022-05-20,East,Odisha,Electronics,Accessories,3658.21,648.23,1,Consumer
+ORD-323114,2022-11-08,Central,Jammu & Kashmir,Furniture,Bookcases,34259.22,2651.84,3,Corporate
+ORD-450733,2023-02-05,North,Uttar Pradesh,Furniture,Storage,8033.68,959.04,1,Consumer
+ORD-293810,2022-08-19,West,Gujarat,Electronics,Cameras,64249.86,4625.91,4,Corporate
+ORD-324754,2023-09-14,South,Karnataka,Furniture,Bookcases,4333.38,1317.54,1,Home Office
+ORD-316376,2023-05-24,South,Tamil Nadu,Office Supplies,Envelopes,211.21,60.34,1,Consumer
+ORD-100009,2023-09-14,West,Gujarat,Electronics,Tablets,17341.99,435.2,1,Consumer
+ORD-537766,2022-02-15,South,Tamil Nadu,Electronics,Tablets,76205.76,18285.49,2,Home Office
+ORD-314607,2024-09-02,South,Karnataka,Furniture,Sofas,62776.15,-5598.39,3,Consumer
+ORD-516849,2024-02-12,North,Haryana,Furniture,Chairs,11906.22,2375.84,3,Consumer
+ORD-906913,2024-09-08,North,Himachal Pradesh,Electronics,Laptops,54119.29,14121.96,1,Corporate
+ORD-556491,2022-04-07,South,Kerala,Furniture,Storage,11465.35,2125.9,2,Home Office
+ORD-861474,2022-10-26,East,Jharkhand,Electronics,Accessories,10985.51,3468.19,2,Corporate
+ORD-527636,2022-10-09,North,Haryana,Furniture,Sofas,83386.61,19234.76,5,Home Office
+ORD-755425,2022-10-25,East,Odisha,Office Supplies,Envelopes,1047.63,243.53,1,Consumer
+ORD-625738,2022-01-09,East,Odisha,Office Supplies,Storage Boxes,7486.72,-567.99,4,Corporate
+ORD-675092,2024-03-15,North,Haryana,Furniture,Chairs,17165.85,4355.77,1,Corporate
+ORD-850992,2024-10-30,North,Uttar Pradesh,Furniture,Bookcases,10884.62,2689.83,1,Corporate
+ORD-201279,2023-01-27,South,Tamil Nadu,Electronics,Printers,8801.51,1881.93,1,Consumer
+ORD-831715,2023-09-07,North,Punjab,Furniture,Sofas,150000,16443.85,6,Corporate
+ORD-133049,2024-10-20,South,Andhra Pradesh,Office Supplies,Labels,6842.54,1116.41,4,Home Office
+ORD-818115,2024-02-18,North,Uttar Pradesh,Furniture,Sofas,19815.58,973.89,1,Corporate
+ORD-198572,2024-07-20,North,Rajasthan,Office Supplies,Binders,3763.13,1129.1,2,Corporate
+ORD-199566,2024-06-29,South,Kerala,Furniture,Storage,36783.15,3678.01,5,Corporate
+ORD-365503,2024-10-02,North,Delhi,Electronics,Cameras,22431.45,3652.28,2,Consumer
+ORD-105969,2022-12-28,South,Karnataka,Electronics,Printers,41184.04,3645.68,3,Home Office
+ORD-221728,2022-07-27,South,Telangana,Furniture,Storage,19886.75,1399.33,2,Home Office
+ORD-486178,2022-08-06,South,Andhra Pradesh,Furniture,Storage,2872.43,682.19,1,Home Office
+ORD-796990,2024-11-04,Central,Chhattisgarh,Electronics,Laptops,38236.23,2334.79,1,Home Office
+ORD-788141,2023-04-21,North,Himachal Pradesh,Office Supplies,Binders,3550.98,852.84,2,Consumer
+ORD-650044,2022-01-19,West,Goa,Office Supplies,Scissors & Cutters,1112.55,281.55,2,Consumer
+ORD-280793,2022-05-26,South,Telangana,Electronics,Phones,89250.15,8544.26,2,Consumer
+ORD-272734,2023-06-22,West,Maharashtra,Office Supplies,Scissors & Cutters,1062.25,306.58,2,Consumer
+ORD-977000,2022-09-18,Central,Jammu & Kashmir,Office Supplies,Storage Boxes,16998.61,2353.51,6,Corporate
+ORD-621282,2022-06-03,South,Tamil Nadu,Furniture,Tables,25592.8,4168.46,4,Home Office
+ORD-458070,2023-11-01,West,Madhya Pradesh,Furniture,Storage,45257.43,11495.36,4,Corporate
+ORD-815321,2022-10-09,South,Andhra Pradesh,Office Supplies,Envelopes,1725.48,460.24,2,Consumer
+ORD-638462,2023-04-12,Central,Chhattisgarh,Furniture,Bookcases,60172.66,8300.36,9,Consumer
+ORD-726797,2022-10-13,West,Gujarat,Furniture,Bookcases,48402.91,3180.52,4,Consumer
+ORD-857850,2023-11-22,East,Jharkhand,Electronics,Accessories,3729.57,994.0,2,Consumer
+ORD-735420,2022-05-28,Central,Jammu & Kashmir,Office Supplies,Binders,2529.98,739.19,1,Corporate
+ORD-961046,2024-05-11,South,Andhra Pradesh,Furniture,Storage,20291.04,5630.34,3,Consumer
+ORD-225246,2022-10-14,North,Uttar Pradesh,Electronics,Phones,29433.34,5990.66,1,Corporate
+ORD-314845,2022-05-03,North,Rajasthan,Office Supplies,Pens & Stationery,999.27,166.56,2,Corporate
+ORD-698335,2023-12-26,South,Telangana,Furniture,Tables,41056.01,-3166.4,1,Corporate
+ORD-382831,2024-09-22,North,Haryana,Electronics,Accessories,13540.45,3535.57,3,Home Office
+ORD-393046,2022-08-08,East,Jharkhand,Furniture,Sofas,139233.04,18285.2,5,Consumer
+ORD-503151,2024-02-18,West,Gujarat,Office Supplies,Labels,3575.5,1608.98,2,Consumer
+ORD-121722,2024-10-19,North,Haryana,Furniture,Bookcases,5721.12,716.43,1,Consumer
+ORD-328514,2023-10-06,North,Himachal Pradesh,Electronics,Laptops,150000,15093.92,2,Corporate
+ORD-776831,2022-05-13,West,Madhya Pradesh,Furniture,Bookcases,21746.81,2863.93,2,Consumer
+ORD-367309,2023-12-15,North,Punjab,Furniture,Tables,27469.89,-217.9,1,Consumer
+ORD-138056,2023-04-14,Central,Chhattisgarh,Furniture,Sofas,13170.21,2436.38,1,Consumer
+ORD-295056,2023-04-15,South,Tamil Nadu,Electronics,Phones,87559.6,12046.93,3,Corporate
+ORD-877094,2022-12-27,North,Haryana,Office Supplies,Paper,2109.13,731.67,1,Consumer
+ORD-921185,2022-11-09,South,Tamil Nadu,Electronics,Laptops,150000,32715.53,4,Consumer
+ORD-241504,2022-12-09,South,Karnataka,Electronics,Cameras,122392.78,17785.31,5,Consumer
+ORD-360272,2022-11-28,West,Maharashtra,Office Supplies,Paper,1213.12,351.35,1,Corporate
+ORD-514205,2024-11-30,East,Jharkhand,Office Supplies,Envelopes,2898.78,-419.69,7,Consumer
+ORD-532446,2024-02-05,North,Uttar Pradesh,Electronics,Printers,46996.43,6604.31,4,Corporate
+ORD-246638,2023-09-11,South,Karnataka,Office Supplies,Pens & Stationery,1612.51,310.28,2,Consumer
+ORD-535997,2022-04-16,South,Tamil Nadu,Electronics,Phones,83295.01,17483.52,2,Home Office
+ORD-554434,2023-12-28,East,West Bengal,Office Supplies,Scissors & Cutters,2001.32,-38.26,5,Corporate
+ORD-688869,2023-07-07,East,Assam,Electronics,Accessories,8186.6,2720.84,2,Corporate
+ORD-398767,2024-01-24,East,West Bengal,Office Supplies,Scissors & Cutters,2432.74,971.87,2,Corporate
+ORD-170557,2022-11-11,North,Himachal Pradesh,Office Supplies,Storage Boxes,6760.15,1867.98,4,Home Office
+ORD-197716,2024-02-26,North,Uttar Pradesh,Electronics,Laptops,62004.17,-4632.06,1,Consumer
+ORD-320846,2022-12-01,North,Haryana,Office Supplies,Paper,4482.1,1340.34,2,Consumer
+ORD-183854,2023-12-03,Central,Uttarakhand,Office Supplies,Pens & Stationery,3106.94,961.28,3,Consumer
+ORD-815084,2024-12-01,West,Gujarat,Electronics,Phones,41237.64,2766.77,2,Consumer
+ORD-524368,2023-06-12,South,Karnataka,Office Supplies,Paper,4337.13,1670.33,6,Corporate
+ORD-630415,2023-11-10,North,Rajasthan,Furniture,Chairs,94297.01,7783.23,4,Consumer
+ORD-553160,2022-11-12,Central,Uttarakhand,Office Supplies,Binders,3946.36,1449.33,2,Consumer
+ORD-346532,2023-08-10,West,Goa,Electronics,Tablets,107668.68,14512.69,3,Consumer
+ORD-186308,2022-01-18,North,Uttar Pradesh,Office Supplies,Scissors & Cutters,5387.82,1563.36,5,Consumer
+ORD-239967,2022-06-29,West,Goa,Electronics,Cameras,9066.87,1357.63,1,Consumer
+ORD-301586,2024-10-01,East,Assam,Office Supplies,Binders,6114.55,1560.61,5,Corporate
+ORD-200789,2024-10-13,West,Maharashtra,Electronics,Tablets,105842.41,13928.05,3,Consumer
+ORD-633595,2023-09-20,West,Madhya Pradesh,Furniture,Tables,138597.2,21118.32,4,Corporate
+ORD-138585,2022-06-12,West,Gujarat,Electronics,Accessories,3752.46,872.19,1,Consumer
+ORD-448890,2023-10-18,West,Madhya Pradesh,Furniture,Sofas,97810.95,23732.32,4,Consumer
+ORD-461848,2022-05-16,West,Goa,Electronics,Accessories,9698.97,2024.11,2,Corporate
+ORD-439297,2024-07-09,North,Himachal Pradesh,Furniture,Bookcases,116169.58,15497.73,8,Consumer
+ORD-362773,2024-05-01,West,Goa,Electronics,Laptops,64254.92,7865.28,1,Home Office
+ORD-855797,2023-12-04,North,Uttar Pradesh,Electronics,Cameras,13214.45,2877.52,1,Consumer
+ORD-509668,2024-07-23,North,Haryana,Furniture,Chairs,44642.31,3663.69,2,Home Office
+ORD-738331,2023-06-05,South,Karnataka,Electronics,Accessories,510.13,155.29,1,Corporate
+ORD-661258,2024-05-03,West,Goa,Office Supplies,Storage Boxes,3964.38,1068.04,1,Consumer
+ORD-793411,2023-11-04,East,West Bengal,Furniture,Chairs,18015.95,5658.17,2,Consumer
+ORD-406516,2023-06-11,Central,Chhattisgarh,Office Supplies,Pens & Stationery,1411.26,597.32,1,Corporate
+ORD-675333,2022-05-21,South,Tamil Nadu,Office Supplies,Binders,5319.65,1718.7,8,Consumer
+ORD-902056,2024-07-13,East,Assam,Furniture,Chairs,33032.1,999.2,2,Consumer
+ORD-196500,2023-12-25,West,Goa,Office Supplies,Envelopes,5030.93,1616.91,5,Consumer
+ORD-954817,2024-12-31,Central,Jammu & Kashmir,Electronics,Tablets,150000,21364.67,5,Corporate
+ORD-522009,2023-03-11,East,Jharkhand,Office Supplies,Storage Boxes,11770.92,2576.67,3,Corporate
+ORD-684536,2024-07-26,East,Odisha,Office Supplies,Binders,1018.61,155.18,2,Home Office
+ORD-490633,2023-11-25,West,Goa,Office Supplies,Binders,797.72,279.88,1,Consumer
+ORD-680476,2023-11-29,West,Goa,Electronics,Cameras,89870.34,3891.26,5,Consumer
+ORD-414787,2022-10-08,West,Gujarat,Electronics,Accessories,46393.33,5416.3,9,Consumer
+ORD-399006,2023-11-03,South,Karnataka,Office Supplies,Envelopes,915.68,252.19,3,Home Office
+ORD-905305,2023-11-15,South,Telangana,Electronics,Phones,20532.18,1623.05,1,Home Office
+ORD-951000,2023-09-02,North,Uttar Pradesh,Electronics,Accessories,1999.7,467.95,1,Corporate
+ORD-243541,2022-05-21,Central,Chhattisgarh,Electronics,Accessories,4142.75,842.66,1,Home Office
+ORD-932681,2023-05-23,South,Telangana,Office Supplies,Binders,1626.34,577.65,3,Consumer
+ORD-842561,2022-09-17,Central,Jammu & Kashmir,Furniture,Storage,7229.75,898.09,1,Consumer
+ORD-674162,2023-05-03,South,Andhra Pradesh,Electronics,Cameras,11677.68,3326.1,1,Home Office
+ORD-531534,2023-08-13,East,West Bengal,Office Supplies,Pens & Stationery,2540.94,1028.58,3,Consumer
+ORD-234418,2023-05-25,South,Karnataka,Office Supplies,Storage Boxes,2063.1,500.64,1,Home Office
+ORD-389982,2023-12-01,South,Tamil Nadu,Office Supplies,Pens & Stationery,6716.04,1946.03,9,Consumer
+ORD-508117,2023-12-25,East,Odisha,Furniture,Bookcases,16037.87,3857.93,2,Corporate
+ORD-974187,2024-12-09,North,Punjab,Electronics,Tablets,35913.88,5650.37,1,Consumer
+ORD-417923,2024-03-10,North,Haryana,Office Supplies,Binders,8452.2,2499.26,4,Consumer
+ORD-678548,2024-11-09,South,Kerala,Office Supplies,Envelopes,337.47,69.32,1,Consumer
+ORD-166026,2022-08-08,North,Delhi,Office Supplies,Storage Boxes,24771.04,4970.08,7,Home Office
+ORD-291834,2022-01-07,South,Telangana,Furniture,Bookcases,6707.87,1389.47,1,Corporate
+ORD-363368,2024-01-01,North,Delhi,Office Supplies,Pens & Stationery,636.99,247.22,1,Consumer
+ORD-352882,2024-12-26,North,Rajasthan,Electronics,Phones,42576.94,8567.61,1,Consumer
+ORD-874494,2022-05-29,Central,Jammu & Kashmir,Furniture,Tables,12508.68,-138.26,1,Corporate
+ORD-226120,2022-07-11,North,Uttar Pradesh,Electronics,Tablets,108131.8,6683.0,4,Consumer
+ORD-822465,2023-11-09,East,Odisha,Office Supplies,Pens & Stationery,1260.25,284.65,1,Corporate
+ORD-272275,2023-01-30,South,Tamil Nadu,Office Supplies,Paper,3179.98,718.88,5,Consumer
+ORD-748697,2022-10-03,West,Gujarat,Electronics,Tablets,132884.63,26220.79,5,Corporate
+ORD-266795,2024-08-28,South,Tamil Nadu,Furniture,Storage,9644.18,1880.54,1,Consumer
+ORD-340393,2022-12-07,East,Assam,Office Supplies,Envelopes,8992.94,2152.6,7,Home Office
+ORD-265042,2024-12-27,South,Andhra Pradesh,Furniture,Sofas,145598.85,84.07,5,Corporate
+ORD-305803,2024-04-11,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,3767.77,704.15,3,Consumer
+ORD-156405,2022-10-04,South,Karnataka,Office Supplies,Paper,7621.8,2122.47,6,Corporate
+ORD-455584,2024-12-11,North,Punjab,Furniture,Tables,24953.96,-2470.51,1,Corporate
+ORD-193724,2024-11-26,North,Haryana,Office Supplies,Envelopes,1026.52,164.23,1,Consumer
+ORD-134714,2022-03-04,South,Telangana,Electronics,Printers,19296.33,-1898.08,1,Corporate
+ORD-489587,2023-12-25,East,Assam,Furniture,Bookcases,5823.37,228.9,1,Consumer
+ORD-905292,2022-06-06,West,Goa,Furniture,Chairs,26630.47,3679.88,2,Corporate
+ORD-590012,2022-02-23,South,Kerala,Office Supplies,Labels,1761.06,425.99,2,Corporate
+ORD-524865,2023-04-28,West,Gujarat,Office Supplies,Pens & Stationery,2028.22,879.6,3,Corporate
+ORD-923278,2022-04-19,North,Rajasthan,Office Supplies,Envelopes,1110.15,446.98,2,Corporate
+ORD-997744,2024-12-12,South,Kerala,Office Supplies,Binders,6108.96,2033.74,5,Home Office
+ORD-655000,2022-01-11,West,Gujarat,Furniture,Storage,22618.0,2542.41,2,Corporate
+ORD-653985,2022-05-12,North,Himachal Pradesh,Electronics,Printers,30337.09,3559.72,2,Corporate
+ORD-776526,2023-09-22,South,Karnataka,Office Supplies,Scissors & Cutters,2967.63,827.37,4,Consumer
+ORD-424623,2023-05-31,West,Madhya Pradesh,Electronics,Printers,20640.28,889.82,2,Corporate
+ORD-144374,2023-01-18,Central,Jammu & Kashmir,Electronics,Phones,38771.98,6851.17,2,Home Office
+ORD-656117,2022-08-12,East,Assam,Furniture,Bookcases,35229.33,-1056.44,2,Corporate
+ORD-164518,2023-11-28,West,Maharashtra,Office Supplies,Pens & Stationery,1435.04,526.76,1,Corporate
+ORD-370235,2022-09-08,North,Delhi,Office Supplies,Binders,1999.64,500.72,1,Corporate
+ORD-856287,2022-09-11,East,Odisha,Electronics,Phones,45976.91,7397.28,3,Consumer
+ORD-526400,2024-10-31,Central,Uttarakhand,Electronics,Cameras,150000,27712.68,5,Consumer
+ORD-293807,2023-11-17,South,Karnataka,Office Supplies,Envelopes,3286.75,405.39,7,Consumer
+ORD-725026,2023-03-14,East,Bihar,Electronics,Phones,30336.58,5023.81,1,Home Office
+ORD-770342,2023-08-11,North,Delhi,Electronics,Accessories,1237.39,543.73,2,Consumer
+ORD-954533,2022-11-19,East,Assam,Electronics,Laptops,99445.78,-11274.94,2,Home Office
+ORD-408227,2022-09-24,North,Himachal Pradesh,Electronics,Tablets,101353.55,10776.79,3,Consumer
+ORD-556519,2022-07-16,South,Tamil Nadu,Office Supplies,Paper,2364.95,741.25,6,Home Office
+ORD-478873,2024-03-10,East,West Bengal,Electronics,Printers,19611.35,-820.94,2,Consumer
+ORD-957103,2022-08-11,West,Madhya Pradesh,Office Supplies,Storage Boxes,16726.63,3735.12,6,Home Office
+ORD-971777,2023-06-25,Central,Chhattisgarh,Electronics,Cameras,22250.87,1230.23,1,Consumer
+ORD-799512,2024-12-18,South,Karnataka,Furniture,Sofas,53401.07,8599.94,4,Corporate
+ORD-735103,2022-12-06,East,Assam,Furniture,Storage,32651.24,5445.72,4,Corporate
+ORD-729471,2024-07-23,East,Odisha,Furniture,Bookcases,38744.63,2252.91,3,Consumer
+ORD-692801,2022-07-30,West,Goa,Furniture,Tables,150000,40823.49,8,Corporate
+ORD-913976,2024-05-30,East,West Bengal,Furniture,Chairs,134055.06,31735.64,10,Corporate
+ORD-132002,2024-06-24,South,Telangana,Office Supplies,Storage Boxes,2741.54,548.18,1,Home Office
+ORD-781773,2024-12-01,West,Maharashtra,Office Supplies,Pens & Stationery,7815.98,3517.19,5,Home Office
+ORD-223527,2024-06-08,East,Odisha,Furniture,Bookcases,12105.14,1273.22,2,Corporate
+ORD-461462,2023-03-20,North,Haryana,Electronics,Printers,98984.19,9399.76,6,Consumer
+ORD-453215,2022-09-04,South,Kerala,Electronics,Laptops,76758.43,9092.7,1,Consumer
+ORD-130884,2022-12-03,North,Uttar Pradesh,Furniture,Sofas,58059.58,-1481.4,2,Corporate
+ORD-900329,2022-06-03,South,Telangana,Electronics,Phones,10450.23,685.36,1,Consumer
+ORD-407269,2023-10-21,North,Delhi,Office Supplies,Envelopes,834.49,205.17,1,Consumer
+ORD-250625,2023-07-08,North,Haryana,Furniture,Storage,9143.15,1219.15,1,Consumer
+ORD-531642,2023-12-07,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,1533.63,481.28,2,Consumer
+ORD-833248,2023-06-24,Central,Jammu & Kashmir,Furniture,Chairs,66290.97,4900.32,9,Consumer
+ORD-279567,2023-02-19,Central,Chhattisgarh,Furniture,Chairs,15016.35,2475.95,2,Home Office
+ORD-810968,2022-07-28,South,Andhra Pradesh,Electronics,Accessories,2809.82,711.94,1,Consumer
+ORD-701290,2023-12-08,South,Andhra Pradesh,Electronics,Printers,20920.66,2022.84,2,Consumer
+ORD-706922,2023-10-24,West,Goa,Furniture,Chairs,18676.5,1576.64,2,Corporate
+ORD-517710,2024-10-20,South,Karnataka,Electronics,Laptops,150000,28524.56,3,Corporate
+ORD-207309,2023-02-01,Central,Uttarakhand,Electronics,Cameras,60806.36,7974.04,2,Corporate
+ORD-966473,2024-11-21,West,Goa,Furniture,Bookcases,16591.84,679.25,1,Consumer
+ORD-923769,2024-05-27,Central,Chhattisgarh,Furniture,Chairs,47280.55,7668.35,2,Consumer
+ORD-930895,2022-10-22,West,Gujarat,Electronics,Tablets,37814.83,9499.64,2,Corporate
+ORD-791593,2024-01-20,North,Haryana,Office Supplies,Storage Boxes,2622.18,614.42,1,Corporate
+ORD-282677,2022-10-12,North,Haryana,Office Supplies,Binders,6070.19,1385.65,3,Consumer
+ORD-753721,2023-11-23,East,Assam,Furniture,Chairs,14000.27,325.06,1,Corporate
+ORD-562847,2022-07-07,South,Telangana,Furniture,Storage,14785.4,3284.54,2,Home Office
+ORD-295833,2024-07-14,West,Maharashtra,Office Supplies,Storage Boxes,21453.07,3395.94,9,Corporate
+ORD-557666,2024-11-01,West,Gujarat,Electronics,Cameras,35042.73,4701.49,1,Corporate
+ORD-433713,2024-12-09,East,Odisha,Electronics,Printers,6179.69,-376.14,1,Corporate
+ORD-696842,2022-03-20,South,Kerala,Office Supplies,Paper,3529.89,1526.26,4,Consumer
+ORD-363408,2024-03-18,North,Rajasthan,Electronics,Printers,19274.6,1383.62,1,Corporate
+ORD-970641,2022-07-31,South,Tamil Nadu,Furniture,Bookcases,14660.97,499.74,1,Corporate
+ORD-606779,2023-12-05,Central,Chhattisgarh,Furniture,Sofas,39729.73,-4213.14,1,Consumer
+ORD-845134,2024-03-12,South,Andhra Pradesh,Furniture,Storage,53107.94,4625.2,7,Consumer
+ORD-611462,2023-04-05,North,Rajasthan,Electronics,Printers,104189.57,27082.53,6,Corporate
+ORD-272820,2022-04-07,West,Goa,Furniture,Bookcases,20816.57,4750.97,4,Consumer
+ORD-513695,2023-09-22,North,Uttar Pradesh,Electronics,Tablets,18064.68,3728.67,1,Consumer
+ORD-539860,2024-12-10,West,Madhya Pradesh,Office Supplies,Binders,2345.17,1028.59,1,Consumer
+ORD-774561,2022-08-12,West,Maharashtra,Electronics,Tablets,22722.11,-2343.65,1,Corporate
+ORD-649161,2022-01-14,South,Telangana,Furniture,Bookcases,32925.19,3401.01,2,Home Office
+ORD-684483,2024-05-26,Central,Jammu & Kashmir,Furniture,Storage,9590.76,1662.64,2,Corporate
+ORD-876787,2023-11-27,North,Punjab,Office Supplies,Pens & Stationery,5399.83,1683.86,4,Corporate
+ORD-419335,2022-02-22,West,Maharashtra,Electronics,Tablets,36856.11,4977.23,2,Home Office
+ORD-237497,2023-10-12,South,Kerala,Furniture,Sofas,38263.51,3732.28,1,Consumer
+ORD-417993,2024-12-10,North,Rajasthan,Office Supplies,Labels,2137.87,796.03,1,Home Office
+ORD-927145,2022-11-03,South,Telangana,Office Supplies,Storage Boxes,2042.4,452.35,1,Home Office
+ORD-651370,2022-12-21,West,Maharashtra,Office Supplies,Paper,2807.67,907.67,5,Corporate
+ORD-754382,2022-07-09,West,Maharashtra,Furniture,Storage,3601.51,397.85,1,Corporate
+ORD-585685,2023-12-08,South,Andhra Pradesh,Furniture,Chairs,21238.49,3003.64,3,Consumer
+ORD-480829,2023-06-29,North,Rajasthan,Office Supplies,Pens & Stationery,317.3,132.4,1,Corporate
+ORD-996405,2024-07-17,East,Odisha,Office Supplies,Labels,1777.35,415.49,1,Consumer
+ORD-579374,2023-03-17,West,Gujarat,Office Supplies,Storage Boxes,4187.03,254.41,3,Corporate
+ORD-130688,2023-10-30,South,Telangana,Office Supplies,Paper,8225.59,1797.6,4,Corporate
+ORD-713602,2022-10-22,South,Kerala,Office Supplies,Paper,7587.44,693.79,4,Consumer
+ORD-423025,2023-07-01,North,Himachal Pradesh,Furniture,Storage,10082.42,1287.73,1,Corporate
+ORD-373718,2024-10-17,West,Gujarat,Office Supplies,Envelopes,5652.12,2543.45,5,Consumer
+ORD-282798,2024-06-20,South,Karnataka,Furniture,Sofas,62160.01,6521.62,2,Home Office
+ORD-442755,2022-10-11,East,Assam,Electronics,Laptops,78934.29,-4454.32,1,Corporate
+ORD-156927,2023-01-21,West,Goa,Office Supplies,Labels,5692.61,2177.39,3,Corporate
+ORD-696557,2024-06-16,South,Kerala,Furniture,Bookcases,12923.98,1162.47,1,Consumer
+ORD-163838,2022-03-24,North,Punjab,Electronics,Accessories,12498.08,4113.6,3,Consumer
+ORD-169634,2023-12-12,South,Karnataka,Office Supplies,Envelopes,6427.5,1230.94,6,Consumer
+ORD-705225,2022-12-09,West,Goa,Furniture,Chairs,29681.33,5789.23,2,Corporate
+ORD-305869,2024-08-20,West,Madhya Pradesh,Electronics,Phones,9791.41,1252.0,1,Consumer
+ORD-259160,2022-08-25,South,Andhra Pradesh,Furniture,Tables,26204.31,-1579.32,1,Consumer
+ORD-289485,2022-03-27,West,Madhya Pradesh,Electronics,Tablets,113744.57,15403.42,3,Corporate
+ORD-360753,2023-03-15,East,Jharkhand,Electronics,Laptops,135843.84,-4528.28,2,Consumer
+ORD-901489,2023-08-01,South,Tamil Nadu,Office Supplies,Storage Boxes,4958.82,1484.38,2,Home Office
+ORD-109166,2022-11-04,North,Uttar Pradesh,Office Supplies,Envelopes,1203.05,263.46,1,Corporate
+ORD-949833,2023-12-09,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,1488.69,540.91,1,Consumer
+ORD-544451,2022-09-24,South,Tamil Nadu,Office Supplies,Scissors & Cutters,469.01,125.49,1,Consumer
+ORD-744089,2022-11-28,East,Bihar,Electronics,Cameras,66374.55,-3209.73,3,Corporate
+ORD-532371,2023-04-13,West,Maharashtra,Electronics,Tablets,131526.05,30449.92,8,Corporate
+ORD-399322,2022-03-08,South,Telangana,Electronics,Accessories,24319.42,3716.3,8,Consumer
+ORD-543745,2023-12-14,North,Delhi,Office Supplies,Pens & Stationery,761.64,262.32,2,Consumer
+ORD-681898,2024-11-19,South,Andhra Pradesh,Furniture,Chairs,20719.58,5788.56,2,Consumer
+ORD-544392,2024-11-23,South,Tamil Nadu,Office Supplies,Storage Boxes,2490.75,697.23,2,Consumer
+ORD-163755,2024-08-07,East,Jharkhand,Furniture,Tables,29941.74,3468.36,1,Corporate
+ORD-401701,2022-12-25,South,Tamil Nadu,Furniture,Tables,77276.22,4340.63,2,Consumer
+ORD-314498,2023-11-15,East,Odisha,Furniture,Tables,150000,27735.83,5,Consumer
+ORD-963180,2022-11-01,East,Assam,Electronics,Laptops,150000,30690.45,3,Consumer
+ORD-717940,2022-08-27,East,Jharkhand,Electronics,Tablets,32972.63,4079.58,1,Consumer
+ORD-905592,2023-10-08,Central,Chhattisgarh,Electronics,Laptops,69555.58,9661.36,1,Home Office
+ORD-514187,2024-04-29,East,Bihar,Electronics,Accessories,9343.84,1238.69,8,Consumer
+ORD-698755,2023-06-30,West,Goa,Furniture,Tables,150000,19202.13,4,Home Office
+ORD-740204,2023-06-25,North,Himachal Pradesh,Electronics,Laptops,117024.26,5946.58,2,Corporate
+ORD-279860,2022-08-05,South,Karnataka,Furniture,Chairs,52589.05,9714.17,3,Home Office
+ORD-672257,2022-06-21,West,Madhya Pradesh,Office Supplies,Binders,1611.14,725.01,1,Consumer
+ORD-976903,2024-10-28,Central,Jammu & Kashmir,Furniture,Chairs,150000,16036.17,9,Home Office
+ORD-473346,2024-12-04,Central,Jammu & Kashmir,Office Supplies,Envelopes,2448.17,-30.14,2,Corporate
+ORD-539130,2024-08-29,East,Odisha,Office Supplies,Labels,2427.73,394.06,3,Home Office
+ORD-635715,2024-10-20,East,Odisha,Furniture,Storage,22609.95,5239.41,3,Corporate
+ORD-802835,2022-04-13,East,Odisha,Office Supplies,Pens & Stationery,1889.81,547.79,6,Consumer
+ORD-678654,2023-05-24,North,Himachal Pradesh,Furniture,Tables,36417.08,-4118.81,2,Corporate
+ORD-943906,2024-03-26,East,Assam,Office Supplies,Storage Boxes,10416.83,1585.91,3,Home Office
+ORD-550162,2022-02-22,East,Odisha,Electronics,Phones,20506.66,4400.3,1,Consumer
+ORD-472843,2024-04-12,East,West Bengal,Furniture,Sofas,150000,12703.74,8,Consumer
+ORD-371090,2024-12-15,East,Jharkhand,Electronics,Phones,12340.37,-1118.6,1,Home Office
+ORD-360345,2022-08-10,North,Haryana,Office Supplies,Pens & Stationery,523.21,212.61,1,Corporate
+ORD-520068,2023-11-12,West,Gujarat,Electronics,Tablets,107576.93,14569.76,4,Corporate
+ORD-549752,2023-10-14,West,Goa,Electronics,Cameras,65982.74,9215.02,2,Home Office
+ORD-168507,2024-11-22,North,Rajasthan,Furniture,Sofas,109320.32,-3837.51,3,Home Office
+ORD-584153,2022-10-25,South,Kerala,Furniture,Chairs,93917.86,27433.27,4,Home Office
+ORD-672433,2024-06-20,East,Assam,Electronics,Phones,59538.06,5320.24,2,Corporate
+ORD-151695,2022-08-15,South,Telangana,Furniture,Chairs,100915.06,25646.65,5,Home Office
+ORD-828515,2022-04-02,South,Tamil Nadu,Furniture,Chairs,16112.14,3093.38,1,Corporate
+ORD-682210,2024-03-19,North,Haryana,Office Supplies,Storage Boxes,2446.94,587.75,1,Consumer
+ORD-609092,2022-01-16,East,Assam,Electronics,Laptops,88132.86,-8182.76,1,Home Office
+ORD-815557,2024-06-09,North,Punjab,Office Supplies,Pens & Stationery,1266.25,516.87,1,Home Office
+ORD-613832,2024-06-26,West,Madhya Pradesh,Office Supplies,Pens & Stationery,5816.74,1924.97,4,Consumer
+ORD-631021,2024-01-27,North,Haryana,Office Supplies,Scissors & Cutters,3673.53,921.38,3,Consumer
+ORD-763354,2023-11-16,North,Uttar Pradesh,Electronics,Printers,36300.79,-1383.22,2,Corporate
+ORD-573879,2024-08-28,South,Kerala,Furniture,Storage,2790.65,389.96,1,Consumer
+ORD-993163,2024-10-27,North,Rajasthan,Furniture,Chairs,24741.51,10141.12,1,Consumer
+ORD-717411,2024-11-23,North,Haryana,Office Supplies,Paper,472.19,132.56,1,Home Office
+ORD-114281,2023-07-14,Central,Uttarakhand,Office Supplies,Scissors & Cutters,1274.39,-96.52,1,Home Office
+ORD-156068,2024-09-07,North,Himachal Pradesh,Furniture,Storage,36614.5,3767.38,5,Corporate
+ORD-277003,2024-11-18,South,Telangana,Furniture,Tables,75388.56,14469.58,2,Home Office
+ORD-149439,2024-05-29,East,Bihar,Furniture,Bookcases,64712.74,9192.4,4,Consumer
+ORD-847556,2024-07-05,East,Jharkhand,Furniture,Sofas,150000,13143.5,4,Consumer
+ORD-316300,2022-12-07,South,Telangana,Furniture,Tables,150000,41068.28,5,Consumer
+ORD-922123,2022-03-27,West,Gujarat,Electronics,Cameras,150000,19226.47,10,Corporate
+ORD-970049,2022-10-24,West,Goa,Office Supplies,Pens & Stationery,1485.49,580.74,1,Corporate
+ORD-849894,2024-10-31,Central,Uttarakhand,Electronics,Laptops,45710.05,-579.28,1,Consumer
+ORD-657566,2022-08-08,West,Goa,Electronics,Cameras,22489.03,5463.38,1,Consumer
+ORD-665042,2024-12-16,South,Telangana,Electronics,Tablets,71333.59,10011.88,2,Consumer
+ORD-980537,2023-06-04,South,Tamil Nadu,Office Supplies,Envelopes,2327.01,609.21,2,Consumer
+ORD-313631,2022-11-30,North,Uttar Pradesh,Electronics,Phones,150000,12770.85,9,Corporate
+ORD-694103,2024-11-24,Central,Jammu & Kashmir,Furniture,Tables,10370.63,-749.28,1,Consumer
+ORD-555051,2024-02-17,Central,Jammu & Kashmir,Office Supplies,Envelopes,2274.33,546.77,3,Consumer
+ORD-504995,2022-09-07,South,Kerala,Electronics,Accessories,7197.75,2338.19,4,Corporate
+ORD-434836,2023-07-20,West,Gujarat,Electronics,Tablets,79016.75,11133.26,2,Consumer
+ORD-809132,2022-07-20,South,Tamil Nadu,Furniture,Storage,12210.5,2571.25,6,Consumer
+ORD-878247,2022-06-02,Central,Chhattisgarh,Furniture,Storage,5840.55,-398.66,2,Home Office
+ORD-413619,2023-10-26,East,Assam,Electronics,Cameras,44330.62,5917.01,2,Corporate
+ORD-408492,2022-10-16,West,Madhya Pradesh,Electronics,Cameras,17424.08,282.5,2,Consumer
+ORD-682400,2022-08-31,Central,Jammu & Kashmir,Furniture,Sofas,11225.4,1488.48,1,Corporate
+ORD-495370,2023-04-30,Central,Chhattisgarh,Furniture,Bookcases,34974.98,1222.93,2,Corporate
+ORD-295844,2024-02-18,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,9637.51,-786.01,7,Consumer
+ORD-223499,2024-08-01,North,Uttar Pradesh,Furniture,Tables,36956.76,7288.0,2,Consumer
+ORD-668129,2022-10-24,East,Assam,Furniture,Tables,22865.13,4838.05,2,Corporate
+ORD-377174,2024-01-21,South,Telangana,Electronics,Tablets,70672.58,9803.28,2,Consumer
+ORD-556253,2024-11-01,West,Gujarat,Electronics,Tablets,26071.98,5049.0,2,Corporate
+ORD-330222,2023-12-02,Central,Uttarakhand,Electronics,Laptops,93273.73,9822.2,1,Corporate
+ORD-856148,2023-07-28,South,Telangana,Furniture,Sofas,37553.89,-2327.16,1,Consumer
+ORD-668585,2024-02-04,South,Kerala,Office Supplies,Storage Boxes,11508.4,2254.99,3,Consumer
+ORD-702261,2022-12-31,West,Maharashtra,Office Supplies,Storage Boxes,1411.9,503.08,1,Consumer
+ORD-956624,2024-06-21,East,Odisha,Electronics,Accessories,2435.85,374.34,1,Consumer
+ORD-607371,2023-10-02,North,Punjab,Electronics,Printers,14461.53,549.18,1,Consumer
+ORD-237893,2023-06-11,North,Uttar Pradesh,Furniture,Chairs,150000,13788.91,8,Consumer
+ORD-597166,2022-06-19,West,Maharashtra,Electronics,Tablets,21850.26,1490.15,1,Consumer
+ORD-292073,2022-05-21,North,Himachal Pradesh,Electronics,Tablets,73353.3,8332.53,2,Consumer
+ORD-258737,2024-06-10,North,Delhi,Furniture,Tables,150000,40776.07,9,Home Office
+ORD-433362,2023-04-12,Central,Jammu & Kashmir,Office Supplies,Pens & Stationery,758.54,-30.39,2,Consumer
+ORD-565917,2024-03-16,East,Bihar,Electronics,Accessories,3040.57,-286.79,1,Home Office
+ORD-440317,2022-08-08,East,Bihar,Office Supplies,Storage Boxes,11254.93,1850.03,10,Home Office
+ORD-585175,2024-11-05,South,Tamil Nadu,Electronics,Tablets,103571.87,14982.84,4,Corporate
+ORD-525850,2023-10-08,Central,Jammu & Kashmir,Office Supplies,Storage Boxes,812.03,137.18,1,Consumer
+ORD-428987,2022-05-02,West,Maharashtra,Electronics,Phones,79848.95,26974.88,2,Consumer
+ORD-936708,2023-06-16,West,Goa,Electronics,Tablets,35373.1,3407.85,1,Consumer
+ORD-564458,2022-05-15,Central,Uttarakhand,Office Supplies,Envelopes,504.06,113.59,1,Consumer
+ORD-390910,2023-12-15,South,Karnataka,Furniture,Sofas,150000,-7498.38,3,Corporate
+ORD-198351,2023-11-21,East,Odisha,Office Supplies,Pens & Stationery,2670.66,-119.95,2,Consumer
+ORD-527354,2022-05-01,North,Haryana,Furniture,Chairs,90798.6,10698.53,4,Home Office
+ORD-625288,2023-08-15,West,Goa,Office Supplies,Binders,1726.94,395.17,1,Consumer
+ORD-444029,2022-01-17,East,West Bengal,Electronics,Laptops,150000,-13934.65,9,Consumer
+ORD-710389,2022-11-03,North,Punjab,Office Supplies,Binders,2680.19,589.46,1,Corporate
+ORD-148648,2023-12-31,East,Assam,Furniture,Storage,9060.8,197.07,2,Consumer
+ORD-511652,2024-06-28,South,Tamil Nadu,Electronics,Printers,39258.29,7671.63,2,Corporate
+ORD-928327,2024-07-12,East,Odisha,Electronics,Cameras,115275.13,8778.18,4,Consumer
+ORD-342163,2023-05-08,West,Gujarat,Office Supplies,Storage Boxes,1984.14,452.55,1,Consumer
+ORD-585875,2022-09-16,North,Uttar Pradesh,Office Supplies,Scissors & Cutters,1156.43,324.76,1,Corporate
+ORD-289721,2022-12-11,West,Gujarat,Electronics,Cameras,100468.65,12987.75,4,Corporate
+ORD-554803,2024-10-27,East,Bihar,Furniture,Chairs,97142.57,4268.81,4,Home Office
+ORD-275614,2022-07-12,East,West Bengal,Office Supplies,Scissors & Cutters,1167.2,142.5,2,Consumer
+ORD-674083,2022-11-13,East,Odisha,Office Supplies,Pens & Stationery,3043.34,889.57,2,Home Office
+ORD-244810,2022-12-11,North,Uttar Pradesh,Electronics,Cameras,16257.73,5440.26,1,Consumer
+ORD-263040,2022-05-02,North,Haryana,Office Supplies,Storage Boxes,1221.37,178.12,1,Corporate
+ORD-650398,2022-08-13,Central,Uttarakhand,Furniture,Tables,114237.68,-9527.92,4,Consumer
+ORD-849096,2022-11-02,South,Andhra Pradesh,Furniture,Tables,27285.18,1205.59,3,Home Office
+ORD-896188,2022-09-25,North,Uttar Pradesh,Furniture,Storage,8821.82,1837.82,1,Corporate
+ORD-342020,2024-06-20,North,Rajasthan,Electronics,Cameras,28733.44,1996.1,1,Corporate
+ORD-783421,2022-11-28,South,Tamil Nadu,Furniture,Storage,13750.85,139.75,5,Consumer
+ORD-923298,2022-03-01,West,Goa,Electronics,Accessories,2357.52,427.91,2,Consumer
+ORD-312886,2022-08-31,South,Tamil Nadu,Electronics,Cameras,150000,-5984.61,6,Consumer
+ORD-889727,2022-03-25,West,Gujarat,Electronics,Cameras,88876.86,22629.08,5,Consumer
+ORD-709446,2023-06-06,South,Andhra Pradesh,Electronics,Laptops,150000,26323.49,3,Consumer
+ORD-778662,2024-02-11,South,Karnataka,Electronics,Accessories,6171.72,2017.4,6,Consumer
+ORD-253991,2023-06-08,North,Delhi,Office Supplies,Storage Boxes,5789.09,1295.72,2,Consumer
+ORD-812169,2024-11-20,East,West Bengal,Furniture,Storage,61318.7,-6026.2,7,Corporate
+ORD-859541,2024-02-18,South,Kerala,Office Supplies,Paper,7744.36,1675.76,4,Home Office
+ORD-483394,2022-04-28,North,Delhi,Electronics,Laptops,150000,31476.89,7,Corporate
+ORD-483615,2024-12-19,South,Kerala,Electronics,Accessories,9961.37,2304.55,4,Corporate
+ORD-520873,2023-11-19,North,Delhi,Furniture,Sofas,93801.85,4794.33,2,Corporate
+ORD-627213,2022-05-11,Central,Chhattisgarh,Electronics,Tablets,12619.53,1536.39,1,Corporate
+ORD-748361,2023-09-20,West,Gujarat,Office Supplies,Envelopes,986.53,266.81,1,Consumer
+ORD-499808,2024-03-24,North,Uttar Pradesh,Office Supplies,Paper,1779.2,383.07,1,Corporate
+ORD-717088,2022-09-01,North,Punjab,Electronics,Printers,118079.82,18417.82,8,Home Office
+ORD-535637,2022-08-27,North,Punjab,Electronics,Phones,46536.04,5422.76,2,Consumer
+ORD-813733,2022-02-07,East,West Bengal,Furniture,Sofas,150000,-4803.71,5,Corporate
+ORD-196865,2023-07-30,South,Kerala,Office Supplies,Paper,3679.87,928.24,2,Corporate
+ORD-782084,2024-10-17,North,Himachal Pradesh,Office Supplies,Scissors & Cutters,3851.69,869.31,3,Corporate
+ORD-935329,2023-12-01,West,Gujarat,Office Supplies,Labels,2716.72,779.3,2,Consumer
+ORD-216890,2022-05-09,Central,Uttarakhand,Furniture,Chairs,23257.05,4679.38,1,Corporate
+ORD-864923,2022-09-20,South,Andhra Pradesh,Furniture,Tables,5926.44,639.06,1,Consumer
+ORD-328187,2022-06-27,South,Tamil Nadu,Electronics,Laptops,94962.22,33508.08,2,Corporate
+ORD-509747,2023-12-06,North,Rajasthan,Electronics,Printers,57174.15,11251.98,3,Consumer
+ORD-745868,2022-12-23,North,Haryana,Furniture,Tables,53323.42,14122.57,4,Corporate
+ORD-136446,2024-08-19,Central,Jammu & Kashmir,Office Supplies,Binders,2945.45,271.99,2,Corporate
+ORD-970071,2022-07-22,South,Andhra Pradesh,Electronics,Printers,86772.0,11866.76,5,Home Office
+ORD-685394,2024-10-06,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,1487.08,341.75,1,Corporate
+ORD-237388,2022-10-25,Central,Chhattisgarh,Office Supplies,Paper,635.7,-12.43,1,Corporate
+ORD-366082,2022-11-12,Central,Jammu & Kashmir,Furniture,Tables,40884.01,1174.71,1,Consumer
+ORD-787959,2023-05-17,East,Assam,Electronics,Accessories,8138.98,-254.49,3,Consumer
+ORD-430569,2023-10-26,West,Maharashtra,Electronics,Accessories,3740.11,977.96,1,Corporate
+ORD-855074,2024-03-01,West,Madhya Pradesh,Electronics,Tablets,14036.2,3489.63,1,Consumer
+ORD-756627,2022-05-18,North,Himachal Pradesh,Electronics,Phones,125932.63,14945.65,3,Consumer
+ORD-803096,2022-02-07,North,Delhi,Furniture,Chairs,52033.91,13309.55,3,Consumer
+ORD-864374,2022-07-03,South,Karnataka,Furniture,Storage,49218.25,4103.75,6,Consumer
+ORD-138100,2024-12-07,South,Andhra Pradesh,Furniture,Storage,11453.42,2382.14,1,Consumer
+ORD-559118,2023-11-26,Central,Jammu & Kashmir,Furniture,Sofas,42705.26,5742.2,2,Corporate
+ORD-312876,2024-02-22,South,Telangana,Furniture,Sofas,51802.68,-1272.69,3,Consumer
+ORD-172617,2023-12-22,West,Madhya Pradesh,Office Supplies,Pens & Stationery,9957.11,3975.79,10,Consumer
+ORD-541308,2024-08-08,North,Himachal Pradesh,Office Supplies,Labels,2546.15,641.04,2,Corporate
+ORD-424544,2022-07-02,South,Kerala,Furniture,Chairs,10273.77,2601.79,1,Consumer
+ORD-331306,2024-08-21,East,Jharkhand,Office Supplies,Envelopes,772.94,195.28,2,Consumer
+ORD-765834,2024-01-04,West,Gujarat,Electronics,Phones,89885.65,15305.06,3,Consumer
+ORD-269357,2024-12-19,North,Delhi,Furniture,Tables,150000,11556.54,9,Corporate
+ORD-697601,2023-11-18,North,Punjab,Furniture,Storage,13049.21,4041.88,1,Consumer
+ORD-332161,2023-06-14,North,Delhi,Furniture,Bookcases,46158.73,446.82,6,Corporate
+ORD-808860,2022-12-17,South,Kerala,Furniture,Tables,74218.28,21719.55,3,Corporate
+ORD-647760,2023-07-07,South,Tamil Nadu,Office Supplies,Scissors & Cutters,1364.72,389.33,3,Corporate
+ORD-220736,2024-09-07,West,Goa,Electronics,Printers,44767.91,-4377.16,4,Consumer
+ORD-110654,2022-03-29,East,Bihar,Electronics,Phones,30604.72,8166.33,1,Corporate
+ORD-248305,2023-12-30,West,Gujarat,Office Supplies,Labels,2041.39,589.36,2,Consumer
+ORD-453770,2023-09-04,West,Madhya Pradesh,Electronics,Phones,42578.31,4391.6,1,Corporate
+ORD-150392,2023-02-24,South,Andhra Pradesh,Electronics,Printers,22009.13,2961.98,4,Consumer
+ORD-318011,2022-08-09,North,Haryana,Office Supplies,Labels,2956.7,1076.0,2,Corporate
+ORD-515493,2022-02-27,West,Goa,Office Supplies,Paper,2330.96,569.1,3,Consumer
+ORD-943807,2024-09-24,North,Haryana,Electronics,Phones,78268.96,-2924.36,2,Consumer
+ORD-339474,2022-12-01,East,Bihar,Furniture,Bookcases,16112.34,2051.08,1,Consumer
+ORD-260765,2023-04-24,South,Kerala,Furniture,Chairs,22311.92,1319.21,1,Consumer
+ORD-330120,2023-02-09,North,Uttar Pradesh,Office Supplies,Binders,4708.32,687.66,3,Consumer
+ORD-997479,2024-05-24,North,Rajasthan,Electronics,Tablets,32955.0,6769.44,1,Consumer
+ORD-772928,2024-01-29,South,Karnataka,Office Supplies,Storage Boxes,9787.99,2679.31,3,Consumer
+ORD-384010,2022-09-27,East,Jharkhand,Electronics,Cameras,147617.04,10218.07,5,Consumer
+ORD-576283,2022-11-30,East,Odisha,Electronics,Tablets,38571.14,7234.55,1,Consumer
+ORD-913892,2024-10-11,North,Uttar Pradesh,Furniture,Sofas,125999.94,8153.7,7,Consumer
+ORD-562113,2022-11-12,North,Delhi,Electronics,Phones,19834.95,5935.98,1,Consumer
+ORD-513351,2024-12-29,North,Rajasthan,Office Supplies,Paper,8618.14,1320.02,7,Corporate
+ORD-180015,2023-01-17,South,Tamil Nadu,Electronics,Accessories,5510.69,897.52,8,Corporate
+ORD-878826,2022-06-01,South,Andhra Pradesh,Electronics,Phones,150000,-6155.46,4,Corporate
+ORD-469645,2022-12-31,West,Maharashtra,Furniture,Tables,41888.22,7514.95,1,Consumer
+ORD-122506,2022-11-03,North,Haryana,Furniture,Bookcases,44123.63,3721.94,3,Consumer
+ORD-304785,2023-02-05,North,Punjab,Furniture,Chairs,42987.18,3302.21,2,Home Office
+ORD-112314,2023-07-09,West,Maharashtra,Office Supplies,Envelopes,2897.87,813.18,3,Corporate
+ORD-174838,2023-10-04,West,Madhya Pradesh,Electronics,Printers,72013.16,13629.36,6,Consumer
+ORD-344497,2023-07-03,Central,Uttarakhand,Electronics,Laptops,48315.03,-2987.61,1,Consumer
+ORD-187781,2022-10-18,South,Kerala,Furniture,Tables,15164.87,5323.07,1,Consumer
+ORD-259000,2023-10-13,East,Assam,Furniture,Storage,9741.91,608.74,1,Consumer
+ORD-752657,2023-01-04,North,Punjab,Furniture,Sofas,71704.57,7220.58,2,Consumer
+ORD-786504,2022-03-24,East,Odisha,Office Supplies,Paper,1392.02,268.05,1,Consumer
+ORD-969097,2022-12-21,North,Punjab,Furniture,Chairs,67118.46,6011.04,4,Home Office
+ORD-412427,2022-01-18,East,Assam,Electronics,Cameras,37031.02,3232.19,2,Corporate
+ORD-977838,2022-01-02,North,Rajasthan,Office Supplies,Labels,2383.02,708.65,2,Consumer
+ORD-872537,2022-09-22,East,West Bengal,Furniture,Storage,18952.28,4233.4,5,Consumer
+ORD-823703,2022-05-11,South,Kerala,Furniture,Chairs,13683.15,405.94,1,Corporate
+ORD-834021,2022-08-18,West,Madhya Pradesh,Electronics,Accessories,9519.83,2556.47,3,Corporate
+ORD-703316,2024-12-14,South,Karnataka,Electronics,Cameras,14824.32,498.15,1,Corporate
+ORD-840536,2022-01-05,North,Delhi,Office Supplies,Envelopes,1487.94,498.81,2,Consumer
+ORD-201042,2022-01-08,South,Karnataka,Electronics,Cameras,137073.0,30012.2,6,Corporate
+ORD-538231,2022-12-17,East,Assam,Electronics,Accessories,7456.6,1826.12,2,Consumer
+ORD-355921,2023-04-11,East,Odisha,Office Supplies,Envelopes,1756.09,516.18,3,Consumer
+ORD-883269,2024-04-04,North,Delhi,Furniture,Bookcases,44169.94,-4449.02,8,Consumer
+ORD-796069,2024-11-01,South,Karnataka,Office Supplies,Paper,1311.86,402.64,1,Consumer
+ORD-872982,2023-10-29,West,Maharashtra,Furniture,Storage,5937.89,1047.9,2,Corporate
+ORD-858489,2022-12-09,West,Maharashtra,Office Supplies,Scissors & Cutters,1338.47,287.89,1,Consumer
+ORD-583020,2024-10-27,North,Rajasthan,Furniture,Sofas,99178.09,15155.7,3,Consumer
+ORD-808372,2022-11-05,North,Himachal Pradesh,Office Supplies,Labels,3489.92,710.56,2,Consumer
+ORD-569989,2023-02-23,East,Assam,Office Supplies,Paper,1359.95,439.97,2,Consumer
+ORD-767378,2024-08-31,East,Jharkhand,Furniture,Bookcases,10130.22,571.08,1,Corporate
+ORD-724205,2024-07-25,East,Bihar,Furniture,Sofas,106845.33,5502.33,5,Consumer
+ORD-737809,2022-08-19,North,Haryana,Furniture,Bookcases,14263.07,696.37,1,Home Office
+ORD-407198,2024-12-29,North,Uttar Pradesh,Office Supplies,Paper,3733.94,756.46,3,Consumer
+ORD-279203,2022-03-06,South,Andhra Pradesh,Electronics,Accessories,3208.23,1334.43,1,Consumer
+ORD-660612,2023-06-02,South,Karnataka,Electronics,Cameras,39386.27,7934.2,3,Corporate
+ORD-143147,2023-11-07,East,Assam,Furniture,Sofas,97704.09,10987.5,3,Consumer
+ORD-256633,2022-01-27,South,Kerala,Office Supplies,Scissors & Cutters,1266.56,324.45,3,Home Office
+ORD-916373,2023-12-30,South,Kerala,Electronics,Phones,112302.32,9156.11,3,Corporate
+ORD-408480,2024-06-03,South,Andhra Pradesh,Office Supplies,Binders,5481.15,2037.76,3,Consumer
+ORD-773960,2022-03-13,East,Odisha,Furniture,Chairs,8970.43,974.95,1,Corporate
+ORD-145367,2024-02-06,Central,Uttarakhand,Electronics,Laptops,84160.48,25470.04,1,Consumer
+ORD-430748,2023-01-06,South,Karnataka,Electronics,Printers,28270.28,4256.56,3,Home Office
+ORD-418320,2023-10-29,North,Haryana,Electronics,Phones,150000,15805.36,5,Consumer
+ORD-612857,2023-08-12,North,Uttar Pradesh,Electronics,Cameras,28007.6,1193.87,1,Home Office
+ORD-171292,2024-08-25,West,Gujarat,Furniture,Storage,12511.97,3280.94,2,Consumer
+ORD-773749,2023-10-20,North,Punjab,Electronics,Cameras,42567.03,10046.68,3,Consumer
+ORD-221274,2024-10-25,North,Uttar Pradesh,Furniture,Chairs,9357.99,2873.12,2,Consumer
+ORD-423500,2022-07-09,North,Punjab,Furniture,Bookcases,26978.12,5376.65,3,Corporate
+ORD-879458,2023-08-29,West,Madhya Pradesh,Electronics,Cameras,59511.99,12890.55,2,Corporate
+ORD-309126,2023-06-17,Central,Chhattisgarh,Electronics,Laptops,119461.03,-9661.58,2,Corporate
+ORD-351286,2024-11-02,South,Telangana,Electronics,Laptops,111939.99,21792.77,2,Consumer
+ORD-431318,2022-05-09,South,Kerala,Furniture,Tables,150000,1047.74,7,Corporate
+ORD-212596,2023-12-31,North,Punjab,Electronics,Accessories,8122.78,2280.67,2,Consumer
+ORD-270483,2023-04-05,North,Rajasthan,Furniture,Bookcases,76844.82,-3708.52,6,Consumer
+ORD-739202,2022-08-18,East,Bihar,Furniture,Sofas,46236.83,9475.03,1,Consumer
+ORD-199824,2022-12-15,North,Himachal Pradesh,Office Supplies,Scissors & Cutters,2380.1,818.43,2,Consumer
+ORD-488719,2024-06-16,Central,Uttarakhand,Office Supplies,Labels,3013.93,516.68,2,Corporate
+ORD-643490,2022-04-16,South,Telangana,Furniture,Sofas,137663.28,31725.64,3,Consumer
+ORD-666700,2024-08-04,North,Rajasthan,Furniture,Bookcases,107466.75,-2651.5,7,Corporate
+ORD-316122,2022-11-24,North,Rajasthan,Electronics,Laptops,150000,1714.36,4,Consumer
+ORD-185895,2022-06-13,Central,Jammu & Kashmir,Electronics,Phones,123344.88,16364.01,4,Home Office
+ORD-855116,2022-12-08,North,Rajasthan,Electronics,Tablets,41130.01,4374.96,1,Corporate
+ORD-193774,2023-10-04,East,West Bengal,Office Supplies,Labels,2882.97,638.18,8,Consumer
+ORD-882372,2022-09-06,North,Rajasthan,Electronics,Laptops,150000,36741.08,8,Consumer
+ORD-227153,2024-12-23,East,West Bengal,Office Supplies,Storage Boxes,1722.52,67.58,1,Consumer
+ORD-583433,2024-12-23,North,Haryana,Electronics,Accessories,3881.6,702.36,1,Consumer
+ORD-353749,2023-11-15,Central,Uttarakhand,Electronics,Printers,97518.11,-1008.96,8,Consumer
+ORD-611016,2022-08-25,North,Haryana,Office Supplies,Envelopes,334.02,68.74,1,Consumer
+ORD-579131,2023-08-28,South,Kerala,Electronics,Printers,18444.45,2416.23,3,Corporate
+ORD-830404,2023-10-25,South,Telangana,Office Supplies,Storage Boxes,13168.76,5925.94,6,Consumer
+ORD-801789,2022-01-03,Central,Chhattisgarh,Electronics,Accessories,4799.99,975.45,2,Corporate
+ORD-207425,2023-07-09,East,Assam,Electronics,Tablets,150000,-8186.51,4,Consumer
+ORD-892903,2022-12-21,West,Goa,Office Supplies,Envelopes,984.31,228.63,2,Home Office
+ORD-217320,2023-11-05,West,Gujarat,Office Supplies,Binders,5458.69,2456.41,2,Home Office
+ORD-225638,2022-03-13,Central,Jammu & Kashmir,Furniture,Sofas,150000,11387.51,6,Corporate
+ORD-476590,2024-11-14,North,Haryana,Electronics,Accessories,8584.32,2084.79,2,Corporate
+ORD-218192,2023-12-16,West,Madhya Pradesh,Office Supplies,Paper,2047.84,272.82,2,Corporate
+ORD-141438,2023-06-21,West,Gujarat,Office Supplies,Envelopes,852.37,203.87,1,Consumer
+ORD-393075,2022-05-16,West,Madhya Pradesh,Furniture,Bookcases,7011.28,1214.38,1,Consumer
+ORD-918710,2022-06-04,North,Rajasthan,Electronics,Printers,50140.83,-6506.25,7,Consumer
+ORD-508708,2024-04-13,South,Tamil Nadu,Office Supplies,Scissors & Cutters,472.98,212.84,1,Consumer
+ORD-377888,2023-03-15,South,Telangana,Office Supplies,Binders,1263.7,376.47,1,Consumer
+ORD-152701,2024-08-30,East,Jharkhand,Furniture,Tables,37548.85,-1508.33,1,Corporate
+ORD-509913,2022-03-05,North,Rajasthan,Electronics,Phones,17005.62,1586.7,1,Home Office
+ORD-127259,2024-08-02,North,Delhi,Office Supplies,Binders,2787.49,1251.06,3,Consumer
+ORD-314112,2024-11-09,South,Andhra Pradesh,Furniture,Tables,34411.69,8955.35,1,Consumer
+ORD-217309,2024-10-12,South,Tamil Nadu,Furniture,Chairs,20670.82,2115.09,2,Home Office
+ORD-251728,2022-09-27,South,Andhra Pradesh,Electronics,Tablets,37518.35,5998.06,1,Home Office
+ORD-796588,2023-12-25,North,Delhi,Furniture,Chairs,50972.48,11106.6,3,Corporate
+ORD-810019,2022-10-02,North,Himachal Pradesh,Electronics,Cameras,37364.6,8526.53,2,Consumer
+ORD-663110,2022-07-06,North,Haryana,Office Supplies,Storage Boxes,2741.28,873.15,1,Corporate
+ORD-533716,2023-06-07,North,Rajasthan,Furniture,Tables,18277.92,3205.97,1,Consumer
+ORD-371390,2023-04-18,East,West Bengal,Office Supplies,Binders,5180.22,1595.65,3,Corporate
+ORD-189919,2024-06-14,South,Telangana,Office Supplies,Scissors & Cutters,2577.31,1159.79,2,Consumer
+ORD-865840,2024-11-10,North,Uttar Pradesh,Furniture,Chairs,25731.78,1307.9,1,Consumer
+ORD-296599,2022-10-31,South,Tamil Nadu,Office Supplies,Paper,5183.14,1255.16,4,Home Office
+ORD-101562,2022-01-05,South,Telangana,Electronics,Tablets,150000,26249.53,4,Consumer
+ORD-722585,2022-07-04,South,Tamil Nadu,Electronics,Phones,71719.67,5093.23,2,Consumer
+ORD-618491,2022-04-02,East,Bihar,Electronics,Phones,150000,443.82,7,Consumer
+ORD-356842,2022-03-25,Central,Jammu & Kashmir,Furniture,Tables,9155.92,-170.77,1,Home Office
+ORD-433804,2023-11-07,West,Goa,Electronics,Phones,19851.49,5295.71,1,Consumer
+ORD-480652,2023-02-21,North,Haryana,Furniture,Storage,22868.99,2916.49,2,Corporate
+ORD-838253,2024-06-03,West,Maharashtra,Electronics,Laptops,66857.56,-2268.34,1,Corporate
+ORD-196051,2024-11-04,South,Karnataka,Furniture,Sofas,150000,-15192.35,7,Consumer
+ORD-822287,2024-08-15,Central,Jammu & Kashmir,Office Supplies,Labels,3833.52,941.72,2,Home Office
+ORD-118241,2022-01-18,South,Tamil Nadu,Office Supplies,Envelopes,6013.28,1104.35,8,Home Office
+ORD-758864,2022-12-28,Central,Uttarakhand,Furniture,Bookcases,50323.83,-2607.7,3,Consumer
+ORD-158071,2023-06-26,South,Tamil Nadu,Electronics,Laptops,109576.56,30686.31,2,Consumer
+ORD-233328,2024-05-24,South,Tamil Nadu,Furniture,Bookcases,98102.35,15440.38,7,Corporate
+ORD-556367,2023-10-28,West,Goa,Electronics,Printers,19911.29,6254.93,1,Consumer
+ORD-764810,2023-09-07,Central,Chhattisgarh,Furniture,Bookcases,9123.31,-201.92,1,Corporate
+ORD-314913,2023-09-26,South,Karnataka,Electronics,Accessories,4996.28,1136.06,1,Consumer
+ORD-206490,2022-09-24,South,Telangana,Office Supplies,Labels,5256.98,1543.73,5,Home Office
+ORD-382656,2023-08-24,West,Gujarat,Furniture,Tables,12554.96,2736.15,2,Corporate
+ORD-606852,2022-09-15,West,Gujarat,Electronics,Tablets,146414.98,24009.7,4,Corporate
+ORD-674288,2022-11-09,South,Kerala,Office Supplies,Labels,7387.22,2480.85,5,Corporate
+ORD-118027,2024-10-06,East,West Bengal,Furniture,Storage,11252.09,2326.67,1,Consumer
+ORD-715261,2024-10-26,West,Goa,Furniture,Storage,25311.57,5068.61,2,Corporate
+ORD-956223,2023-01-08,West,Goa,Electronics,Printers,24935.7,3205.38,4,Consumer
+ORD-130731,2022-04-15,West,Madhya Pradesh,Electronics,Laptops,63062.41,8805.93,2,Home Office
+ORD-312478,2022-12-01,West,Maharashtra,Furniture,Sofas,150000,-4341.98,5,Consumer
+ORD-113847,2023-03-06,Central,Chhattisgarh,Electronics,Printers,12967.04,-1004.03,2,Home Office
+ORD-894474,2022-11-15,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,12113.04,1269.3,10,Home Office
+ORD-589327,2024-12-08,North,Uttar Pradesh,Furniture,Chairs,13049.3,809.41,1,Consumer
+ORD-274554,2024-12-18,West,Maharashtra,Furniture,Storage,7948.54,1323.07,3,Consumer
+ORD-535685,2022-08-05,East,Assam,Electronics,Cameras,61078.64,9218.35,2,Corporate
+ORD-764527,2024-02-26,North,Uttar Pradesh,Furniture,Storage,8533.7,1828.03,2,Consumer
+ORD-539589,2022-01-15,North,Uttar Pradesh,Furniture,Sofas,48151.84,-4099.32,2,Corporate
+ORD-407400,2022-10-04,North,Delhi,Electronics,Phones,21619.31,2056.75,2,Corporate
+ORD-900502,2024-07-22,East,West Bengal,Electronics,Accessories,6312.85,827.21,3,Corporate
+ORD-482391,2022-10-18,South,Tamil Nadu,Office Supplies,Pens & Stationery,3526.9,1415.22,5,Home Office
+ORD-328155,2024-12-06,West,Gujarat,Electronics,Laptops,150000,34474.73,4,Home Office
+ORD-627841,2022-05-16,South,Tamil Nadu,Office Supplies,Envelopes,1372.97,268.41,5,Consumer
+ORD-999837,2023-04-14,South,Tamil Nadu,Electronics,Printers,34226.28,2005.4,2,Corporate
+ORD-356972,2023-11-07,East,West Bengal,Electronics,Phones,150000,17920.89,5,Consumer
+ORD-263020,2024-10-01,West,Madhya Pradesh,Office Supplies,Binders,2346.82,783.43,2,Consumer
+ORD-672531,2024-10-06,South,Karnataka,Furniture,Sofas,29391.88,-3098.14,2,Corporate
+ORD-899462,2024-08-03,West,Maharashtra,Electronics,Tablets,65336.16,20075.94,2,Consumer
+ORD-585046,2024-08-17,North,Haryana,Electronics,Accessories,4221.1,1084.97,1,Consumer
+ORD-479221,2024-09-11,East,Odisha,Furniture,Chairs,13706.87,-366.17,1,Consumer
+ORD-961235,2024-02-25,East,Bihar,Electronics,Accessories,6938.16,2067.23,3,Consumer
+ORD-681960,2024-11-23,Central,Uttarakhand,Furniture,Bookcases,11604.41,1123.67,1,Home Office
+ORD-840721,2022-10-11,South,Telangana,Furniture,Sofas,150000,15493.39,5,Consumer
+ORD-376033,2024-11-24,East,Jharkhand,Furniture,Tables,32714.63,-1872.4,1,Corporate
+ORD-909503,2022-10-24,East,West Bengal,Office Supplies,Pens & Stationery,2688.33,706.7,3,Consumer
+ORD-814931,2023-10-21,South,Andhra Pradesh,Furniture,Storage,11191.85,1729.23,2,Corporate
+ORD-128962,2024-12-15,West,Madhya Pradesh,Electronics,Accessories,4819.1,1409.44,4,Consumer
+ORD-840469,2022-12-27,East,Jharkhand,Electronics,Phones,150000,5236.88,5,Consumer
+ORD-272366,2022-11-19,East,West Bengal,Electronics,Cameras,46109.67,5569.92,2,Consumer
+ORD-545467,2022-01-17,West,Gujarat,Electronics,Laptops,150000,-17953.26,4,Home Office
+ORD-293341,2024-03-25,West,Maharashtra,Furniture,Chairs,64563.46,11987.18,5,Home Office
+ORD-896365,2022-06-14,South,Tamil Nadu,Office Supplies,Storage Boxes,905.27,187.02,1,Consumer
+ORD-581126,2023-01-11,North,Rajasthan,Electronics,Phones,121505.37,16724.24,5,Corporate
+ORD-920531,2024-06-27,North,Rajasthan,Electronics,Laptops,150000,-4082.57,8,Consumer
+ORD-863916,2023-10-28,East,Assam,Electronics,Accessories,21311.71,7554.58,4,Consumer
+ORD-700406,2023-04-01,South,Telangana,Office Supplies,Binders,1576.12,415.71,1,Consumer
+ORD-279983,2023-09-15,South,Andhra Pradesh,Electronics,Printers,31813.56,5495.56,3,Consumer
+ORD-672660,2024-06-09,South,Andhra Pradesh,Office Supplies,Scissors & Cutters,2690.49,921.78,2,Corporate
+ORD-208299,2022-12-18,South,Tamil Nadu,Office Supplies,Scissors & Cutters,3698.1,1412.49,5,Corporate
+ORD-393069,2023-05-22,South,Karnataka,Electronics,Phones,37954.74,11164.41,1,Consumer
+ORD-162263,2023-08-04,West,Maharashtra,Electronics,Accessories,12477.65,2486.8,3,Corporate
+ORD-398673,2023-05-18,South,Karnataka,Electronics,Laptops,100791.23,16231.96,3,Corporate
+ORD-776446,2023-04-18,West,Goa,Office Supplies,Binders,1949.47,629.27,1,Consumer
+ORD-449532,2024-03-15,West,Gujarat,Office Supplies,Binders,2917.45,916.74,1,Consumer
+ORD-716560,2024-02-01,South,Tamil Nadu,Electronics,Cameras,60965.78,9898.43,4,Consumer
+ORD-313017,2024-07-06,Central,Chhattisgarh,Furniture,Tables,15320.95,2252.48,2,Home Office
+ORD-996501,2022-11-06,East,Jharkhand,Electronics,Phones,79797.41,18745.67,6,Consumer
+ORD-947932,2023-04-14,East,Odisha,Furniture,Sofas,135697.21,-4150.91,6,Consumer
+ORD-447985,2023-12-28,South,Karnataka,Office Supplies,Paper,1450.09,370.63,1,Corporate
+ORD-151767,2024-11-25,North,Rajasthan,Furniture,Tables,26689.62,-3124.68,1,Corporate
+ORD-347743,2023-10-21,East,West Bengal,Furniture,Chairs,32088.21,3435.73,2,Corporate
+ORD-969809,2024-05-30,North,Rajasthan,Office Supplies,Paper,3035.8,371.04,2,Consumer
+ORD-645013,2023-11-15,West,Goa,Office Supplies,Envelopes,963.01,101.05,1,Corporate
+ORD-833448,2024-09-05,West,Maharashtra,Office Supplies,Pens & Stationery,725.86,230.91,2,Consumer
+ORD-327233,2023-10-16,South,Telangana,Electronics,Cameras,13637.22,1628.42,1,Corporate
+ORD-659188,2024-04-10,West,Goa,Furniture,Sofas,67118.59,-7054.71,2,Consumer
+ORD-270420,2022-06-28,East,Assam,Electronics,Phones,96718.79,18805.97,3,Corporate
+ORD-564921,2022-03-23,North,Punjab,Office Supplies,Pens & Stationery,1342.0,363.44,5,Consumer
+ORD-600395,2022-06-03,West,Gujarat,Electronics,Laptops,73092.75,-7575.0,2,Consumer
+ORD-720637,2023-04-01,South,Tamil Nadu,Furniture,Chairs,43109.19,6036.92,7,Consumer
+ORD-818366,2024-03-11,West,Goa,Electronics,Cameras,41003.56,6230.79,2,Consumer
+ORD-544238,2022-07-04,North,Delhi,Office Supplies,Storage Boxes,3945.72,1385.23,1,Consumer
+ORD-774144,2023-06-15,South,Andhra Pradesh,Electronics,Laptops,150000,9259.77,4,Corporate
+ORD-221953,2024-08-08,West,Goa,Furniture,Storage,57123.11,4661.11,6,Corporate
+ORD-733764,2023-08-22,Central,Uttarakhand,Office Supplies,Scissors & Cutters,693.35,216.91,1,Corporate
+ORD-562820,2024-10-09,East,Odisha,Electronics,Laptops,38988.56,2521.98,1,Consumer
+ORD-381719,2023-12-09,North,Delhi,Furniture,Storage,21679.89,4254.25,3,Consumer
+ORD-476371,2022-10-08,East,Bihar,Furniture,Tables,22323.52,3471.43,1,Consumer
+ORD-453596,2023-10-03,Central,Chhattisgarh,Electronics,Printers,10688.27,-1066.78,1,Consumer
+ORD-659552,2022-06-09,North,Punjab,Furniture,Storage,19744.0,-342.7,4,Corporate
+ORD-389204,2023-12-21,North,Haryana,Office Supplies,Paper,2978.19,834.15,3,Corporate
+ORD-948439,2022-05-18,North,Himachal Pradesh,Electronics,Tablets,150000,-2288.15,5,Consumer
+ORD-598469,2022-12-08,South,Telangana,Electronics,Phones,108207.21,9981.1,3,Consumer
+ORD-404145,2023-04-29,West,Madhya Pradesh,Electronics,Phones,17175.21,2937.4,1,Corporate
+ORD-321536,2022-09-04,South,Karnataka,Furniture,Storage,50542.38,13528.01,6,Corporate
+ORD-744149,2024-11-04,South,Kerala,Furniture,Chairs,42418.27,9677.89,2,Consumer
+ORD-640055,2024-10-28,Central,Chhattisgarh,Office Supplies,Pens & Stationery,4639.58,1998.69,4,Corporate
+ORD-698738,2022-10-10,South,Andhra Pradesh,Electronics,Printers,62648.28,17240.47,5,Consumer
+ORD-526911,2024-03-11,West,Maharashtra,Furniture,Tables,116026.52,29591.68,3,Consumer
+ORD-300967,2022-12-30,East,Assam,Electronics,Cameras,150000,5533.0,5,Home Office
+ORD-313986,2022-12-18,North,Uttar Pradesh,Electronics,Printers,50492.3,4717.28,3,Consumer
+ORD-908538,2022-02-09,North,Rajasthan,Furniture,Storage,23877.68,3615.75,2,Consumer
+ORD-664771,2024-06-18,North,Rajasthan,Furniture,Bookcases,16774.48,2149.49,1,Corporate
+ORD-391437,2022-10-28,West,Maharashtra,Furniture,Sofas,32582.0,8580.78,1,Consumer
+ORD-332567,2022-08-22,East,Assam,Office Supplies,Scissors & Cutters,2173.0,582.31,6,Home Office
+ORD-909918,2024-11-12,South,Andhra Pradesh,Office Supplies,Binders,6517.93,1803.07,2,Consumer
+ORD-150252,2023-02-21,East,West Bengal,Furniture,Chairs,23692.89,4721.31,2,Corporate
+ORD-534759,2022-12-23,West,Goa,Office Supplies,Pens & Stationery,1079.1,288.09,4,Corporate
+ORD-455340,2022-07-01,East,Jharkhand,Office Supplies,Storage Boxes,2719.49,678.13,1,Home Office
+ORD-279820,2024-08-25,South,Telangana,Electronics,Laptops,150000,26091.23,5,Consumer
+ORD-541743,2023-06-26,South,Telangana,Electronics,Printers,8796.23,1343.51,1,Corporate
+ORD-608090,2022-01-13,South,Kerala,Office Supplies,Storage Boxes,1319.38,387.67,1,Corporate
+ORD-714011,2022-11-16,North,Delhi,Electronics,Cameras,148845.84,14306.85,6,Corporate
+ORD-838423,2022-05-01,North,Haryana,Electronics,Tablets,20910.86,5212.65,1,Consumer
+ORD-469025,2023-12-28,West,Goa,Furniture,Chairs,70239.74,4232.44,3,Corporate
+ORD-391904,2024-11-10,South,Telangana,Furniture,Storage,6496.5,953.6,1,Consumer
+ORD-233350,2023-04-18,North,Haryana,Furniture,Sofas,150000,20719.89,9,Corporate
+ORD-694487,2022-12-23,South,Kerala,Electronics,Cameras,26489.72,3583.76,2,Consumer
+ORD-176201,2024-04-15,West,Madhya Pradesh,Furniture,Sofas,150000,21274.74,6,Consumer
+ORD-873048,2023-05-23,West,Madhya Pradesh,Office Supplies,Labels,3266.36,653.68,3,Consumer
+ORD-918926,2024-06-07,South,Kerala,Furniture,Chairs,44145.08,8703.39,2,Consumer
+ORD-737543,2023-05-21,South,Telangana,Office Supplies,Scissors & Cutters,1457.13,439.91,3,Consumer
+ORD-169728,2023-08-17,East,Jharkhand,Office Supplies,Paper,7657.2,1623.4,5,Home Office
+ORD-419773,2022-05-25,South,Karnataka,Furniture,Sofas,32184.46,-2547.2,2,Corporate
+ORD-775731,2023-11-02,North,Delhi,Office Supplies,Storage Boxes,9810.36,1370.72,7,Home Office
+ORD-780488,2022-11-06,South,Kerala,Office Supplies,Binders,5462.11,1215.63,3,Corporate
+ORD-373698,2024-03-31,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,1485.28,244.19,1,Corporate
+ORD-104523,2022-06-24,North,Himachal Pradesh,Office Supplies,Labels,2986.1,1114.49,3,Consumer
+ORD-603622,2022-11-10,East,Bihar,Office Supplies,Binders,5206.47,1410.9,2,Corporate
+ORD-433434,2022-07-18,North,Haryana,Electronics,Laptops,89387.66,-6932.9,1,Corporate
+ORD-147173,2022-10-28,West,Maharashtra,Furniture,Sofas,37019.9,7270.0,2,Consumer
+ORD-408200,2023-09-28,North,Rajasthan,Furniture,Bookcases,8718.84,1263.11,2,Home Office
+ORD-912087,2023-04-07,South,Tamil Nadu,Furniture,Storage,5524.33,469.91,2,Corporate
+ORD-174755,2024-01-02,West,Gujarat,Office Supplies,Envelopes,935.97,113.4,2,Consumer
+ORD-953481,2023-12-27,North,Rajasthan,Office Supplies,Storage Boxes,5015.31,1944.3,4,Consumer
+ORD-384424,2024-08-26,North,Rajasthan,Electronics,Phones,79202.12,10082.39,4,Home Office
+ORD-898112,2022-11-03,West,Maharashtra,Furniture,Sofas,90896.21,22017.83,2,Consumer
+ORD-638697,2024-12-29,South,Kerala,Electronics,Printers,41367.44,3690.66,2,Consumer
+ORD-348229,2023-12-03,South,Tamil Nadu,Office Supplies,Envelopes,5073.56,615.92,9,Corporate
+ORD-156016,2024-06-03,East,Assam,Furniture,Chairs,11707.73,1719.36,3,Consumer
+ORD-979855,2022-06-11,West,Gujarat,Office Supplies,Labels,869.99,238.26,1,Consumer
+ORD-454946,2022-04-07,West,Gujarat,Electronics,Phones,32279.32,13926.6,1,Corporate
+ORD-804890,2022-11-22,North,Rajasthan,Office Supplies,Storage Boxes,2422.9,719.17,1,Corporate
+ORD-410657,2023-02-07,West,Goa,Electronics,Phones,145874.56,24263.09,5,Consumer
+ORD-931177,2024-04-15,North,Delhi,Electronics,Cameras,16149.91,500.86,2,Consumer
+ORD-114270,2022-10-10,South,Telangana,Electronics,Laptops,150000,49227.16,2,Consumer
+ORD-952073,2022-04-17,South,Andhra Pradesh,Electronics,Phones,25565.66,4614.63,2,Corporate
+ORD-772211,2024-05-28,South,Telangana,Furniture,Chairs,79530.58,-462.02,5,Consumer
+ORD-876764,2022-10-21,South,Kerala,Electronics,Printers,21314.8,63.77,1,Corporate
+ORD-484479,2022-03-27,West,Madhya Pradesh,Electronics,Accessories,8332.55,1775.97,2,Consumer
+ORD-950730,2022-10-08,North,Rajasthan,Office Supplies,Pens & Stationery,4352.52,1514.43,3,Consumer
+ORD-684516,2024-03-08,North,Delhi,Electronics,Tablets,92591.33,1986.77,4,Corporate
+ORD-819143,2024-01-30,North,Haryana,Electronics,Printers,10362.15,2221.21,2,Consumer
+ORD-950248,2023-09-27,South,Tamil Nadu,Electronics,Printers,11323.99,1660.89,1,Corporate
+ORD-165942,2022-02-25,Central,Jammu & Kashmir,Electronics,Accessories,3766.26,859.42,1,Consumer
+ORD-948259,2022-07-12,South,Telangana,Furniture,Chairs,13886.68,2448.73,2,Corporate
+ORD-422532,2024-01-19,West,Goa,Furniture,Storage,15579.54,3768.47,3,Consumer
+ORD-700487,2024-12-10,East,Jharkhand,Office Supplies,Pens & Stationery,3746.97,913.23,5,Consumer
+ORD-437923,2024-10-10,East,Jharkhand,Electronics,Phones,56553.57,16389.6,2,Home Office
+ORD-827779,2022-12-02,North,Haryana,Electronics,Laptops,150000,19116.26,5,Consumer
+ORD-524539,2023-08-16,South,Telangana,Office Supplies,Pens & Stationery,413.03,124.54,1,Consumer
+ORD-942944,2024-07-31,West,Gujarat,Electronics,Accessories,3130.81,1011.38,2,Corporate
+ORD-454573,2022-10-16,North,Delhi,Electronics,Phones,45125.73,6576.85,1,Corporate
+ORD-339026,2022-12-25,North,Delhi,Office Supplies,Labels,4297.59,1303.49,3,Corporate
+ORD-447497,2023-11-04,West,Gujarat,Office Supplies,Binders,10269.44,3420.54,6,Corporate
+ORD-752566,2022-05-23,Central,Chhattisgarh,Electronics,Printers,84145.18,-8191.17,5,Corporate
+ORD-916927,2022-11-05,North,Haryana,Furniture,Tables,150000,20798.91,7,Consumer
+ORD-413249,2024-09-06,West,Maharashtra,Electronics,Tablets,22596.66,6278.38,1,Consumer
+ORD-627877,2023-09-16,North,Himachal Pradesh,Office Supplies,Storage Boxes,6131.58,1648.1,2,Corporate
+ORD-238701,2024-10-12,East,Jharkhand,Furniture,Bookcases,21244.56,-42.74,2,Consumer
+ORD-267668,2022-05-26,North,Punjab,Furniture,Sofas,30908.74,8255.54,1,Corporate
+ORD-907481,2022-06-08,Central,Jammu & Kashmir,Furniture,Sofas,150000,16542.91,4,Corporate
+ORD-249865,2024-06-12,South,Karnataka,Office Supplies,Pens & Stationery,1991.15,680.06,6,Consumer
+ORD-853507,2024-12-28,South,Tamil Nadu,Electronics,Tablets,66945.99,13067.23,3,Corporate
+ORD-558162,2022-12-01,South,Telangana,Office Supplies,Storage Boxes,23857.62,6078.93,6,Corporate
+ORD-767916,2022-11-27,West,Madhya Pradesh,Electronics,Cameras,100960.51,21241.83,4,Corporate
+ORD-780454,2024-09-16,East,Bihar,Electronics,Cameras,26833.27,4758.26,1,Consumer
+ORD-858473,2023-07-10,West,Goa,Furniture,Storage,23021.07,4723.21,3,Corporate
+ORD-353170,2024-06-29,North,Uttar Pradesh,Electronics,Cameras,31761.54,2696.11,1,Consumer
+ORD-502853,2024-03-31,South,Kerala,Electronics,Tablets,124650.99,13750.67,4,Consumer
+ORD-648131,2024-03-27,West,Goa,Office Supplies,Pens & Stationery,1455.88,576.27,1,Consumer
+ORD-551887,2023-07-17,South,Telangana,Furniture,Sofas,106387.98,10862.25,4,Consumer
+ORD-534868,2024-02-23,North,Delhi,Electronics,Tablets,96401.69,14146.61,5,Corporate
+ORD-717326,2022-01-11,West,Gujarat,Electronics,Accessories,29949.01,12503.73,6,Corporate
+ORD-960442,2022-05-11,Central,Uttarakhand,Electronics,Cameras,33288.46,3985.73,1,Consumer
+ORD-774221,2024-04-22,South,Kerala,Office Supplies,Envelopes,2204.02,841.05,3,Home Office
+ORD-882979,2022-05-22,East,West Bengal,Furniture,Storage,30710.18,5368.26,3,Consumer
+ORD-985662,2024-09-24,North,Delhi,Furniture,Chairs,11563.29,2120.04,1,Consumer
+ORD-144289,2024-08-08,West,Madhya Pradesh,Office Supplies,Labels,1166.05,376.55,1,Home Office
+ORD-700872,2023-10-22,East,Odisha,Furniture,Chairs,104113.43,12704.92,6,Consumer
+ORD-852067,2023-05-29,East,West Bengal,Office Supplies,Binders,3652.23,1062.06,2,Consumer
+ORD-645872,2023-10-02,North,Rajasthan,Office Supplies,Storage Boxes,3653.13,713.94,2,Home Office
+ORD-788186,2023-09-25,West,Goa,Office Supplies,Storage Boxes,2617.39,832.28,2,Consumer
+ORD-647338,2023-10-18,East,Jharkhand,Furniture,Bookcases,10246.77,1321.96,1,Consumer
+ORD-774050,2023-07-28,North,Haryana,Electronics,Cameras,30931.28,2681.41,1,Consumer
+ORD-833787,2022-06-27,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,3449.95,649.02,4,Consumer
+ORD-479389,2023-11-28,North,Rajasthan,Furniture,Chairs,150000,22638.1,7,Consumer
+ORD-785520,2024-08-28,East,Assam,Electronics,Laptops,150000,-15188.27,6,Consumer
+ORD-963944,2024-07-06,West,Goa,Office Supplies,Labels,4486.66,967.92,3,Consumer
+ORD-929488,2024-06-30,North,Delhi,Furniture,Chairs,150000,8435.82,9,Consumer
+ORD-320338,2023-12-24,North,Rajasthan,Electronics,Cameras,47510.02,4941.42,2,Corporate
+ORD-509580,2022-12-10,East,Assam,Electronics,Cameras,27182.47,3323.28,2,Consumer
+ORD-349346,2023-01-05,East,Assam,Electronics,Tablets,109284.39,15982.09,4,Consumer
+ORD-694618,2024-12-07,West,Maharashtra,Furniture,Tables,33326.75,8698.89,5,Corporate
+ORD-724941,2022-09-28,West,Gujarat,Electronics,Cameras,84272.4,12943.19,6,Home Office
+ORD-636221,2022-04-01,North,Rajasthan,Furniture,Sofas,150000,28061.39,4,Consumer
+ORD-939244,2024-09-24,West,Gujarat,Office Supplies,Storage Boxes,8985.99,2326.19,6,Consumer
+ORD-456792,2023-10-14,Central,Uttarakhand,Electronics,Phones,67976.2,8730.17,2,Consumer
+ORD-146884,2023-09-30,East,Odisha,Electronics,Phones,38834.09,1855.0,2,Consumer
+ORD-835639,2024-06-28,East,Jharkhand,Office Supplies,Scissors & Cutters,779.15,292.2,2,Consumer
+ORD-568093,2022-10-19,Central,Jammu & Kashmir,Electronics,Accessories,3864.27,1011.04,2,Consumer
+ORD-898262,2022-02-14,South,Karnataka,Furniture,Storage,6986.09,693.52,1,Consumer
+ORD-622420,2022-11-25,West,Gujarat,Furniture,Tables,20348.26,872.73,1,Corporate
+ORD-243345,2022-07-01,North,Himachal Pradesh,Furniture,Tables,129369.03,17945.47,10,Consumer
+ORD-463813,2023-03-01,West,Madhya Pradesh,Office Supplies,Labels,507.96,173.24,1,Corporate
+ORD-700102,2024-09-24,Central,Jammu & Kashmir,Electronics,Phones,40913.59,-2855.62,2,Consumer
+ORD-678616,2022-07-22,West,Goa,Furniture,Storage,7757.21,1051.1,3,Corporate
+ORD-956999,2024-07-10,West,Gujarat,Furniture,Tables,30203.09,4265.23,2,Home Office
+ORD-951346,2022-11-07,West,Goa,Office Supplies,Storage Boxes,3397.36,730.18,1,Corporate
+ORD-296256,2024-07-15,East,Jharkhand,Office Supplies,Labels,865.06,275.41,2,Consumer
+ORD-282343,2022-03-07,West,Gujarat,Electronics,Printers,81269.76,13990.2,9,Home Office
+ORD-318897,2024-09-26,West,Maharashtra,Furniture,Storage,15821.93,2336.51,3,Consumer
+ORD-387674,2023-08-25,South,Karnataka,Office Supplies,Pens & Stationery,595.26,181.9,1,Consumer
+ORD-478007,2022-09-20,South,Telangana,Office Supplies,Pens & Stationery,4142.8,1835.2,4,Consumer
+ORD-894750,2022-11-20,North,Haryana,Electronics,Tablets,102495.2,8685.26,5,Consumer
+ORD-931324,2023-10-25,South,Kerala,Electronics,Printers,37063.64,10022.0,4,Consumer
+ORD-676010,2023-09-08,North,Delhi,Electronics,Tablets,32474.02,4146.43,1,Corporate
+ORD-491948,2024-09-14,West,Gujarat,Electronics,Phones,36921.7,3205.57,1,Corporate
+ORD-432204,2023-03-14,West,Maharashtra,Electronics,Cameras,29168.45,5109.84,2,Consumer
+ORD-556598,2024-05-20,South,Telangana,Office Supplies,Envelopes,299.91,73.15,1,Consumer
+ORD-427176,2023-10-27,South,Karnataka,Furniture,Sofas,80501.66,-8037.54,2,Consumer
+ORD-578263,2022-07-19,East,Assam,Electronics,Tablets,33307.61,5906.57,1,Corporate
+ORD-249723,2023-02-10,West,Maharashtra,Electronics,Tablets,32805.29,3303.81,1,Consumer
+ORD-134855,2022-04-19,South,Telangana,Furniture,Bookcases,123114.19,6261.62,9,Home Office
+ORD-244814,2022-12-11,South,Kerala,Office Supplies,Binders,3454.61,1520.43,2,Consumer
+ORD-435291,2022-10-18,Central,Uttarakhand,Furniture,Tables,31558.65,-3759.31,1,Home Office
+ORD-236830,2022-04-07,South,Tamil Nadu,Electronics,Printers,65450.5,10907.39,4,Consumer
+ORD-317825,2023-03-05,South,Karnataka,Furniture,Bookcases,9303.65,2741.85,1,Consumer
+ORD-868540,2023-06-05,West,Goa,Electronics,Laptops,115077.65,15623.9,2,Corporate
+ORD-739014,2024-06-25,South,Kerala,Furniture,Storage,9352.45,1686.05,2,Corporate
+ORD-473931,2023-05-22,North,Himachal Pradesh,Furniture,Tables,25049.69,893.1,1,Consumer
+ORD-752036,2023-12-31,West,Goa,Furniture,Storage,61026.66,7811.02,9,Home Office
+ORD-265366,2024-11-12,Central,Uttarakhand,Electronics,Tablets,82203.19,9339.85,2,Corporate
+ORD-488885,2022-11-23,North,Punjab,Office Supplies,Labels,1739.27,560.51,2,Corporate
+ORD-527527,2023-11-26,South,Karnataka,Office Supplies,Storage Boxes,9301.74,3310.22,4,Consumer
+ORD-208273,2023-11-25,South,Andhra Pradesh,Office Supplies,Storage Boxes,29906.09,5122.01,7,Home Office
+ORD-400542,2024-10-21,North,Rajasthan,Electronics,Phones,58321.25,8653.41,2,Consumer
+ORD-769951,2022-06-08,North,Delhi,Furniture,Sofas,25746.06,4069.27,1,Consumer
+ORD-356736,2024-02-17,West,Maharashtra,Office Supplies,Pens & Stationery,1501.39,368.53,2,Consumer
+ORD-680796,2022-10-14,North,Delhi,Electronics,Phones,150000,22156.24,9,Consumer
+ORD-773651,2022-12-03,West,Goa,Office Supplies,Paper,3812.06,385.29,6,Consumer
+ORD-713500,2023-09-08,North,Rajasthan,Electronics,Printers,15016.54,2394.79,1,Corporate
+ORD-694707,2024-07-31,North,Himachal Pradesh,Electronics,Printers,50177.68,10041.76,6,Corporate
+ORD-134457,2022-08-09,West,Maharashtra,Electronics,Printers,14024.48,1929.04,1,Consumer
+ORD-342875,2022-07-25,West,Goa,Electronics,Phones,150000,18649.24,8,Consumer
+ORD-177503,2022-07-06,South,Kerala,Furniture,Sofas,39964.56,11889.43,3,Home Office
+ORD-140530,2022-11-05,West,Madhya Pradesh,Office Supplies,Binders,3739.87,1362.17,2,Home Office
+ORD-751002,2022-03-23,South,Karnataka,Electronics,Printers,66748.16,-4950.43,7,Consumer
+ORD-601277,2022-07-24,East,West Bengal,Electronics,Accessories,3658.51,-199.74,1,Consumer
+ORD-241800,2022-01-09,Central,Jammu & Kashmir,Office Supplies,Binders,798.08,273.52,1,Consumer
+ORD-608117,2022-06-13,East,Bihar,Furniture,Chairs,34010.75,3033.77,3,Home Office
+ORD-277544,2022-09-01,West,Maharashtra,Office Supplies,Binders,7311.41,2992.22,7,Corporate
+ORD-507409,2022-05-17,North,Punjab,Electronics,Tablets,30367.67,5746.2,1,Corporate
+ORD-178697,2022-01-05,North,Haryana,Office Supplies,Binders,11664.53,2055.85,7,Corporate
+ORD-476321,2024-05-22,North,Rajasthan,Office Supplies,Envelopes,258.35,59.88,1,Consumer
+ORD-719548,2023-11-29,North,Himachal Pradesh,Office Supplies,Paper,3390.46,1267.66,2,Consumer
+ORD-859599,2022-06-26,North,Delhi,Office Supplies,Pens & Stationery,467.31,210.29,2,Consumer
+ORD-108383,2024-09-02,South,Kerala,Office Supplies,Storage Boxes,8091.59,2129.37,7,Corporate
+ORD-541428,2023-01-04,West,Madhya Pradesh,Office Supplies,Binders,3051.46,1373.16,6,Corporate
+ORD-952210,2024-04-23,East,Bihar,Office Supplies,Scissors & Cutters,3532.14,898.24,4,Consumer
+ORD-855095,2022-08-16,West,Gujarat,Electronics,Laptops,110291.35,17398.45,3,Consumer
+ORD-662089,2023-07-23,West,Gujarat,Electronics,Cameras,48069.98,8902.57,3,Corporate
+ORD-681167,2023-07-03,West,Gujarat,Electronics,Phones,150000,27042.76,4,Consumer
+ORD-131144,2023-10-06,Central,Uttarakhand,Office Supplies,Paper,4902.83,1273.88,4,Consumer
+ORD-834222,2022-03-01,East,West Bengal,Electronics,Tablets,20055.56,161.05,1,Home Office
+ORD-354368,2023-09-10,North,Delhi,Office Supplies,Envelopes,1182.43,269.85,4,Corporate
+ORD-938721,2024-07-19,West,Gujarat,Furniture,Tables,22847.88,2862.64,1,Corporate
+ORD-123669,2024-02-29,North,Rajasthan,Furniture,Chairs,24004.74,1352.79,3,Corporate
+ORD-202075,2024-06-29,Central,Chhattisgarh,Office Supplies,Labels,970.08,209.19,3,Corporate
+ORD-461214,2024-10-06,East,Bihar,Furniture,Chairs,19819.31,2997.08,2,Consumer
+ORD-768606,2024-11-30,East,West Bengal,Electronics,Printers,10661.1,-502.14,1,Consumer
+ORD-145331,2022-06-19,South,Andhra Pradesh,Electronics,Laptops,122818.04,-6849.74,2,Corporate
+ORD-636900,2023-07-29,West,Gujarat,Furniture,Storage,5012.94,1770.94,1,Corporate
+ORD-623131,2023-01-05,West,Maharashtra,Furniture,Tables,9929.35,1785.45,1,Corporate
+ORD-387211,2022-06-13,South,Tamil Nadu,Office Supplies,Pens & Stationery,1335.04,546.45,1,Corporate
+ORD-443543,2024-12-30,North,Rajasthan,Office Supplies,Labels,1287.62,462.54,1,Consumer
+ORD-164418,2023-03-13,South,Kerala,Furniture,Bookcases,34065.69,5452.18,2,Corporate
+ORD-437807,2022-10-13,North,Punjab,Electronics,Laptops,150000,15784.19,3,Consumer
+ORD-409844,2022-11-18,West,Maharashtra,Electronics,Accessories,9596.47,1720.21,2,Consumer
+ORD-817747,2024-04-11,South,Tamil Nadu,Electronics,Laptops,150000,29097.78,5,Consumer
+ORD-147351,2023-09-11,Central,Uttarakhand,Electronics,Laptops,31189.28,-983.78,1,Consumer
+ORD-491823,2024-09-24,South,Tamil Nadu,Furniture,Tables,110724.35,11465.08,4,Consumer
+ORD-850300,2023-09-26,North,Rajasthan,Office Supplies,Paper,785.61,202.69,1,Corporate
+ORD-862268,2023-03-21,North,Haryana,Furniture,Storage,19636.8,3584.67,2,Consumer
+ORD-562518,2024-06-28,West,Goa,Office Supplies,Pens & Stationery,998.56,294.5,1,Home Office
+ORD-184179,2024-05-26,North,Himachal Pradesh,Furniture,Storage,2265.03,191.6,1,Corporate
+ORD-779480,2023-10-20,South,Tamil Nadu,Office Supplies,Envelopes,335.49,76.35,1,Consumer
+ORD-601702,2024-06-23,East,Jharkhand,Furniture,Tables,19483.83,3378.55,2,Consumer
+ORD-244765,2024-11-24,East,Bihar,Furniture,Storage,4971.66,1200.81,1,Consumer
+ORD-130322,2023-05-17,North,Delhi,Furniture,Sofas,113626.86,-3899.69,3,Consumer
+ORD-728556,2023-06-13,East,Odisha,Office Supplies,Labels,2538.42,469.94,2,Consumer
+ORD-320525,2024-12-08,South,Kerala,Furniture,Chairs,105960.13,14210.1,5,Consumer
+ORD-931537,2024-01-26,South,Karnataka,Office Supplies,Pens & Stationery,3407.53,1154.77,7,Consumer
+ORD-974955,2024-04-21,North,Punjab,Furniture,Tables,33495.11,1813.25,1,Consumer
+ORD-526556,2022-10-10,Central,Jammu & Kashmir,Electronics,Cameras,41797.36,1925.65,2,Consumer
+ORD-804819,2023-03-18,West,Gujarat,Electronics,Cameras,19801.33,3280.42,1,Consumer
+ORD-254501,2023-02-06,North,Rajasthan,Office Supplies,Storage Boxes,21262.86,2714.07,7,Consumer
+ORD-461642,2024-10-06,North,Delhi,Electronics,Cameras,27465.92,4622.47,1,Corporate
+ORD-198154,2023-08-23,West,Gujarat,Office Supplies,Paper,3085.86,1083.11,2,Consumer
+ORD-158825,2023-07-07,West,Madhya Pradesh,Furniture,Storage,3971.3,430.6,1,Corporate
+ORD-921898,2024-12-01,South,Tamil Nadu,Office Supplies,Scissors & Cutters,1899.08,393.08,5,Consumer
+ORD-855018,2024-11-26,Central,Chhattisgarh,Electronics,Tablets,149843.25,27008.37,4,Corporate
+ORD-499534,2024-11-09,Central,Jammu & Kashmir,Furniture,Storage,37032.16,5277.71,4,Home Office
+ORD-771209,2022-09-30,Central,Uttarakhand,Electronics,Printers,33529.35,3981.03,5,Home Office
+ORD-325600,2024-02-06,East,West Bengal,Electronics,Tablets,15072.28,2887.85,1,Home Office
+ORD-850146,2022-04-10,East,Assam,Furniture,Chairs,17037.26,3243.97,1,Consumer
+ORD-503661,2024-11-08,West,Goa,Electronics,Printers,29998.9,4520.69,3,Consumer
+ORD-469375,2024-11-01,South,Tamil Nadu,Electronics,Accessories,4023.02,1577.73,2,Consumer
+ORD-375003,2022-03-15,Central,Chhattisgarh,Electronics,Accessories,13827.04,4600.96,4,Corporate
+ORD-827622,2022-07-30,South,Telangana,Office Supplies,Labels,10615.59,2516.29,9,Corporate
+ORD-504100,2024-06-17,West,Gujarat,Furniture,Tables,43354.33,-2258.1,2,Consumer
+ORD-662361,2023-03-01,North,Himachal Pradesh,Furniture,Sofas,46171.92,4955.67,2,Home Office
+ORD-359485,2024-11-08,South,Andhra Pradesh,Furniture,Chairs,43082.93,4197.51,2,Corporate
+ORD-169767,2023-11-08,North,Haryana,Furniture,Storage,13736.54,2424.53,3,Corporate
+ORD-457535,2023-02-23,West,Gujarat,Furniture,Storage,15203.51,2752.09,2,Corporate
+ORD-367435,2023-10-11,North,Himachal Pradesh,Office Supplies,Paper,3772.98,804.81,2,Consumer
+ORD-942836,2024-08-24,West,Maharashtra,Furniture,Tables,90077.58,-6159.33,3,Consumer
+ORD-578025,2022-08-26,West,Goa,Electronics,Laptops,150000,-12038.09,3,Consumer
+ORD-186973,2022-10-27,West,Goa,Electronics,Tablets,87334.36,14674.28,3,Home Office
+ORD-465742,2024-08-30,North,Rajasthan,Furniture,Storage,13105.18,1884.9,2,Corporate
+ORD-495971,2024-12-09,South,Kerala,Electronics,Cameras,55256.61,13750.0,4,Corporate
+ORD-245133,2024-01-17,North,Delhi,Office Supplies,Paper,450.01,125.98,1,Home Office
+ORD-837589,2024-05-12,South,Andhra Pradesh,Office Supplies,Envelopes,1107.87,335.03,1,Consumer
+ORD-881421,2022-07-16,North,Delhi,Furniture,Chairs,11920.21,1483.73,2,Consumer
+ORD-374364,2023-02-21,North,Rajasthan,Office Supplies,Pens & Stationery,632.07,271.67,2,Consumer
+ORD-397468,2024-02-27,West,Madhya Pradesh,Office Supplies,Labels,7269.62,2274.69,5,Home Office
+ORD-196069,2024-10-10,West,Madhya Pradesh,Furniture,Tables,42228.08,9563.16,4,Home Office
+ORD-721013,2024-10-17,North,Uttar Pradesh,Office Supplies,Storage Boxes,18142.2,2390.39,6,Consumer
+ORD-798917,2023-10-17,South,Kerala,Electronics,Laptops,74179.71,8919.85,2,Consumer
+ORD-776294,2023-03-21,West,Gujarat,Office Supplies,Binders,3852.97,1408.33,6,Corporate
+ORD-717238,2023-04-26,North,Uttar Pradesh,Office Supplies,Scissors & Cutters,9270.31,2365.9,7,Consumer
+ORD-652313,2023-04-18,Central,Chhattisgarh,Electronics,Cameras,99499.28,-3345.77,4,Consumer
+ORD-565024,2024-05-04,North,Haryana,Electronics,Cameras,52006.67,9153.3,6,Corporate
+ORD-186347,2023-12-16,West,Goa,Office Supplies,Storage Boxes,33078.26,11756.24,9,Home Office
+ORD-192565,2023-05-16,East,Jharkhand,Office Supplies,Envelopes,1407.68,164.7,2,Consumer
+ORD-712923,2022-10-14,East,Jharkhand,Office Supplies,Storage Boxes,15994.06,5442.33,5,Corporate
+ORD-203068,2024-11-08,North,Delhi,Furniture,Sofas,106326.66,23800.87,5,Corporate
+ORD-797094,2024-01-03,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,2555.6,543.64,3,Consumer
+ORD-553252,2024-06-09,West,Maharashtra,Furniture,Tables,37795.74,9152.07,2,Home Office
+ORD-440645,2022-12-13,Central,Jammu & Kashmir,Furniture,Sofas,83722.9,-6512.46,8,Consumer
+ORD-259691,2024-06-07,East,Jharkhand,Electronics,Phones,29909.11,2122.55,2,Home Office
+ORD-658053,2022-02-20,Central,Jammu & Kashmir,Office Supplies,Pens & Stationery,773.06,327.36,1,Corporate
+ORD-297626,2022-10-12,Central,Uttarakhand,Office Supplies,Pens & Stationery,4769.68,1085.02,5,Corporate
+ORD-423349,2024-12-12,South,Kerala,Office Supplies,Binders,3991.6,1275.7,4,Home Office
+ORD-688437,2024-10-03,North,Uttar Pradesh,Furniture,Chairs,64061.92,8747.62,4,Consumer
+ORD-257208,2023-11-28,South,Telangana,Electronics,Printers,9911.27,2116.36,1,Consumer
+ORD-289958,2022-11-28,South,Telangana,Electronics,Phones,26389.4,4178.25,3,Consumer
+ORD-920467,2024-10-17,South,Karnataka,Office Supplies,Scissors & Cutters,843.08,315.3,1,Corporate
+ORD-481136,2023-05-05,West,Goa,Office Supplies,Storage Boxes,11917.09,4234.5,5,Corporate
+ORD-196491,2023-07-22,Central,Jammu & Kashmir,Electronics,Accessories,13762.28,3171.07,3,Consumer
+ORD-318395,2023-03-25,West,Goa,Electronics,Accessories,29329.94,11955.77,6,Corporate
+ORD-539178,2024-11-18,West,Goa,Furniture,Bookcases,52715.87,13947.66,3,Home Office
+ORD-760583,2022-11-24,West,Gujarat,Furniture,Storage,37172.73,5137.94,5,Consumer
+ORD-795201,2024-08-01,East,West Bengal,Office Supplies,Envelopes,359.07,109.55,1,Corporate
+ORD-788796,2023-05-31,West,Madhya Pradesh,Office Supplies,Storage Boxes,5027.66,1032.32,2,Consumer
+ORD-900230,2023-09-18,South,Tamil Nadu,Furniture,Sofas,28539.24,4078.1,1,Consumer
+ORD-894986,2024-08-15,Central,Uttarakhand,Office Supplies,Scissors & Cutters,6099.11,1202.36,9,Corporate
+ORD-818930,2022-01-10,Central,Chhattisgarh,Furniture,Bookcases,26748.89,1115.87,3,Corporate
+ORD-414465,2023-12-05,South,Telangana,Electronics,Laptops,150000,37392.09,2,Consumer
+ORD-816995,2024-10-03,West,Goa,Electronics,Printers,26589.67,2182.52,4,Home Office
+ORD-520589,2024-01-04,North,Punjab,Electronics,Accessories,11056.84,1964.17,5,Consumer
+ORD-800278,2023-12-06,South,Kerala,Furniture,Sofas,40623.37,3714.73,1,Corporate
+ORD-142968,2023-10-26,North,Punjab,Electronics,Tablets,68755.99,23848.15,2,Corporate
+ORD-902023,2024-05-05,South,Tamil Nadu,Furniture,Tables,13756.29,4142.94,1,Corporate
+ORD-970795,2024-09-01,North,Himachal Pradesh,Office Supplies,Storage Boxes,2161.29,717.48,1,Home Office
+ORD-282242,2024-05-18,North,Uttar Pradesh,Furniture,Storage,4282.31,662.89,2,Corporate
+ORD-187908,2024-06-02,West,Gujarat,Office Supplies,Envelopes,547.51,142.73,2,Corporate
+ORD-162197,2023-09-29,West,Gujarat,Office Supplies,Paper,8979.77,1704.69,6,Corporate
+ORD-281658,2023-03-17,North,Rajasthan,Office Supplies,Envelopes,4068.61,1069.06,8,Home Office
+ORD-789512,2022-04-28,East,Odisha,Furniture,Bookcases,13513.31,-116.97,1,Consumer
+ORD-238951,2024-08-23,North,Haryana,Furniture,Sofas,43223.89,3852.85,3,Corporate
+ORD-884845,2024-12-03,South,Kerala,Electronics,Cameras,66258.85,17034.95,2,Consumer
+ORD-713685,2024-09-17,East,West Bengal,Electronics,Accessories,3130.46,850.33,1,Home Office
+ORD-734343,2022-09-17,West,Goa,Office Supplies,Labels,574.93,215.35,1,Corporate
+ORD-187431,2024-09-28,East,Odisha,Electronics,Cameras,23314.4,-909.35,1,Consumer
+ORD-582879,2024-01-06,East,Jharkhand,Furniture,Storage,16387.71,1016.95,3,Consumer
+ORD-306041,2022-04-26,North,Uttar Pradesh,Office Supplies,Paper,1619.39,263.37,1,Consumer
+ORD-946113,2024-12-02,North,Rajasthan,Electronics,Laptops,150000,36908.93,4,Consumer
+ORD-515866,2022-04-07,West,Goa,Electronics,Printers,36388.55,6425.93,4,Consumer
+ORD-464889,2022-10-27,North,Rajasthan,Electronics,Phones,150000,20381.92,6,Home Office
+ORD-428804,2022-07-25,North,Uttar Pradesh,Electronics,Tablets,12081.82,1995.85,1,Consumer
+ORD-789474,2022-12-13,North,Uttar Pradesh,Office Supplies,Storage Boxes,3555.01,708.33,1,Corporate
+ORD-768126,2024-04-21,West,Gujarat,Furniture,Chairs,55293.31,6308.26,3,Home Office
+ORD-874142,2022-04-05,North,Uttar Pradesh,Electronics,Printers,5755.31,-254.06,1,Corporate
+ORD-932859,2024-12-27,North,Delhi,Electronics,Phones,22351.83,3726.96,2,Corporate
+ORD-890075,2023-09-15,Central,Uttarakhand,Furniture,Tables,51132.3,5349.9,3,Consumer
+ORD-560524,2024-10-23,West,Madhya Pradesh,Electronics,Tablets,33430.42,6528.67,2,Corporate
+ORD-914073,2024-10-09,South,Telangana,Office Supplies,Envelopes,1117.88,331.05,2,Corporate
+ORD-852235,2022-05-21,West,Madhya Pradesh,Electronics,Accessories,1482.86,471.42,1,Consumer
+ORD-813007,2022-08-15,North,Uttar Pradesh,Furniture,Tables,25737.94,-1535.99,3,Corporate
+ORD-541972,2024-05-01,South,Kerala,Electronics,Accessories,6088.39,2204.01,2,Corporate
+ORD-606500,2022-02-14,East,Odisha,Electronics,Tablets,51239.6,2194.8,2,Consumer
+ORD-983885,2022-10-24,West,Maharashtra,Furniture,Tables,14729.98,1631.86,2,Consumer
+ORD-377057,2022-04-13,Central,Chhattisgarh,Furniture,Chairs,13494.91,1218.4,2,Consumer
+ORD-191755,2022-08-22,East,Jharkhand,Furniture,Storage,12963.99,1924.79,2,Corporate
+ORD-862502,2024-12-02,West,Madhya Pradesh,Office Supplies,Envelopes,2493.94,910.92,3,Consumer
+ORD-230273,2022-08-15,West,Goa,Office Supplies,Pens & Stationery,646.79,291.06,2,Corporate
+ORD-795111,2024-10-05,West,Goa,Furniture,Tables,21675.16,4849.72,1,Corporate
+ORD-570424,2022-12-31,West,Maharashtra,Furniture,Bookcases,24052.14,5710.98,3,Corporate
+ORD-192987,2022-04-20,Central,Chhattisgarh,Furniture,Chairs,68584.17,12817.6,4,Consumer
+ORD-933979,2022-12-18,North,Himachal Pradesh,Electronics,Phones,90764.14,15212.44,5,Home Office
+ORD-445424,2022-04-03,East,West Bengal,Electronics,Printers,10358.86,793.7,1,Corporate
+ORD-960177,2022-09-11,West,Gujarat,Furniture,Tables,16275.48,4433.28,1,Consumer
+ORD-559218,2023-07-12,East,Odisha,Electronics,Phones,117577.74,31500.65,3,Home Office
+ORD-288223,2024-03-20,East,Bihar,Electronics,Laptops,150000,-6759.76,4,Corporate
+ORD-732404,2023-05-12,West,Madhya Pradesh,Furniture,Sofas,70520.99,12252.04,3,Corporate
+ORD-420711,2024-08-09,North,Himachal Pradesh,Electronics,Printers,53980.96,6400.84,3,Consumer
+ORD-766947,2023-01-21,Central,Chhattisgarh,Furniture,Sofas,45093.79,5807.65,1,Consumer
+ORD-826045,2022-10-06,East,Bihar,Office Supplies,Storage Boxes,11708.96,3898.84,6,Corporate
+ORD-383506,2024-12-11,West,Gujarat,Office Supplies,Binders,5716.01,1981.48,2,Home Office
+ORD-198717,2023-09-27,South,Telangana,Office Supplies,Pens & Stationery,1480.82,626.32,1,Consumer
+ORD-826796,2023-07-27,West,Goa,Electronics,Cameras,38213.05,3571.27,2,Consumer
+ORD-871582,2024-11-20,South,Kerala,Furniture,Bookcases,15889.33,-412.71,1,Consumer
+ORD-468630,2024-08-15,North,Himachal Pradesh,Electronics,Tablets,150000,6335.31,10,Consumer
+ORD-179789,2022-05-25,South,Andhra Pradesh,Electronics,Tablets,28181.4,2738.4,1,Home Office
+ORD-136944,2022-12-24,North,Haryana,Furniture,Storage,31762.18,5880.34,3,Consumer
+ORD-362194,2023-09-18,East,Odisha,Electronics,Accessories,2599.07,890.95,2,Consumer
+ORD-300608,2024-11-25,North,Delhi,Electronics,Accessories,10497.34,1451.1,2,Consumer
+ORD-139093,2024-11-05,West,Goa,Electronics,Laptops,150000,41577.32,4,Corporate
+ORD-460212,2023-02-23,West,Goa,Electronics,Cameras,99811.69,23346.96,3,Corporate
+ORD-602901,2022-01-17,North,Rajasthan,Office Supplies,Labels,656.2,46.36,1,Corporate
+ORD-980286,2024-08-21,South,Andhra Pradesh,Electronics,Cameras,16244.63,2514.68,2,Consumer
+ORD-242998,2024-11-07,South,Kerala,Office Supplies,Storage Boxes,12602.9,1402.52,4,Corporate
+ORD-554702,2024-05-30,East,Assam,Electronics,Phones,23880.39,-2094.22,2,Home Office
+ORD-712622,2022-04-16,North,Haryana,Office Supplies,Binders,2396.79,420.29,1,Corporate
+ORD-373374,2024-07-06,North,Punjab,Furniture,Bookcases,8741.89,467.83,1,Home Office
+ORD-819559,2022-07-16,East,Bihar,Furniture,Tables,29300.3,3480.15,1,Home Office
+ORD-556064,2024-11-25,West,Goa,Electronics,Phones,117537.66,16757.45,3,Consumer
+ORD-459824,2023-09-29,West,Goa,Office Supplies,Scissors & Cutters,1159.56,189.57,3,Corporate
+ORD-663147,2024-07-01,Central,Chhattisgarh,Electronics,Printers,65418.8,19637.95,5,Consumer
+ORD-971284,2023-09-09,West,Madhya Pradesh,Office Supplies,Paper,1577.58,39.48,2,Consumer
+ORD-885021,2023-02-06,North,Uttar Pradesh,Office Supplies,Binders,698.67,232.4,1,Corporate
+ORD-730280,2023-11-14,West,Gujarat,Electronics,Tablets,82645.15,6965.81,3,Home Office
+ORD-842510,2024-09-29,East,Jharkhand,Electronics,Laptops,103944.01,18070.34,2,Corporate
+ORD-321548,2023-06-13,West,Madhya Pradesh,Office Supplies,Storage Boxes,1135.85,314.35,1,Consumer
+ORD-257851,2023-02-06,North,Haryana,Electronics,Printers,92663.23,-5990.68,5,Consumer
+ORD-474685,2024-08-02,North,Himachal Pradesh,Furniture,Tables,76024.07,13906.81,2,Consumer
+ORD-143138,2024-11-09,Central,Jammu & Kashmir,Furniture,Storage,7765.13,776.94,1,Consumer
+ORD-399116,2024-10-25,South,Kerala,Office Supplies,Labels,7416.25,2590.67,4,Home Office
+ORD-889826,2024-08-11,North,Uttar Pradesh,Electronics,Laptops,81327.46,6433.19,1,Consumer
+ORD-309422,2023-09-03,North,Haryana,Office Supplies,Storage Boxes,3960.26,1111.08,4,Corporate
+ORD-927081,2024-04-17,North,Rajasthan,Electronics,Printers,8950.87,1193.87,1,Corporate
+ORD-543197,2024-01-19,Central,Chhattisgarh,Office Supplies,Paper,7215.06,-858.46,7,Corporate
+ORD-138607,2023-06-17,West,Maharashtra,Electronics,Printers,9614.97,2482.31,1,Consumer
+ORD-729152,2024-10-24,West,Goa,Office Supplies,Binders,4624.98,1536.73,2,Consumer
+ORD-569575,2023-07-21,South,Kerala,Furniture,Storage,49750.87,7793.66,7,Consumer
+ORD-855548,2024-04-22,East,Jharkhand,Furniture,Tables,22215.18,1385.28,4,Consumer
+ORD-729563,2024-02-07,East,West Bengal,Electronics,Laptops,150000,26169.23,4,Home Office
+ORD-996915,2022-02-05,West,Gujarat,Furniture,Storage,3555.66,679.64,1,Consumer
+ORD-471776,2022-05-18,South,Andhra Pradesh,Electronics,Tablets,49259.76,8278.17,2,Corporate
+ORD-365636,2024-10-21,North,Punjab,Office Supplies,Scissors & Cutters,573.32,221.45,1,Consumer
+ORD-117497,2024-04-12,Central,Uttarakhand,Furniture,Chairs,24326.24,4447.13,1,Consumer
+ORD-472602,2024-11-18,North,Haryana,Office Supplies,Envelopes,3138.01,782.64,5,Home Office
+ORD-913506,2022-09-01,East,Bihar,Office Supplies,Scissors & Cutters,3811.85,534.01,3,Home Office
+ORD-279106,2024-02-08,West,Maharashtra,Electronics,Tablets,67915.23,10347.15,4,Corporate
+ORD-995289,2023-09-30,Central,Chhattisgarh,Furniture,Chairs,99362.22,18226.95,4,Consumer
+ORD-371702,2022-12-21,South,Telangana,Office Supplies,Envelopes,2387.88,637.08,2,Corporate
+ORD-981240,2022-07-28,East,Odisha,Furniture,Tables,39655.12,-3546.71,1,Consumer
+ORD-305287,2023-10-19,South,Kerala,Electronics,Accessories,1982.95,697.5,2,Home Office
+ORD-746592,2024-04-14,East,Bihar,Electronics,Accessories,14742.57,3764.84,4,Home Office
+ORD-225492,2022-07-21,Central,Jammu & Kashmir,Electronics,Laptops,44941.09,-3676.74,1,Consumer
+ORD-539721,2022-07-11,West,Gujarat,Electronics,Tablets,32721.5,4369.74,1,Corporate
+ORD-232063,2022-11-08,East,Jharkhand,Electronics,Printers,31198.21,4022.84,2,Home Office
+ORD-131957,2024-12-19,North,Rajasthan,Office Supplies,Storage Boxes,854.5,221.73,1,Corporate
+ORD-764326,2023-12-22,West,Madhya Pradesh,Electronics,Laptops,30869.05,8549.07,1,Home Office
+ORD-380317,2023-11-27,West,Goa,Office Supplies,Envelopes,703.14,240.03,2,Home Office
+ORD-950816,2022-04-02,Central,Jammu & Kashmir,Electronics,Laptops,150000,22960.79,6,Consumer
+ORD-679252,2022-02-28,Central,Chhattisgarh,Electronics,Accessories,17249.57,4869.5,4,Consumer
+ORD-736472,2023-11-30,East,Bihar,Office Supplies,Storage Boxes,6738.05,1233.34,2,Home Office
+ORD-372194,2023-02-23,Central,Uttarakhand,Furniture,Bookcases,11767.04,262.14,2,Corporate
+ORD-863368,2024-02-20,West,Gujarat,Electronics,Accessories,2208.3,599.2,3,Corporate
+ORD-244758,2022-02-01,South,Kerala,Electronics,Printers,71410.27,-553.85,4,Corporate
+ORD-687327,2023-08-17,East,West Bengal,Electronics,Cameras,135359.58,12877.6,4,Consumer
+ORD-688035,2023-11-10,South,Andhra Pradesh,Furniture,Sofas,32780.8,5992.27,1,Corporate
+ORD-447842,2022-11-02,South,Telangana,Furniture,Tables,23265.37,-2242.65,2,Corporate
+ORD-261755,2023-05-18,South,Telangana,Furniture,Storage,9960.52,2613.02,2,Home Office
+ORD-770185,2024-10-11,East,Jharkhand,Electronics,Cameras,38061.54,3204.24,1,Corporate
+ORD-598014,2023-11-17,North,Himachal Pradesh,Electronics,Accessories,4585.88,967.23,2,Home Office
+ORD-834024,2024-09-27,West,Goa,Electronics,Printers,14541.7,3471.7,1,Consumer
+ORD-264091,2024-05-27,West,Maharashtra,Office Supplies,Envelopes,914.34,272.4,2,Consumer
+ORD-433754,2024-06-11,South,Andhra Pradesh,Furniture,Sofas,94829.22,-9567.74,2,Corporate
+ORD-316578,2023-12-20,West,Maharashtra,Office Supplies,Labels,6981.21,2101.8,4,Corporate
+ORD-262774,2022-10-24,North,Rajasthan,Office Supplies,Paper,2925.23,352.9,2,Consumer
+ORD-680174,2024-11-30,North,Himachal Pradesh,Electronics,Phones,150000,21468.68,5,Consumer
+ORD-414585,2022-01-11,West,Gujarat,Furniture,Tables,71680.1,22968.61,2,Home Office
+ORD-609576,2023-10-31,North,Uttar Pradesh,Electronics,Cameras,20326.57,-211.89,1,Home Office
+ORD-964755,2022-10-10,South,Kerala,Office Supplies,Labels,12794.59,4185.4,7,Consumer
+ORD-824433,2022-11-10,West,Goa,Furniture,Tables,89342.31,30681.46,5,Home Office
+ORD-857758,2024-07-18,North,Delhi,Electronics,Laptops,104182.05,13076.74,2,Corporate
+ORD-516981,2023-07-01,North,Haryana,Furniture,Chairs,106314.96,32563.72,5,Corporate
+ORD-697182,2022-05-13,North,Uttar Pradesh,Electronics,Printers,28452.09,5515.97,3,Corporate
+ORD-273236,2023-11-26,South,Kerala,Furniture,Tables,59202.2,11121.31,2,Consumer
+ORD-566554,2024-06-08,West,Maharashtra,Furniture,Bookcases,28307.96,2516.42,2,Consumer
+ORD-932350,2023-09-19,West,Madhya Pradesh,Furniture,Chairs,24063.2,461.81,2,Corporate
+ORD-970389,2023-05-09,South,Karnataka,Electronics,Accessories,9946.98,1964.87,2,Corporate
+ORD-215122,2023-06-01,West,Goa,Furniture,Bookcases,5004.59,1046.87,1,Corporate
+ORD-239976,2022-12-21,North,Rajasthan,Electronics,Tablets,23692.4,2761.77,1,Corporate
+ORD-611493,2023-09-25,East,Bihar,Furniture,Sofas,48197.84,8558.37,3,Consumer
+ORD-912905,2023-12-06,East,Jharkhand,Electronics,Cameras,19163.71,725.31,1,Home Office
+ORD-910981,2024-04-20,South,Kerala,Furniture,Bookcases,5424.67,363.74,1,Home Office
+ORD-764376,2022-07-16,Central,Jammu & Kashmir,Furniture,Tables,84212.95,14113.83,9,Consumer
+ORD-847496,2023-08-04,West,Maharashtra,Electronics,Phones,38511.89,7932.0,1,Consumer
+ORD-810729,2024-09-28,West,Gujarat,Office Supplies,Pens & Stationery,654.45,248.07,2,Home Office
+ORD-263678,2024-05-18,East,Bihar,Office Supplies,Scissors & Cutters,2999.66,549.31,2,Corporate
+ORD-527314,2024-07-19,East,Odisha,Electronics,Phones,132223.24,27649.69,8,Consumer
+ORD-107656,2022-06-02,South,Andhra Pradesh,Office Supplies,Pens & Stationery,1025.83,421.3,1,Consumer
+ORD-805033,2023-04-06,West,Madhya Pradesh,Furniture,Chairs,71173.3,10130.43,8,Consumer
+ORD-904932,2022-11-11,South,Karnataka,Office Supplies,Pens & Stationery,1581.88,673.86,1,Corporate
+ORD-377260,2022-05-20,East,Assam,Electronics,Cameras,29876.69,1778.98,1,Home Office
+ORD-935467,2022-12-07,East,Odisha,Electronics,Laptops,150000,1441.42,5,Corporate
+ORD-949359,2023-09-19,West,Goa,Furniture,Bookcases,23459.63,3935.38,3,Home Office
+ORD-834072,2023-03-16,West,Goa,Electronics,Phones,11609.56,2250.81,1,Home Office
+ORD-830105,2023-12-03,North,Haryana,Electronics,Phones,41263.97,2779.2,3,Corporate
+ORD-774725,2022-06-14,East,Odisha,Electronics,Phones,27322.42,4551.06,1,Home Office
+ORD-216698,2022-01-24,East,Jharkhand,Office Supplies,Labels,2271.34,774.64,6,Home Office
+ORD-793528,2024-09-16,Central,Chhattisgarh,Office Supplies,Labels,1326.29,462.39,1,Corporate
+ORD-767427,2024-05-02,South,Karnataka,Electronics,Cameras,43871.86,6377.12,2,Corporate
+ORD-788673,2023-09-06,North,Rajasthan,Electronics,Laptops,150000,14099.25,6,Consumer
+ORD-744620,2024-05-29,South,Telangana,Electronics,Phones,83059.34,18087.99,2,Corporate
+ORD-738819,2023-04-15,North,Himachal Pradesh,Office Supplies,Storage Boxes,17936.09,5357.75,8,Consumer
+ORD-701744,2022-07-24,Central,Chhattisgarh,Furniture,Storage,52989.72,6855.86,8,Home Office
+ORD-170238,2023-11-30,North,Uttar Pradesh,Electronics,Phones,78377.52,5814.87,2,Consumer
+ORD-389768,2024-11-19,West,Gujarat,Electronics,Tablets,74570.85,10457.8,2,Consumer
+ORD-979960,2022-06-19,North,Delhi,Office Supplies,Pens & Stationery,4120.12,1288.91,5,Corporate
+ORD-908964,2023-12-08,West,Maharashtra,Electronics,Phones,28892.1,6705.0,1,Corporate
+ORD-485501,2024-11-17,East,Jharkhand,Furniture,Chairs,81512.07,9149.72,7,Consumer
+ORD-128128,2023-01-29,North,Haryana,Office Supplies,Envelopes,659.14,160.09,2,Home Office
+ORD-832584,2024-02-22,South,Andhra Pradesh,Electronics,Laptops,150000,16181.58,4,Corporate
+ORD-220904,2023-04-05,Central,Jammu & Kashmir,Office Supplies,Envelopes,2620.19,538.41,4,Corporate
+ORD-983696,2022-04-02,South,Telangana,Office Supplies,Storage Boxes,15604.71,2916.84,5,Consumer
+ORD-376852,2023-11-28,South,Telangana,Electronics,Cameras,131729.58,34274.57,5,Home Office
+ORD-860596,2024-03-03,North,Punjab,Electronics,Phones,73679.34,88.52,2,Corporate
+ORD-853002,2022-08-04,North,Rajasthan,Furniture,Bookcases,54412.82,2718.46,6,Corporate
+ORD-468148,2024-05-06,South,Telangana,Office Supplies,Paper,1461.31,376.44,1,Consumer
+ORD-813346,2023-12-16,South,Andhra Pradesh,Electronics,Cameras,58361.81,13782.61,4,Corporate
+ORD-527529,2022-05-19,South,Andhra Pradesh,Office Supplies,Labels,1604.8,358.28,1,Consumer
+ORD-725101,2024-04-12,North,Haryana,Furniture,Storage,9853.25,2022.9,1,Consumer
+ORD-559071,2022-09-10,East,Odisha,Electronics,Phones,87545.85,10179.11,2,Consumer
+ORD-817656,2023-05-11,South,Telangana,Furniture,Tables,18267.98,2451.52,1,Corporate
+ORD-128867,2023-12-06,South,Andhra Pradesh,Furniture,Storage,7123.65,1652.78,2,Consumer
+ORD-975187,2022-04-10,North,Punjab,Electronics,Cameras,44712.24,8519.21,2,Corporate
+ORD-457189,2023-05-18,Central,Jammu & Kashmir,Office Supplies,Scissors & Cutters,623.53,182.14,2,Consumer
+ORD-941127,2022-01-14,Central,Uttarakhand,Office Supplies,Pens & Stationery,6072.41,2094.6,9,Home Office
+ORD-544886,2024-12-21,North,Haryana,Electronics,Laptops,82198.26,-5593.89,1,Home Office
+ORD-197549,2023-10-30,Central,Chhattisgarh,Office Supplies,Scissors & Cutters,1541.38,474.5,3,Corporate
+ORD-267226,2024-11-29,West,Maharashtra,Electronics,Laptops,150000,34210.37,5,Corporate
+ORD-511358,2023-09-27,North,Delhi,Electronics,Laptops,115852.59,31963.74,2,Consumer
+ORD-182398,2022-03-26,North,Punjab,Furniture,Tables,71049.2,14911.56,7,Home Office
+ORD-478381,2023-09-02,North,Haryana,Electronics,Accessories,10390.41,3844.08,3,Corporate
+ORD-158252,2023-07-06,South,Andhra Pradesh,Electronics,Printers,6465.13,1238.14,1,Consumer
+ORD-279107,2022-04-15,West,Maharashtra,Furniture,Bookcases,11599.94,3089.91,1,Home Office
+ORD-297802,2023-02-18,Central,Jammu & Kashmir,Office Supplies,Paper,8825.7,1905.33,6,Consumer
+ORD-934269,2023-11-19,East,Odisha,Electronics,Accessories,4142.78,1411.69,1,Consumer
+ORD-765078,2024-07-31,North,Himachal Pradesh,Electronics,Accessories,9830.95,3761.3,2,Consumer
+ORD-235399,2023-12-19,South,Tamil Nadu,Office Supplies,Paper,3108.77,670.56,2,Consumer
+ORD-256651,2023-11-29,East,West Bengal,Electronics,Printers,125957.94,30226.32,6,Consumer
+ORD-730762,2024-08-13,Central,Uttarakhand,Furniture,Chairs,150000,29674.72,10,Corporate
+ORD-966884,2022-11-21,North,Uttar Pradesh,Furniture,Sofas,13380.48,-808.47,1,Consumer
+ORD-571368,2024-08-02,West,Goa,Electronics,Printers,28889.94,1163.27,2,Consumer
+ORD-584903,2024-11-28,East,Jharkhand,Electronics,Phones,50962.86,4289.16,2,Corporate
+ORD-264303,2023-04-09,East,West Bengal,Furniture,Tables,25341.38,-323.14,1,Consumer
+ORD-401025,2024-09-16,North,Punjab,Office Supplies,Labels,3249.3,909.53,2,Consumer
+ORD-722748,2022-11-11,North,Rajasthan,Electronics,Cameras,113935.91,10712.0,4,Corporate
+ORD-161496,2022-10-31,South,Tamil Nadu,Office Supplies,Paper,5531.28,1233.51,5,Consumer
+ORD-699342,2023-04-02,North,Rajasthan,Office Supplies,Pens & Stationery,1196.05,538.22,2,Consumer
+ORD-664872,2023-10-24,West,Madhya Pradesh,Office Supplies,Scissors & Cutters,10743.81,1700.16,7,Corporate
+ORD-271469,2023-09-09,West,Madhya Pradesh,Electronics,Phones,53200.93,5346.98,4,Corporate
+ORD-702563,2022-04-24,West,Madhya Pradesh,Electronics,Printers,14369.47,1141.11,2,Consumer
+ORD-372428,2023-08-05,North,Haryana,Furniture,Sofas,38213.18,-2418.39,1,Home Office
+ORD-950840,2023-07-22,South,Telangana,Office Supplies,Scissors & Cutters,7161.12,1184.95,10,Consumer
+ORD-360172,2024-11-12,North,Uttar Pradesh,Office Supplies,Paper,819.88,177.43,1,Corporate
+ORD-152925,2024-05-16,West,Gujarat,Electronics,Accessories,4181.62,704.5,7,Consumer
+ORD-157634,2023-05-11,South,Tamil Nadu,Electronics,Laptops,33584.49,-766.86,1,Corporate
+ORD-483398,2024-01-01,West,Maharashtra,Office Supplies,Pens & Stationery,3323.23,1173.99,3,Corporate
+ORD-820452,2024-03-16,South,Telangana,Electronics,Tablets,78423.43,16429.31,5,Consumer
+ORD-939683,2024-11-24,South,Karnataka,Office Supplies,Storage Boxes,17198.3,3458.78,9,Corporate
+ORD-366263,2024-08-21,West,Goa,Electronics,Phones,135097.68,16815.62,6,Corporate
+ORD-282114,2024-11-20,South,Kerala,Furniture,Chairs,69333.17,20666.23,5,Corporate
+ORD-662505,2024-06-04,South,Tamil Nadu,Furniture,Chairs,18723.12,5818.21,2,Consumer
+ORD-736604,2023-09-19,South,Andhra Pradesh,Electronics,Cameras,28667.47,4797.68,1,Home Office
+ORD-902465,2022-11-01,East,Assam,Furniture,Sofas,38738.9,4636.11,3,Consumer
+ORD-354880,2024-12-07,Central,Uttarakhand,Office Supplies,Storage Boxes,5486.91,-227.96,2,Consumer
+ORD-719930,2024-02-21,North,Rajasthan,Furniture,Tables,22326.8,-1516.36,2,Consumer
+ORD-611993,2022-11-17,West,Maharashtra,Furniture,Bookcases,27469.89,3326.7,2,Consumer
+ORD-334121,2023-03-31,North,Haryana,Office Supplies,Envelopes,3135.95,995.19,4,Home Office
+ORD-489261,2022-06-12,North,Rajasthan,Electronics,Accessories,5635.92,1114.89,2,Home Office
+ORD-454026,2022-06-22,North,Uttar Pradesh,Electronics,Cameras,120670.89,20890.59,4,Consumer
+ORD-418421,2024-06-17,Central,Chhattisgarh,Office Supplies,Paper,3438.64,530.41,2,Consumer
+ORD-592542,2024-09-03,North,Himachal Pradesh,Electronics,Accessories,6014.89,1949.29,2,Consumer
+ORD-920788,2022-11-26,South,Kerala,Furniture,Tables,8962.04,3223.06,1,Consumer
+ORD-436854,2023-12-02,Central,Jammu & Kashmir,Office Supplies,Storage Boxes,2962.13,844.94,1,Corporate
+ORD-620067,2024-09-06,North,Haryana,Electronics,Laptops,150000,21817.42,4,Consumer
+ORD-708449,2022-06-12,North,Rajasthan,Electronics,Laptops,150000,25952.69,9,Consumer
+ORD-695736,2024-04-25,North,Haryana,Electronics,Cameras,26511.18,5922.1,2,Consumer
+ORD-252328,2023-11-21,West,Madhya Pradesh,Electronics,Laptops,28351.53,6351.39,1,Consumer
+ORD-500809,2024-08-16,West,Maharashtra,Electronics,Phones,81570.94,13654.75,3,Consumer
+ORD-641676,2022-12-06,East,West Bengal,Electronics,Accessories,1504.14,-39.37,2,Corporate
+ORD-611491,2024-12-15,West,Madhya Pradesh,Furniture,Chairs,35180.05,8379.53,3,Consumer
+ORD-438647,2023-08-01,South,Karnataka,Electronics,Tablets,48530.72,9022.33,3,Corporate
+ORD-977020,2024-03-15,South,Andhra Pradesh,Electronics,Phones,19074.88,6044.11,2,Home Office
+ORD-658905,2024-04-17,South,Kerala,Furniture,Chairs,92957.64,13065.35,6,Corporate
+ORD-971177,2024-09-22,East,Odisha,Electronics,Phones,10904.2,2790.42,1,Consumer
+ORD-999537,2022-08-01,Central,Uttarakhand,Office Supplies,Storage Boxes,5204.13,1505.3,4,Consumer
+ORD-715772,2022-01-05,North,Rajasthan,Electronics,Phones,54512.84,24530.78,3,Consumer
+ORD-204949,2024-10-27,South,Tamil Nadu,Electronics,Tablets,124472.19,31661.46,5,Consumer
+ORD-596816,2022-11-09,East,Jharkhand,Furniture,Chairs,18373.45,5182.47,2,Corporate
+ORD-708828,2024-12-11,East,Odisha,Electronics,Phones,103309.67,-279.12,4,Consumer
+ORD-955449,2022-05-26,North,Delhi,Electronics,Accessories,9462.73,2225.64,2,Consumer
+ORD-515841,2023-05-10,West,Maharashtra,Electronics,Cameras,76164.58,3993.37,3,Consumer
+ORD-925025,2022-07-13,North,Uttar Pradesh,Electronics,Tablets,19865.17,2592.58,1,Consumer
+ORD-414901,2024-11-28,East,Assam,Electronics,Phones,115164.07,-1706.75,6,Home Office
+ORD-936692,2024-08-17,South,Andhra Pradesh,Office Supplies,Scissors & Cutters,5423.05,1228.31,5,Corporate
+ORD-948240,2022-07-31,West,Madhya Pradesh,Electronics,Printers,69928.84,21045.78,4,Consumer
+ORD-124773,2023-07-03,South,Kerala,Electronics,Cameras,31083.07,4883.01,2,Corporate
+ORD-795826,2023-12-03,South,Telangana,Office Supplies,Labels,1424.0,600.48,4,Consumer
+ORD-355646,2022-04-24,West,Gujarat,Electronics,Accessories,13184.91,2748.51,9,Consumer
+ORD-971861,2024-07-23,Central,Chhattisgarh,Office Supplies,Scissors & Cutters,1626.17,456.27,2,Consumer
+ORD-619370,2022-11-08,South,Telangana,Office Supplies,Scissors & Cutters,3045.53,909.04,2,Home Office
+ORD-790857,2022-07-09,South,Karnataka,Electronics,Laptops,150000,39819.13,4,Corporate
+ORD-561707,2022-09-06,North,Haryana,Furniture,Sofas,52557.37,12105.59,3,Consumer
+ORD-959423,2024-12-31,North,Uttar Pradesh,Office Supplies,Storage Boxes,27197.26,3584.07,9,Home Office
+ORD-728411,2023-05-02,South,Tamil Nadu,Office Supplies,Labels,3141.03,1187.38,2,Consumer
+ORD-974251,2022-04-23,East,Odisha,Electronics,Phones,32671.94,4162.24,1,Corporate
+ORD-216482,2022-04-24,North,Uttar Pradesh,Furniture,Sofas,64947.85,11973.0,2,Corporate
+ORD-185879,2023-04-19,East,Assam,Furniture,Tables,31206.87,-1871.17,2,Corporate
+ORD-901281,2023-03-23,North,Punjab,Furniture,Storage,34318.07,2230.92,3,Corporate
+ORD-532738,2024-05-08,South,Tamil Nadu,Office Supplies,Envelopes,2157.57,642.34,2,Consumer
+ORD-323685,2022-09-06,South,Karnataka,Office Supplies,Paper,745.06,236.72,1,Corporate
+ORD-544135,2024-11-03,Central,Jammu & Kashmir,Furniture,Storage,31798.42,6998.92,5,Consumer
+ORD-705453,2023-12-05,West,Gujarat,Office Supplies,Storage Boxes,19188.73,6451.06,5,Consumer
+ORD-711501,2023-10-04,East,Bihar,Electronics,Printers,34025.45,8611.15,2,Corporate
+ORD-865089,2022-08-26,West,Gujarat,Electronics,Accessories,3222.5,677.42,1,Consumer
+ORD-189310,2023-11-15,North,Himachal Pradesh,Furniture,Chairs,101714.12,17932.33,4,Consumer
+ORD-604870,2024-12-22,East,Odisha,Office Supplies,Envelopes,389.6,91.86,1,Consumer
+ORD-532491,2024-03-23,South,Karnataka,Electronics,Cameras,22450.06,5009.53,1,Consumer
+ORD-752726,2023-10-17,East,Assam,Office Supplies,Labels,6994.68,2023.22,4,Home Office
+ORD-994136,2023-10-09,South,Karnataka,Electronics,Accessories,892.56,199.46,1,Corporate
+ORD-510531,2024-07-22,West,Madhya Pradesh,Electronics,Tablets,60564.42,11774.92,2,Consumer
+ORD-682600,2022-11-25,South,Tamil Nadu,Furniture,Bookcases,16648.5,2089.94,2,Corporate
+ORD-253252,2022-12-07,Central,Jammu & Kashmir,Electronics,Accessories,5186.34,1254.66,1,Corporate
+ORD-650254,2023-02-20,East,Odisha,Office Supplies,Pens & Stationery,2311.16,698.95,4,Consumer
